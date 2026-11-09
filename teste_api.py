@@ -39,7 +39,6 @@ COLUNAS = [
     "data_lancamento",
     "ano",
     "generos",
-    "genero_ids",
     "nota",
     "numero_votos",
     "popularidade",
@@ -216,7 +215,6 @@ def obter_dados_filme(filme_id):
         "data_lancamento": data_lancamento,
         "ano": ano,
         "generos": ", ".join(g["name"] for g in generos),
-        "genero_ids": ", ".join(str(g["id"]) for g in generos),
         "nota": detalhes.get("vote_average"),
         "numero_votos": detalhes.get("vote_count"),
         "popularidade": detalhes.get("popularity"),
@@ -261,9 +259,6 @@ def buscar_filme_para_genero(ano, genero_id, ids_existentes):
             filme_id = str(filme["id"])
 
             if filme_id in ids_existentes:
-                continue
-
-            if genero_id not in filme.get("genre_ids", []):
                 continue
 
             dados = obter_dados_filme(filme_id)
