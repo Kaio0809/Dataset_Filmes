@@ -1,3 +1,4 @@
+
 import os
 import re
 import time
@@ -11,7 +12,7 @@ from dotenv import load_dotenv
 RAIZ = Path(__file__).resolve().parent
 load_dotenv(RAIZ / ".env")
 
-TOKEN = (os.getenv("TMDB_TOKEN")).strip()
+TOKEN = (os.getenv("TMDB_TOKEN") or "").strip()
 
 if not TOKEN:
     raise ValueError(
@@ -21,8 +22,10 @@ if not TOKEN:
 
 ANO_INICIAL = int(input('Digite o ano inicial: '))
 ANO_FINAL = int(input('Digite o ano final: '))
-FILMES_INICIAIS_POR_ANO = 50
-MAX_PAGINAS_POR_GENERO = 10
+FILMES_INICIAIS_POR_ANO = 20 if ANO_INICIAL < 1970 else 50
+MAX_PAGINAS_POR_GENERO = 20
+INTERVALO_REQUISICOES = 0.05
+SALVAR_A_CADA = 25
 IDIOMA = "pt-BR"
 
 PASTA_DADOS = RAIZ / "dados"
@@ -53,6 +56,7 @@ COLUNAS = [
     "diretores",
     "elenco_principal",
     "sinopse",
+    "poster_url",
 ]
 
 sessao = requests.Session()
@@ -85,7 +89,7 @@ def consultar_api(endpoint, params=None):
                 continue
 
             resposta.raise_for_status()
-            time.sleep(0.15)
+            time.sleep(INTERVALO_REQUISICOES)
             return resposta.json()
 
         except requests.RequestException:
@@ -115,6 +119,32 @@ def extrair_ids(valor):
         int(numero)
         for numero in re.findall(r"\d+", str(valor))
     }
+
+
+def registro_completo(dados):
+    if not dados:
+        return False
+
+    for coluna in COLUNAS:
+        valor = dados.get(coluna)
+
+        if valor is None or pd.isna(valor):
+            return False
+
+        if isinstance(valor, str) and not valor.strip():
+            return False
+
+    return True
+
+
+def linhas_completas(df):
+    verificacao = df[COLUNAS].notna().all(axis=1)
+
+    for coluna in COLUNAS:
+        if df[coluna].dtype == "object" or pd.api.types.is_string_dtype(df[coluna]):
+            verificacao &= df[coluna].astype("string").str.strip().ne("")
+
+    return verificacao
 
 
 def carregar_generos():
@@ -172,6 +202,16 @@ def carregar_base():
     df = df.drop_duplicates(subset="id_tmdb", keep="first")
     df = df[COLUNAS].reset_index(drop=True)
 
+    completos = linhas_completas(df)
+    removidos = int((~completos).sum())
+    df = df[completos].reset_index(drop=True)
+
+    if removidos:
+        print(
+            f"Registros antigos incompletos removidos: {removidos}. "
+            "Eles poderão ser coletados novamente se houver dados completos."
+        )
+
     print(f"Base anterior carregada: {caminho}")
     print(f"Filmes existentes: {len(df)}")
 
@@ -183,6 +223,8 @@ def salvar_base(df):
         subset="id_tmdb",
         keep="first",
     ).copy()
+
+    df = df[linhas_completas(df)].copy()
 
     df["ano"] = pd.to_numeric(df["ano"], errors="coerce")
     df["popularidade"] = pd.to_numeric(
@@ -196,6 +238,9 @@ def salvar_base(df):
         na_position="last",
     )
 
+    if df[COLUNAS].isna().any().any():
+        raise ValueError("A base contém valores nulos e não será salva.")
+
     df.to_csv(
         ARQUIVO_SAIDA,
         index=False,
@@ -206,14 +251,13 @@ def salvar_base(df):
 def obter_dados_filme(filme_id):
     detalhes = consultar_api(
         f"movie/{filme_id}",
-        {"language": IDIOMA},
+        {
+            "language": IDIOMA,
+            "append_to_response": "credits",
+        },
     )
 
-    creditos = consultar_api(
-        f"movie/{filme_id}/credits",
-        {"language": IDIOMA},
-    )
-
+    creditos = detalhes.get("credits", {})
     data_lancamento = detalhes.get("release_date") or ""
 
     if len(data_lancamento) >= 4:
@@ -238,35 +282,37 @@ def obter_dados_filme(filme_id):
         for pessoa in creditos.get("cast", [])[:10]
     ]
 
+    poster_path = detalhes.get("poster_path")
+
     return {
         "id_tmdb": str(detalhes["id"]),
         "titulo": detalhes.get("title"),
         "titulo_original": detalhes.get("original_title"),
         "data_lancamento": data_lancamento,
         "ano": ano,
-        "generos": ", ".join(
-            genero["name"] for genero in generos
-        ),
-        "genero_ids": ", ".join(
-            str(genero["id"]) for genero in generos
-        ),
+        "generos": ", ".join(genero["name"] for genero in generos),
+        "genero_ids": ", ".join(str(genero["id"]) for genero in generos),
         "nota": detalhes.get("vote_average"),
         "numero_votos": detalhes.get("vote_count"),
         "popularidade": detalhes.get("popularity"),
         "orcamento_usd": detalhes.get("budget"),
         "bilheteria_usd": detalhes.get("revenue"),
         "duracao_min": detalhes.get("runtime"),
-        "paises_producao": next((pais["name"] for pais in paises),""),
-        "codigos_paises": next((pais["iso_3166_1"] for pais in paises), ''),
+        "paises_producao": next((pais["name"] for pais in paises), ""),
+        "codigos_paises": next((pais["iso_3166_1"] for pais in paises), ""),
         "idioma_original": detalhes.get("original_language"),
         "diretores": ", ".join(diretores),
         "elenco_principal": ", ".join(elenco),
         "sinopse": detalhes.get("overview"),
+        "poster_url": (
+            f"https://image.tmdb.org/t/p/w500{poster_path}"
+            if poster_path else None
+        ),
     }
 
 
 def registrar_filme(df, dados, ids_existentes):
-    if dados is None:
+    if not registro_completo(dados):
         return df, False
 
     filme_id = str(dados["id_tmdb"])
@@ -283,15 +329,14 @@ def registrar_filme(df, dados, ids_existentes):
     )
 
     ids_existentes.add(filme_id)
-    salvar_base(df)
 
     return df, True
-
 
 
 def coletar_filmes_populares(df):
     ids_existentes = set(df["id_tmdb"].astype(str))
     adicionados = 0
+    pendentes_salvamento = 0
 
     for ano in range(ANO_INICIAL, ANO_FINAL + 1):
         print(f"\nColeta inicial: {ano}")
@@ -372,8 +417,17 @@ def coletar_filmes_populares(df):
                         adicionados += 1
                         novos_no_ano += 1
                         filmes_do_ano += 1
+                        pendentes_salvamento += 1
 
-                        print(f"\r  {filmes_do_ano}/{FILMES_INICIAIS_POR_ANO}", end="", flush=True)
+                        if pendentes_salvamento >= SALVAR_A_CADA:
+                            salvar_base(df)
+                            pendentes_salvamento = 0
+
+                        print(
+                            f"\r  {filmes_do_ano}/{FILMES_INICIAIS_POR_ANO}",
+                            end="",
+                            flush=True,
+                        )
 
                 except (
                     requests.RequestException,
@@ -385,6 +439,7 @@ def coletar_filmes_populares(df):
                     print(f"  Erro no filme {filme_id}: {erro}")
 
             salvar_base(df)
+            pendentes_salvamento = 0
             pagina += 1
 
         print(
@@ -400,6 +455,8 @@ def coletar_filmes_populares(df):
                 f"  Aviso: não foi possível atingir a meta de "
                 f"{FILMES_INICIAIS_POR_ANO} filmes para {ano}."
             )
+
+    salvar_base(df)
 
     print(
         f"\nColeta inicial concluída. "
@@ -472,6 +529,9 @@ def buscar_filme_para_genero(
             if genero_id not in extrair_ids(dados["genero_ids"]):
                 continue
 
+            if not registro_completo(dados):
+                continue
+
             return dados
 
         if pagina >= resultado.get("total_pages", 0):
@@ -542,7 +602,7 @@ def completar_generos_por_ano(df, generos, mapa_nome_id):
 
                 print(f"  Erro na busca: {erro}")
 
-            salvar_base(df)
+        salvar_base(df)
 
     salvar_base(df)
 
@@ -641,7 +701,7 @@ def main():
 
         print(
             "\nAlgumas buscas falharam. Consulte "
-            "data/processed/erros_coleta_generos.csv."
+            "dados/erros_coleta_generos.csv."
         )
 
 
