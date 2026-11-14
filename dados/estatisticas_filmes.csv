@@ -1,0 +1,5501 @@
+﻿ano,codigo_pais,pais,id_genero,genero,quantidade_filmes
+1900,AR,Argentina,28,Ação,0
+1900,AR,Argentina,12,Aventura,0
+1900,AR,Argentina,16,Animação,0
+1900,AR,Argentina,35,Comédia,0
+1900,AR,Argentina,80,Crime,0
+1900,AR,Argentina,99,Documentário,2
+1900,AR,Argentina,18,Drama,0
+1900,AR,Argentina,10751,Família,0
+1900,AR,Argentina,14,Fantasia,0
+1900,AR,Argentina,36,História,0
+1900,AR,Argentina,27,Terror,0
+1900,AR,Argentina,10402,Música,0
+1900,AR,Argentina,9648,Mistério,0
+1900,AR,Argentina,10749,Romance,0
+1900,AR,Argentina,878,Ficção científica,0
+1900,AR,Argentina,10770,Cinema TV,0
+1900,AR,Argentina,53,Thriller,0
+1900,AR,Argentina,10752,Guerra,0
+1900,AR,Argentina,37,Faroeste,0
+1900,AU,Australia,28,Ação,0
+1900,AU,Australia,12,Aventura,0
+1900,AU,Australia,16,Animação,0
+1900,AU,Australia,35,Comédia,0
+1900,AU,Australia,80,Crime,0
+1900,AU,Australia,99,Documentário,0
+1900,AU,Australia,18,Drama,1
+1900,AU,Australia,10751,Família,0
+1900,AU,Australia,14,Fantasia,0
+1900,AU,Australia,36,História,0
+1900,AU,Australia,27,Terror,0
+1900,AU,Australia,10402,Música,0
+1900,AU,Australia,9648,Mistério,0
+1900,AU,Australia,10749,Romance,0
+1900,AU,Australia,878,Ficção científica,0
+1900,AU,Australia,10770,Cinema TV,0
+1900,AU,Australia,53,Thriller,0
+1900,AU,Australia,10752,Guerra,0
+1900,AU,Australia,37,Faroeste,0
+1900,BR,Brazil,28,Ação,0
+1900,BR,Brazil,12,Aventura,0
+1900,BR,Brazil,16,Animação,0
+1900,BR,Brazil,35,Comédia,0
+1900,BR,Brazil,80,Crime,0
+1900,BR,Brazil,99,Documentário,1
+1900,BR,Brazil,18,Drama,0
+1900,BR,Brazil,10751,Família,0
+1900,BR,Brazil,14,Fantasia,0
+1900,BR,Brazil,36,História,0
+1900,BR,Brazil,27,Terror,0
+1900,BR,Brazil,10402,Música,0
+1900,BR,Brazil,9648,Mistério,0
+1900,BR,Brazil,10749,Romance,0
+1900,BR,Brazil,878,Ficção científica,0
+1900,BR,Brazil,10770,Cinema TV,0
+1900,BR,Brazil,53,Thriller,0
+1900,BR,Brazil,10752,Guerra,0
+1900,BR,Brazil,37,Faroeste,0
+1900,CL,Chile,28,Ação,0
+1900,CL,Chile,12,Aventura,0
+1900,CL,Chile,16,Animação,0
+1900,CL,Chile,35,Comédia,0
+1900,CL,Chile,80,Crime,0
+1900,CL,Chile,99,Documentário,0
+1900,CL,Chile,18,Drama,0
+1900,CL,Chile,10751,Família,0
+1900,CL,Chile,14,Fantasia,0
+1900,CL,Chile,36,História,0
+1900,CL,Chile,27,Terror,0
+1900,CL,Chile,10402,Música,0
+1900,CL,Chile,9648,Mistério,0
+1900,CL,Chile,10749,Romance,0
+1900,CL,Chile,878,Ficção científica,0
+1900,CL,Chile,10770,Cinema TV,0
+1900,CL,Chile,53,Thriller,0
+1900,CL,Chile,10752,Guerra,0
+1900,CL,Chile,37,Faroeste,0
+1900,DE,Germany,28,Ação,0
+1900,DE,Germany,12,Aventura,0
+1900,DE,Germany,16,Animação,0
+1900,DE,Germany,35,Comédia,0
+1900,DE,Germany,80,Crime,0
+1900,DE,Germany,99,Documentário,1
+1900,DE,Germany,18,Drama,0
+1900,DE,Germany,10751,Família,0
+1900,DE,Germany,14,Fantasia,0
+1900,DE,Germany,36,História,0
+1900,DE,Germany,27,Terror,0
+1900,DE,Germany,10402,Música,0
+1900,DE,Germany,9648,Mistério,0
+1900,DE,Germany,10749,Romance,0
+1900,DE,Germany,878,Ficção científica,0
+1900,DE,Germany,10770,Cinema TV,0
+1900,DE,Germany,53,Thriller,0
+1900,DE,Germany,10752,Guerra,0
+1900,DE,Germany,37,Faroeste,0
+1900,DK,Denmark,28,Ação,0
+1900,DK,Denmark,12,Aventura,0
+1900,DK,Denmark,16,Animação,0
+1900,DK,Denmark,35,Comédia,0
+1900,DK,Denmark,80,Crime,0
+1900,DK,Denmark,99,Documentário,1
+1900,DK,Denmark,18,Drama,0
+1900,DK,Denmark,10751,Família,0
+1900,DK,Denmark,14,Fantasia,0
+1900,DK,Denmark,36,História,0
+1900,DK,Denmark,27,Terror,0
+1900,DK,Denmark,10402,Música,0
+1900,DK,Denmark,9648,Mistério,0
+1900,DK,Denmark,10749,Romance,0
+1900,DK,Denmark,878,Ficção científica,0
+1900,DK,Denmark,10770,Cinema TV,0
+1900,DK,Denmark,53,Thriller,0
+1900,DK,Denmark,10752,Guerra,0
+1900,DK,Denmark,37,Faroeste,0
+1900,ES,Spain,28,Ação,0
+1900,ES,Spain,12,Aventura,0
+1900,ES,Spain,16,Animação,0
+1900,ES,Spain,35,Comédia,0
+1900,ES,Spain,80,Crime,0
+1900,ES,Spain,99,Documentário,3
+1900,ES,Spain,18,Drama,0
+1900,ES,Spain,10751,Família,0
+1900,ES,Spain,14,Fantasia,0
+1900,ES,Spain,36,História,0
+1900,ES,Spain,27,Terror,0
+1900,ES,Spain,10402,Música,0
+1900,ES,Spain,9648,Mistério,0
+1900,ES,Spain,10749,Romance,0
+1900,ES,Spain,878,Ficção científica,0
+1900,ES,Spain,10770,Cinema TV,0
+1900,ES,Spain,53,Thriller,0
+1900,ES,Spain,10752,Guerra,0
+1900,ES,Spain,37,Faroeste,0
+1900,FR,France,28,Ação,0
+1900,FR,France,12,Aventura,0
+1900,FR,France,16,Animação,0
+1900,FR,France,35,Comédia,31
+1900,FR,France,80,Crime,0
+1900,FR,France,99,Documentário,73
+1900,FR,France,18,Drama,3
+1900,FR,France,10751,Família,1
+1900,FR,France,14,Fantasia,11
+1900,FR,France,36,História,1
+1900,FR,France,27,Terror,2
+1900,FR,France,10402,Música,5
+1900,FR,France,9648,Mistério,0
+1900,FR,France,10749,Romance,1
+1900,FR,France,878,Ficção científica,1
+1900,FR,France,10770,Cinema TV,0
+1900,FR,France,53,Thriller,0
+1900,FR,France,10752,Guerra,1
+1900,FR,France,37,Faroeste,0
+1900,GB,United Kingdom,28,Ação,1
+1900,GB,United Kingdom,12,Aventura,0
+1900,GB,United Kingdom,16,Animação,0
+1900,GB,United Kingdom,35,Comédia,17
+1900,GB,United Kingdom,80,Crime,0
+1900,GB,United Kingdom,99,Documentário,32
+1900,GB,United Kingdom,18,Drama,10
+1900,GB,United Kingdom,10751,Família,0
+1900,GB,United Kingdom,14,Fantasia,0
+1900,GB,United Kingdom,36,História,2
+1900,GB,United Kingdom,27,Terror,2
+1900,GB,United Kingdom,10402,Música,1
+1900,GB,United Kingdom,9648,Mistério,0
+1900,GB,United Kingdom,10749,Romance,2
+1900,GB,United Kingdom,878,Ficção científica,0
+1900,GB,United Kingdom,10770,Cinema TV,0
+1900,GB,United Kingdom,53,Thriller,0
+1900,GB,United Kingdom,10752,Guerra,10
+1900,GB,United Kingdom,37,Faroeste,0
+1900,IE,Ireland,28,Ação,0
+1900,IE,Ireland,12,Aventura,0
+1900,IE,Ireland,16,Animação,0
+1900,IE,Ireland,35,Comédia,0
+1900,IE,Ireland,80,Crime,0
+1900,IE,Ireland,99,Documentário,1
+1900,IE,Ireland,18,Drama,0
+1900,IE,Ireland,10751,Família,0
+1900,IE,Ireland,14,Fantasia,0
+1900,IE,Ireland,36,História,0
+1900,IE,Ireland,27,Terror,0
+1900,IE,Ireland,10402,Música,0
+1900,IE,Ireland,9648,Mistério,0
+1900,IE,Ireland,10749,Romance,0
+1900,IE,Ireland,878,Ficção científica,0
+1900,IE,Ireland,10770,Cinema TV,0
+1900,IE,Ireland,53,Thriller,0
+1900,IE,Ireland,10752,Guerra,0
+1900,IE,Ireland,37,Faroeste,0
+1900,IR,Iran,28,Ação,0
+1900,IR,Iran,12,Aventura,0
+1900,IR,Iran,16,Animação,0
+1900,IR,Iran,35,Comédia,0
+1900,IR,Iran,80,Crime,0
+1900,IR,Iran,99,Documentário,1
+1900,IR,Iran,18,Drama,0
+1900,IR,Iran,10751,Família,0
+1900,IR,Iran,14,Fantasia,0
+1900,IR,Iran,36,História,0
+1900,IR,Iran,27,Terror,0
+1900,IR,Iran,10402,Música,0
+1900,IR,Iran,9648,Mistério,0
+1900,IR,Iran,10749,Romance,0
+1900,IR,Iran,878,Ficção científica,0
+1900,IR,Iran,10770,Cinema TV,0
+1900,IR,Iran,53,Thriller,0
+1900,IR,Iran,10752,Guerra,0
+1900,IR,Iran,37,Faroeste,0
+1900,IT,Italy,28,Ação,0
+1900,IT,Italy,12,Aventura,0
+1900,IT,Italy,16,Animação,0
+1900,IT,Italy,35,Comédia,0
+1900,IT,Italy,80,Crime,0
+1900,IT,Italy,99,Documentário,2
+1900,IT,Italy,18,Drama,0
+1900,IT,Italy,10751,Família,0
+1900,IT,Italy,14,Fantasia,0
+1900,IT,Italy,36,História,0
+1900,IT,Italy,27,Terror,0
+1900,IT,Italy,10402,Música,0
+1900,IT,Italy,9648,Mistério,0
+1900,IT,Italy,10749,Romance,0
+1900,IT,Italy,878,Ficção científica,0
+1900,IT,Italy,10770,Cinema TV,0
+1900,IT,Italy,53,Thriller,0
+1900,IT,Italy,10752,Guerra,0
+1900,IT,Italy,37,Faroeste,0
+1900,JP,Japan,28,Ação,0
+1900,JP,Japan,12,Aventura,0
+1900,JP,Japan,16,Animação,0
+1900,JP,Japan,35,Comédia,0
+1900,JP,Japan,80,Crime,0
+1900,JP,Japan,99,Documentário,0
+1900,JP,Japan,18,Drama,0
+1900,JP,Japan,10751,Família,0
+1900,JP,Japan,14,Fantasia,0
+1900,JP,Japan,36,História,0
+1900,JP,Japan,27,Terror,0
+1900,JP,Japan,10402,Música,0
+1900,JP,Japan,9648,Mistério,0
+1900,JP,Japan,10749,Romance,0
+1900,JP,Japan,878,Ficção científica,0
+1900,JP,Japan,10770,Cinema TV,0
+1900,JP,Japan,53,Thriller,0
+1900,JP,Japan,10752,Guerra,0
+1900,JP,Japan,37,Faroeste,0
+1900,NL,Netherlands,28,Ação,0
+1900,NL,Netherlands,12,Aventura,0
+1900,NL,Netherlands,16,Animação,0
+1900,NL,Netherlands,35,Comédia,1
+1900,NL,Netherlands,80,Crime,0
+1900,NL,Netherlands,99,Documentário,4
+1900,NL,Netherlands,18,Drama,0
+1900,NL,Netherlands,10751,Família,0
+1900,NL,Netherlands,14,Fantasia,0
+1900,NL,Netherlands,36,História,0
+1900,NL,Netherlands,27,Terror,0
+1900,NL,Netherlands,10402,Música,0
+1900,NL,Netherlands,9648,Mistério,0
+1900,NL,Netherlands,10749,Romance,0
+1900,NL,Netherlands,878,Ficção científica,0
+1900,NL,Netherlands,10770,Cinema TV,0
+1900,NL,Netherlands,53,Thriller,0
+1900,NL,Netherlands,10752,Guerra,0
+1900,NL,Netherlands,37,Faroeste,0
+1900,NZ,New Zealand,28,Ação,0
+1900,NZ,New Zealand,12,Aventura,0
+1900,NZ,New Zealand,16,Animação,0
+1900,NZ,New Zealand,35,Comédia,0
+1900,NZ,New Zealand,80,Crime,0
+1900,NZ,New Zealand,99,Documentário,0
+1900,NZ,New Zealand,18,Drama,0
+1900,NZ,New Zealand,10751,Família,0
+1900,NZ,New Zealand,14,Fantasia,0
+1900,NZ,New Zealand,36,História,0
+1900,NZ,New Zealand,27,Terror,0
+1900,NZ,New Zealand,10402,Música,0
+1900,NZ,New Zealand,9648,Mistério,0
+1900,NZ,New Zealand,10749,Romance,0
+1900,NZ,New Zealand,878,Ficção científica,0
+1900,NZ,New Zealand,10770,Cinema TV,0
+1900,NZ,New Zealand,53,Thriller,0
+1900,NZ,New Zealand,10752,Guerra,0
+1900,NZ,New Zealand,37,Faroeste,0
+1900,SE,Sweden,28,Ação,0
+1900,SE,Sweden,12,Aventura,0
+1900,SE,Sweden,16,Animação,0
+1900,SE,Sweden,35,Comédia,0
+1900,SE,Sweden,80,Crime,0
+1900,SE,Sweden,99,Documentário,0
+1900,SE,Sweden,18,Drama,0
+1900,SE,Sweden,10751,Família,0
+1900,SE,Sweden,14,Fantasia,0
+1900,SE,Sweden,36,História,0
+1900,SE,Sweden,27,Terror,0
+1900,SE,Sweden,10402,Música,0
+1900,SE,Sweden,9648,Mistério,0
+1900,SE,Sweden,10749,Romance,0
+1900,SE,Sweden,878,Ficção científica,0
+1900,SE,Sweden,10770,Cinema TV,0
+1900,SE,Sweden,53,Thriller,0
+1900,SE,Sweden,10752,Guerra,0
+1900,SE,Sweden,37,Faroeste,0
+1900,US,United States of America,28,Ação,2
+1900,US,United States of America,12,Aventura,0
+1900,US,United States of America,16,Animação,1
+1900,US,United States of America,35,Comédia,40
+1900,US,United States of America,80,Crime,3
+1900,US,United States of America,99,Documentário,80
+1900,US,United States of America,18,Drama,10
+1900,US,United States of America,10751,Família,0
+1900,US,United States of America,14,Fantasia,12
+1900,US,United States of America,36,História,3
+1900,US,United States of America,27,Terror,6
+1900,US,United States of America,10402,Música,1
+1900,US,United States of America,9648,Mistério,1
+1900,US,United States of America,10749,Romance,2
+1900,US,United States of America,878,Ficção científica,1
+1900,US,United States of America,10770,Cinema TV,0
+1900,US,United States of America,53,Thriller,1
+1900,US,United States of America,10752,Guerra,12
+1900,US,United States of America,37,Faroeste,0
+1900,UY,Uruguay,28,Ação,0
+1900,UY,Uruguay,12,Aventura,0
+1900,UY,Uruguay,16,Animação,0
+1900,UY,Uruguay,35,Comédia,0
+1900,UY,Uruguay,80,Crime,0
+1900,UY,Uruguay,99,Documentário,0
+1900,UY,Uruguay,18,Drama,0
+1900,UY,Uruguay,10751,Família,0
+1900,UY,Uruguay,14,Fantasia,0
+1900,UY,Uruguay,36,História,0
+1900,UY,Uruguay,27,Terror,0
+1900,UY,Uruguay,10402,Música,0
+1900,UY,Uruguay,9648,Mistério,0
+1900,UY,Uruguay,10749,Romance,0
+1900,UY,Uruguay,878,Ficção científica,0
+1900,UY,Uruguay,10770,Cinema TV,0
+1900,UY,Uruguay,53,Thriller,0
+1900,UY,Uruguay,10752,Guerra,0
+1900,UY,Uruguay,37,Faroeste,0
+1900,ZA,South Africa,28,Ação,0
+1900,ZA,South Africa,12,Aventura,0
+1900,ZA,South Africa,16,Animação,0
+1900,ZA,South Africa,35,Comédia,0
+1900,ZA,South Africa,80,Crime,0
+1900,ZA,South Africa,99,Documentário,1
+1900,ZA,South Africa,18,Drama,0
+1900,ZA,South Africa,10751,Família,0
+1900,ZA,South Africa,14,Fantasia,0
+1900,ZA,South Africa,36,História,0
+1900,ZA,South Africa,27,Terror,0
+1900,ZA,South Africa,10402,Música,0
+1900,ZA,South Africa,9648,Mistério,0
+1900,ZA,South Africa,10749,Romance,0
+1900,ZA,South Africa,878,Ficção científica,0
+1900,ZA,South Africa,10770,Cinema TV,0
+1900,ZA,South Africa,53,Thriller,0
+1900,ZA,South Africa,10752,Guerra,0
+1900,ZA,South Africa,37,Faroeste,0
+1901,AR,Argentina,28,Ação,0
+1901,AR,Argentina,12,Aventura,0
+1901,AR,Argentina,16,Animação,0
+1901,AR,Argentina,35,Comédia,0
+1901,AR,Argentina,80,Crime,0
+1901,AR,Argentina,99,Documentário,5
+1901,AR,Argentina,18,Drama,0
+1901,AR,Argentina,10751,Família,0
+1901,AR,Argentina,14,Fantasia,0
+1901,AR,Argentina,36,História,0
+1901,AR,Argentina,27,Terror,0
+1901,AR,Argentina,10402,Música,0
+1901,AR,Argentina,9648,Mistério,0
+1901,AR,Argentina,10749,Romance,0
+1901,AR,Argentina,878,Ficção científica,0
+1901,AR,Argentina,10770,Cinema TV,0
+1901,AR,Argentina,53,Thriller,0
+1901,AR,Argentina,10752,Guerra,0
+1901,AR,Argentina,37,Faroeste,0
+1901,AU,Australia,28,Ação,0
+1901,AU,Australia,12,Aventura,0
+1901,AU,Australia,16,Animação,0
+1901,AU,Australia,35,Comédia,0
+1901,AU,Australia,80,Crime,0
+1901,AU,Australia,99,Documentário,1
+1901,AU,Australia,18,Drama,0
+1901,AU,Australia,10751,Família,0
+1901,AU,Australia,14,Fantasia,0
+1901,AU,Australia,36,História,0
+1901,AU,Australia,27,Terror,0
+1901,AU,Australia,10402,Música,0
+1901,AU,Australia,9648,Mistério,0
+1901,AU,Australia,10749,Romance,0
+1901,AU,Australia,878,Ficção científica,0
+1901,AU,Australia,10770,Cinema TV,0
+1901,AU,Australia,53,Thriller,0
+1901,AU,Australia,10752,Guerra,0
+1901,AU,Australia,37,Faroeste,0
+1901,DE,Germany,28,Ação,0
+1901,DE,Germany,12,Aventura,0
+1901,DE,Germany,16,Animação,0
+1901,DE,Germany,35,Comédia,0
+1901,DE,Germany,80,Crime,0
+1901,DE,Germany,99,Documentário,1
+1901,DE,Germany,18,Drama,0
+1901,DE,Germany,10751,Família,0
+1901,DE,Germany,14,Fantasia,0
+1901,DE,Germany,36,História,0
+1901,DE,Germany,27,Terror,0
+1901,DE,Germany,10402,Música,0
+1901,DE,Germany,9648,Mistério,0
+1901,DE,Germany,10749,Romance,0
+1901,DE,Germany,878,Ficção científica,0
+1901,DE,Germany,10770,Cinema TV,0
+1901,DE,Germany,53,Thriller,0
+1901,DE,Germany,10752,Guerra,0
+1901,DE,Germany,37,Faroeste,0
+1901,DK,Denmark,28,Ação,0
+1901,DK,Denmark,12,Aventura,0
+1901,DK,Denmark,16,Animação,0
+1901,DK,Denmark,35,Comédia,0
+1901,DK,Denmark,80,Crime,0
+1901,DK,Denmark,99,Documentário,3
+1901,DK,Denmark,18,Drama,0
+1901,DK,Denmark,10751,Família,0
+1901,DK,Denmark,14,Fantasia,0
+1901,DK,Denmark,36,História,0
+1901,DK,Denmark,27,Terror,0
+1901,DK,Denmark,10402,Música,0
+1901,DK,Denmark,9648,Mistério,0
+1901,DK,Denmark,10749,Romance,0
+1901,DK,Denmark,878,Ficção científica,0
+1901,DK,Denmark,10770,Cinema TV,0
+1901,DK,Denmark,53,Thriller,0
+1901,DK,Denmark,10752,Guerra,0
+1901,DK,Denmark,37,Faroeste,0
+1901,ES,Spain,28,Ação,0
+1901,ES,Spain,12,Aventura,0
+1901,ES,Spain,16,Animação,0
+1901,ES,Spain,35,Comédia,0
+1901,ES,Spain,80,Crime,0
+1901,ES,Spain,99,Documentário,2
+1901,ES,Spain,18,Drama,0
+1901,ES,Spain,10751,Família,0
+1901,ES,Spain,14,Fantasia,0
+1901,ES,Spain,36,História,0
+1901,ES,Spain,27,Terror,0
+1901,ES,Spain,10402,Música,0
+1901,ES,Spain,9648,Mistério,0
+1901,ES,Spain,10749,Romance,0
+1901,ES,Spain,878,Ficção científica,0
+1901,ES,Spain,10770,Cinema TV,0
+1901,ES,Spain,53,Thriller,0
+1901,ES,Spain,10752,Guerra,0
+1901,ES,Spain,37,Faroeste,0
+1901,FR,France,28,Ação,0
+1901,FR,France,12,Aventura,1
+1901,FR,France,16,Animação,0
+1901,FR,France,35,Comédia,28
+1901,FR,France,80,Crime,1
+1901,FR,France,99,Documentário,18
+1901,FR,France,18,Drama,7
+1901,FR,France,10751,Família,0
+1901,FR,France,14,Fantasia,22
+1901,FR,France,36,História,0
+1901,FR,France,27,Terror,3
+1901,FR,France,10402,Música,2
+1901,FR,France,9648,Mistério,0
+1901,FR,France,10749,Romance,1
+1901,FR,France,878,Ficção científica,1
+1901,FR,France,10770,Cinema TV,0
+1901,FR,France,53,Thriller,0
+1901,FR,France,10752,Guerra,0
+1901,FR,France,37,Faroeste,0
+1901,GB,United Kingdom,28,Ação,2
+1901,GB,United Kingdom,12,Aventura,1
+1901,GB,United Kingdom,16,Animação,0
+1901,GB,United Kingdom,35,Comédia,17
+1901,GB,United Kingdom,80,Crime,3
+1901,GB,United Kingdom,99,Documentário,113
+1901,GB,United Kingdom,18,Drama,5
+1901,GB,United Kingdom,10751,Família,1
+1901,GB,United Kingdom,14,Fantasia,6
+1901,GB,United Kingdom,36,História,0
+1901,GB,United Kingdom,27,Terror,1
+1901,GB,United Kingdom,10402,Música,0
+1901,GB,United Kingdom,9648,Mistério,0
+1901,GB,United Kingdom,10749,Romance,1
+1901,GB,United Kingdom,878,Ficção científica,1
+1901,GB,United Kingdom,10770,Cinema TV,0
+1901,GB,United Kingdom,53,Thriller,0
+1901,GB,United Kingdom,10752,Guerra,1
+1901,GB,United Kingdom,37,Faroeste,1
+1901,HU,Hungary,28,Ação,0
+1901,HU,Hungary,12,Aventura,0
+1901,HU,Hungary,16,Animação,0
+1901,HU,Hungary,35,Comédia,0
+1901,HU,Hungary,80,Crime,0
+1901,HU,Hungary,99,Documentário,0
+1901,HU,Hungary,18,Drama,0
+1901,HU,Hungary,10751,Família,0
+1901,HU,Hungary,14,Fantasia,0
+1901,HU,Hungary,36,História,0
+1901,HU,Hungary,27,Terror,0
+1901,HU,Hungary,10402,Música,0
+1901,HU,Hungary,9648,Mistério,0
+1901,HU,Hungary,10749,Romance,0
+1901,HU,Hungary,878,Ficção científica,0
+1901,HU,Hungary,10770,Cinema TV,0
+1901,HU,Hungary,53,Thriller,0
+1901,HU,Hungary,10752,Guerra,0
+1901,HU,Hungary,37,Faroeste,0
+1901,IN,India,28,Ação,0
+1901,IN,India,12,Aventura,0
+1901,IN,India,16,Animação,0
+1901,IN,India,35,Comédia,0
+1901,IN,India,80,Crime,0
+1901,IN,India,99,Documentário,2
+1901,IN,India,18,Drama,0
+1901,IN,India,10751,Família,0
+1901,IN,India,14,Fantasia,0
+1901,IN,India,36,História,0
+1901,IN,India,27,Terror,0
+1901,IN,India,10402,Música,0
+1901,IN,India,9648,Mistério,0
+1901,IN,India,10749,Romance,0
+1901,IN,India,878,Ficção científica,0
+1901,IN,India,10770,Cinema TV,0
+1901,IN,India,53,Thriller,0
+1901,IN,India,10752,Guerra,0
+1901,IN,India,37,Faroeste,0
+1901,IR,Iran,28,Ação,0
+1901,IR,Iran,12,Aventura,0
+1901,IR,Iran,16,Animação,0
+1901,IR,Iran,35,Comédia,1
+1901,IR,Iran,80,Crime,0
+1901,IR,Iran,99,Documentário,4
+1901,IR,Iran,18,Drama,1
+1901,IR,Iran,10751,Família,0
+1901,IR,Iran,14,Fantasia,0
+1901,IR,Iran,36,História,0
+1901,IR,Iran,27,Terror,0
+1901,IR,Iran,10402,Música,0
+1901,IR,Iran,9648,Mistério,0
+1901,IR,Iran,10749,Romance,0
+1901,IR,Iran,878,Ficção científica,0
+1901,IR,Iran,10770,Cinema TV,0
+1901,IR,Iran,53,Thriller,0
+1901,IR,Iran,10752,Guerra,0
+1901,IR,Iran,37,Faroeste,0
+1901,IT,Italy,28,Ação,0
+1901,IT,Italy,12,Aventura,0
+1901,IT,Italy,16,Animação,0
+1901,IT,Italy,35,Comédia,0
+1901,IT,Italy,80,Crime,0
+1901,IT,Italy,99,Documentário,1
+1901,IT,Italy,18,Drama,0
+1901,IT,Italy,10751,Família,0
+1901,IT,Italy,14,Fantasia,0
+1901,IT,Italy,36,História,0
+1901,IT,Italy,27,Terror,0
+1901,IT,Italy,10402,Música,0
+1901,IT,Italy,9648,Mistério,0
+1901,IT,Italy,10749,Romance,0
+1901,IT,Italy,878,Ficção científica,0
+1901,IT,Italy,10770,Cinema TV,0
+1901,IT,Italy,53,Thriller,0
+1901,IT,Italy,10752,Guerra,0
+1901,IT,Italy,37,Faroeste,0
+1901,NL,Netherlands,28,Ação,0
+1901,NL,Netherlands,12,Aventura,0
+1901,NL,Netherlands,16,Animação,0
+1901,NL,Netherlands,35,Comédia,0
+1901,NL,Netherlands,80,Crime,0
+1901,NL,Netherlands,99,Documentário,3
+1901,NL,Netherlands,18,Drama,0
+1901,NL,Netherlands,10751,Família,0
+1901,NL,Netherlands,14,Fantasia,0
+1901,NL,Netherlands,36,História,0
+1901,NL,Netherlands,27,Terror,0
+1901,NL,Netherlands,10402,Música,0
+1901,NL,Netherlands,9648,Mistério,0
+1901,NL,Netherlands,10749,Romance,0
+1901,NL,Netherlands,878,Ficção científica,0
+1901,NL,Netherlands,10770,Cinema TV,0
+1901,NL,Netherlands,53,Thriller,0
+1901,NL,Netherlands,10752,Guerra,0
+1901,NL,Netherlands,37,Faroeste,0
+1901,SE,Sweden,28,Ação,0
+1901,SE,Sweden,12,Aventura,0
+1901,SE,Sweden,16,Animação,0
+1901,SE,Sweden,35,Comédia,0
+1901,SE,Sweden,80,Crime,0
+1901,SE,Sweden,99,Documentário,1
+1901,SE,Sweden,18,Drama,0
+1901,SE,Sweden,10751,Família,0
+1901,SE,Sweden,14,Fantasia,0
+1901,SE,Sweden,36,História,0
+1901,SE,Sweden,27,Terror,0
+1901,SE,Sweden,10402,Música,0
+1901,SE,Sweden,9648,Mistério,0
+1901,SE,Sweden,10749,Romance,0
+1901,SE,Sweden,878,Ficção científica,0
+1901,SE,Sweden,10770,Cinema TV,0
+1901,SE,Sweden,53,Thriller,0
+1901,SE,Sweden,10752,Guerra,0
+1901,SE,Sweden,37,Faroeste,0
+1901,US,United States of America,28,Ação,0
+1901,US,United States of America,12,Aventura,0
+1901,US,United States of America,16,Animação,0
+1901,US,United States of America,35,Comédia,32
+1901,US,United States of America,80,Crime,0
+1901,US,United States of America,99,Documentário,94
+1901,US,United States of America,18,Drama,3
+1901,US,United States of America,10751,Família,1
+1901,US,United States of America,14,Fantasia,9
+1901,US,United States of America,36,História,3
+1901,US,United States of America,27,Terror,0
+1901,US,United States of America,10402,Música,0
+1901,US,United States of America,9648,Mistério,0
+1901,US,United States of America,10749,Romance,1
+1901,US,United States of America,878,Ficção científica,0
+1901,US,United States of America,10770,Cinema TV,0
+1901,US,United States of America,53,Thriller,0
+1901,US,United States of America,10752,Guerra,0
+1901,US,United States of America,37,Faroeste,0
+1902,AR,Argentina,28,Ação,0
+1902,AR,Argentina,12,Aventura,0
+1902,AR,Argentina,16,Animação,0
+1902,AR,Argentina,35,Comédia,0
+1902,AR,Argentina,80,Crime,0
+1902,AR,Argentina,99,Documentário,2
+1902,AR,Argentina,18,Drama,0
+1902,AR,Argentina,10751,Família,0
+1902,AR,Argentina,14,Fantasia,0
+1902,AR,Argentina,36,História,0
+1902,AR,Argentina,27,Terror,0
+1902,AR,Argentina,10402,Música,0
+1902,AR,Argentina,9648,Mistério,0
+1902,AR,Argentina,10749,Romance,0
+1902,AR,Argentina,878,Ficção científica,0
+1902,AR,Argentina,10770,Cinema TV,0
+1902,AR,Argentina,53,Thriller,0
+1902,AR,Argentina,10752,Guerra,0
+1902,AR,Argentina,37,Faroeste,0
+1902,CH,Switzerland,28,Ação,0
+1902,CH,Switzerland,12,Aventura,0
+1902,CH,Switzerland,16,Animação,0
+1902,CH,Switzerland,35,Comédia,0
+1902,CH,Switzerland,80,Crime,0
+1902,CH,Switzerland,99,Documentário,1
+1902,CH,Switzerland,18,Drama,0
+1902,CH,Switzerland,10751,Família,0
+1902,CH,Switzerland,14,Fantasia,0
+1902,CH,Switzerland,36,História,0
+1902,CH,Switzerland,27,Terror,0
+1902,CH,Switzerland,10402,Música,0
+1902,CH,Switzerland,9648,Mistério,0
+1902,CH,Switzerland,10749,Romance,0
+1902,CH,Switzerland,878,Ficção científica,0
+1902,CH,Switzerland,10770,Cinema TV,0
+1902,CH,Switzerland,53,Thriller,0
+1902,CH,Switzerland,10752,Guerra,0
+1902,CH,Switzerland,37,Faroeste,0
+1902,CL,Chile,28,Ação,0
+1902,CL,Chile,12,Aventura,0
+1902,CL,Chile,16,Animação,0
+1902,CL,Chile,35,Comédia,0
+1902,CL,Chile,80,Crime,0
+1902,CL,Chile,99,Documentário,2
+1902,CL,Chile,18,Drama,0
+1902,CL,Chile,10751,Família,0
+1902,CL,Chile,14,Fantasia,0
+1902,CL,Chile,36,História,0
+1902,CL,Chile,27,Terror,0
+1902,CL,Chile,10402,Música,0
+1902,CL,Chile,9648,Mistério,0
+1902,CL,Chile,10749,Romance,0
+1902,CL,Chile,878,Ficção científica,0
+1902,CL,Chile,10770,Cinema TV,0
+1902,CL,Chile,53,Thriller,0
+1902,CL,Chile,10752,Guerra,0
+1902,CL,Chile,37,Faroeste,0
+1902,CN,China,28,Ação,0
+1902,CN,China,12,Aventura,0
+1902,CN,China,16,Animação,0
+1902,CN,China,35,Comédia,0
+1902,CN,China,80,Crime,0
+1902,CN,China,99,Documentário,1
+1902,CN,China,18,Drama,0
+1902,CN,China,10751,Família,0
+1902,CN,China,14,Fantasia,0
+1902,CN,China,36,História,0
+1902,CN,China,27,Terror,0
+1902,CN,China,10402,Música,0
+1902,CN,China,9648,Mistério,0
+1902,CN,China,10749,Romance,0
+1902,CN,China,878,Ficção científica,0
+1902,CN,China,10770,Cinema TV,0
+1902,CN,China,53,Thriller,0
+1902,CN,China,10752,Guerra,0
+1902,CN,China,37,Faroeste,0
+1902,DE,Germany,28,Ação,0
+1902,DE,Germany,12,Aventura,0
+1902,DE,Germany,16,Animação,0
+1902,DE,Germany,35,Comédia,0
+1902,DE,Germany,80,Crime,0
+1902,DE,Germany,99,Documentário,4
+1902,DE,Germany,18,Drama,0
+1902,DE,Germany,10751,Família,0
+1902,DE,Germany,14,Fantasia,0
+1902,DE,Germany,36,História,0
+1902,DE,Germany,27,Terror,0
+1902,DE,Germany,10402,Música,0
+1902,DE,Germany,9648,Mistério,0
+1902,DE,Germany,10749,Romance,0
+1902,DE,Germany,878,Ficção científica,0
+1902,DE,Germany,10770,Cinema TV,0
+1902,DE,Germany,53,Thriller,0
+1902,DE,Germany,10752,Guerra,0
+1902,DE,Germany,37,Faroeste,0
+1902,DK,Denmark,28,Ação,0
+1902,DK,Denmark,12,Aventura,0
+1902,DK,Denmark,16,Animação,0
+1902,DK,Denmark,35,Comédia,0
+1902,DK,Denmark,80,Crime,0
+1902,DK,Denmark,99,Documentário,8
+1902,DK,Denmark,18,Drama,0
+1902,DK,Denmark,10751,Família,0
+1902,DK,Denmark,14,Fantasia,0
+1902,DK,Denmark,36,História,0
+1902,DK,Denmark,27,Terror,0
+1902,DK,Denmark,10402,Música,0
+1902,DK,Denmark,9648,Mistério,0
+1902,DK,Denmark,10749,Romance,0
+1902,DK,Denmark,878,Ficção científica,0
+1902,DK,Denmark,10770,Cinema TV,0
+1902,DK,Denmark,53,Thriller,0
+1902,DK,Denmark,10752,Guerra,0
+1902,DK,Denmark,37,Faroeste,0
+1902,ES,Spain,28,Ação,0
+1902,ES,Spain,12,Aventura,0
+1902,ES,Spain,16,Animação,0
+1902,ES,Spain,35,Comédia,0
+1902,ES,Spain,80,Crime,0
+1902,ES,Spain,99,Documentário,5
+1902,ES,Spain,18,Drama,0
+1902,ES,Spain,10751,Família,0
+1902,ES,Spain,14,Fantasia,0
+1902,ES,Spain,36,História,0
+1902,ES,Spain,27,Terror,0
+1902,ES,Spain,10402,Música,0
+1902,ES,Spain,9648,Mistério,0
+1902,ES,Spain,10749,Romance,0
+1902,ES,Spain,878,Ficção científica,0
+1902,ES,Spain,10770,Cinema TV,0
+1902,ES,Spain,53,Thriller,0
+1902,ES,Spain,10752,Guerra,0
+1902,ES,Spain,37,Faroeste,0
+1902,FR,France,28,Ação,0
+1902,FR,France,12,Aventura,3
+1902,FR,France,16,Animação,0
+1902,FR,France,35,Comédia,28
+1902,FR,France,80,Crime,0
+1902,FR,France,99,Documentário,20
+1902,FR,France,18,Drama,10
+1902,FR,France,10751,Família,1
+1902,FR,France,14,Fantasia,22
+1902,FR,France,36,História,3
+1902,FR,France,27,Terror,3
+1902,FR,France,10402,Música,4
+1902,FR,France,9648,Mistério,0
+1902,FR,France,10749,Romance,1
+1902,FR,France,878,Ficção científica,1
+1902,FR,France,10770,Cinema TV,0
+1902,FR,France,53,Thriller,0
+1902,FR,France,10752,Guerra,0
+1902,FR,France,37,Faroeste,0
+1902,GB,United Kingdom,28,Ação,2
+1902,GB,United Kingdom,12,Aventura,0
+1902,GB,United Kingdom,16,Animação,0
+1902,GB,United Kingdom,35,Comédia,8
+1902,GB,United Kingdom,80,Crime,2
+1902,GB,United Kingdom,99,Documentário,106
+1902,GB,United Kingdom,18,Drama,6
+1902,GB,United Kingdom,10751,Família,0
+1902,GB,United Kingdom,14,Fantasia,2
+1902,GB,United Kingdom,36,História,0
+1902,GB,United Kingdom,27,Terror,1
+1902,GB,United Kingdom,10402,Música,0
+1902,GB,United Kingdom,9648,Mistério,0
+1902,GB,United Kingdom,10749,Romance,0
+1902,GB,United Kingdom,878,Ficção científica,0
+1902,GB,United Kingdom,10770,Cinema TV,0
+1902,GB,United Kingdom,53,Thriller,0
+1902,GB,United Kingdom,10752,Guerra,2
+1902,GB,United Kingdom,37,Faroeste,0
+1902,IN,India,28,Ação,0
+1902,IN,India,12,Aventura,0
+1902,IN,India,16,Animação,0
+1902,IN,India,35,Comédia,0
+1902,IN,India,80,Crime,0
+1902,IN,India,99,Documentário,2
+1902,IN,India,18,Drama,0
+1902,IN,India,10751,Família,0
+1902,IN,India,14,Fantasia,0
+1902,IN,India,36,História,0
+1902,IN,India,27,Terror,0
+1902,IN,India,10402,Música,0
+1902,IN,India,9648,Mistério,0
+1902,IN,India,10749,Romance,0
+1902,IN,India,878,Ficção científica,0
+1902,IN,India,10770,Cinema TV,0
+1902,IN,India,53,Thriller,0
+1902,IN,India,10752,Guerra,0
+1902,IN,India,37,Faroeste,0
+1902,IR,Iran,28,Ação,0
+1902,IR,Iran,12,Aventura,0
+1902,IR,Iran,16,Animação,0
+1902,IR,Iran,35,Comédia,0
+1902,IR,Iran,80,Crime,0
+1902,IR,Iran,99,Documentário,1
+1902,IR,Iran,18,Drama,0
+1902,IR,Iran,10751,Família,0
+1902,IR,Iran,14,Fantasia,0
+1902,IR,Iran,36,História,0
+1902,IR,Iran,27,Terror,0
+1902,IR,Iran,10402,Música,0
+1902,IR,Iran,9648,Mistério,0
+1902,IR,Iran,10749,Romance,0
+1902,IR,Iran,878,Ficção científica,0
+1902,IR,Iran,10770,Cinema TV,0
+1902,IR,Iran,53,Thriller,0
+1902,IR,Iran,10752,Guerra,0
+1902,IR,Iran,37,Faroeste,0
+1902,PL,Poland,28,Ação,0
+1902,PL,Poland,12,Aventura,0
+1902,PL,Poland,16,Animação,0
+1902,PL,Poland,35,Comédia,2
+1902,PL,Poland,80,Crime,0
+1902,PL,Poland,99,Documentário,1
+1902,PL,Poland,18,Drama,0
+1902,PL,Poland,10751,Família,0
+1902,PL,Poland,14,Fantasia,0
+1902,PL,Poland,36,História,0
+1902,PL,Poland,27,Terror,0
+1902,PL,Poland,10402,Música,0
+1902,PL,Poland,9648,Mistério,0
+1902,PL,Poland,10749,Romance,0
+1902,PL,Poland,878,Ficção científica,0
+1902,PL,Poland,10770,Cinema TV,0
+1902,PL,Poland,53,Thriller,0
+1902,PL,Poland,10752,Guerra,0
+1902,PL,Poland,37,Faroeste,0
+1902,RU,Russia,28,Ação,0
+1902,RU,Russia,12,Aventura,0
+1902,RU,Russia,16,Animação,0
+1902,RU,Russia,35,Comédia,1
+1902,RU,Russia,80,Crime,0
+1902,RU,Russia,99,Documentário,0
+1902,RU,Russia,18,Drama,0
+1902,RU,Russia,10751,Família,0
+1902,RU,Russia,14,Fantasia,0
+1902,RU,Russia,36,História,0
+1902,RU,Russia,27,Terror,0
+1902,RU,Russia,10402,Música,0
+1902,RU,Russia,9648,Mistério,0
+1902,RU,Russia,10749,Romance,0
+1902,RU,Russia,878,Ficção científica,0
+1902,RU,Russia,10770,Cinema TV,0
+1902,RU,Russia,53,Thriller,0
+1902,RU,Russia,10752,Guerra,0
+1902,RU,Russia,37,Faroeste,0
+1902,US,United States of America,28,Ação,1
+1902,US,United States of America,12,Aventura,1
+1902,US,United States of America,16,Animação,0
+1902,US,United States of America,35,Comédia,22
+1902,US,United States of America,80,Crime,2
+1902,US,United States of America,99,Documentário,50
+1902,US,United States of America,18,Drama,7
+1902,US,United States of America,10751,Família,1
+1902,US,United States of America,14,Fantasia,3
+1902,US,United States of America,36,História,2
+1902,US,United States of America,27,Terror,0
+1902,US,United States of America,10402,Música,0
+1902,US,United States of America,9648,Mistério,0
+1902,US,United States of America,10749,Romance,0
+1902,US,United States of America,878,Ficção científica,1
+1902,US,United States of America,10770,Cinema TV,0
+1902,US,United States of America,53,Thriller,1
+1902,US,United States of America,10752,Guerra,0
+1902,US,United States of America,37,Faroeste,0
+1902,UY,Uruguay,28,Ação,0
+1902,UY,Uruguay,12,Aventura,0
+1902,UY,Uruguay,16,Animação,0
+1902,UY,Uruguay,35,Comédia,0
+1902,UY,Uruguay,80,Crime,0
+1902,UY,Uruguay,99,Documentário,1
+1902,UY,Uruguay,18,Drama,0
+1902,UY,Uruguay,10751,Família,0
+1902,UY,Uruguay,14,Fantasia,0
+1902,UY,Uruguay,36,História,0
+1902,UY,Uruguay,27,Terror,0
+1902,UY,Uruguay,10402,Música,0
+1902,UY,Uruguay,9648,Mistério,0
+1902,UY,Uruguay,10749,Romance,0
+1902,UY,Uruguay,878,Ficção científica,0
+1902,UY,Uruguay,10770,Cinema TV,0
+1902,UY,Uruguay,53,Thriller,0
+1902,UY,Uruguay,10752,Guerra,0
+1902,UY,Uruguay,37,Faroeste,0
+1903,AR,Argentina,28,Ação,0
+1903,AR,Argentina,12,Aventura,0
+1903,AR,Argentina,16,Animação,0
+1903,AR,Argentina,35,Comédia,0
+1903,AR,Argentina,80,Crime,0
+1903,AR,Argentina,99,Documentário,1
+1903,AR,Argentina,18,Drama,0
+1903,AR,Argentina,10751,Família,0
+1903,AR,Argentina,14,Fantasia,0
+1903,AR,Argentina,36,História,0
+1903,AR,Argentina,27,Terror,0
+1903,AR,Argentina,10402,Música,0
+1903,AR,Argentina,9648,Mistério,0
+1903,AR,Argentina,10749,Romance,0
+1903,AR,Argentina,878,Ficção científica,0
+1903,AR,Argentina,10770,Cinema TV,0
+1903,AR,Argentina,53,Thriller,0
+1903,AR,Argentina,10752,Guerra,0
+1903,AR,Argentina,37,Faroeste,0
+1903,AT,Austria,28,Ação,0
+1903,AT,Austria,12,Aventura,0
+1903,AT,Austria,16,Animação,0
+1903,AT,Austria,35,Comédia,0
+1903,AT,Austria,80,Crime,0
+1903,AT,Austria,99,Documentário,1
+1903,AT,Austria,18,Drama,0
+1903,AT,Austria,10751,Família,0
+1903,AT,Austria,14,Fantasia,0
+1903,AT,Austria,36,História,0
+1903,AT,Austria,27,Terror,0
+1903,AT,Austria,10402,Música,0
+1903,AT,Austria,9648,Mistério,0
+1903,AT,Austria,10749,Romance,0
+1903,AT,Austria,878,Ficção científica,0
+1903,AT,Austria,10770,Cinema TV,0
+1903,AT,Austria,53,Thriller,0
+1903,AT,Austria,10752,Guerra,0
+1903,AT,Austria,37,Faroeste,0
+1903,AU,Australia,28,Ação,0
+1903,AU,Australia,12,Aventura,0
+1903,AU,Australia,16,Animação,0
+1903,AU,Australia,35,Comédia,0
+1903,AU,Australia,80,Crime,0
+1903,AU,Australia,99,Documentário,1
+1903,AU,Australia,18,Drama,0
+1903,AU,Australia,10751,Família,0
+1903,AU,Australia,14,Fantasia,0
+1903,AU,Australia,36,História,0
+1903,AU,Australia,27,Terror,0
+1903,AU,Australia,10402,Música,0
+1903,AU,Australia,9648,Mistério,0
+1903,AU,Australia,10749,Romance,0
+1903,AU,Australia,878,Ficção científica,0
+1903,AU,Australia,10770,Cinema TV,0
+1903,AU,Australia,53,Thriller,0
+1903,AU,Australia,10752,Guerra,0
+1903,AU,Australia,37,Faroeste,0
+1903,DE,Germany,28,Ação,0
+1903,DE,Germany,12,Aventura,0
+1903,DE,Germany,16,Animação,0
+1903,DE,Germany,35,Comédia,0
+1903,DE,Germany,80,Crime,0
+1903,DE,Germany,99,Documentário,7
+1903,DE,Germany,18,Drama,0
+1903,DE,Germany,10751,Família,0
+1903,DE,Germany,14,Fantasia,0
+1903,DE,Germany,36,História,0
+1903,DE,Germany,27,Terror,0
+1903,DE,Germany,10402,Música,0
+1903,DE,Germany,9648,Mistério,0
+1903,DE,Germany,10749,Romance,0
+1903,DE,Germany,878,Ficção científica,0
+1903,DE,Germany,10770,Cinema TV,0
+1903,DE,Germany,53,Thriller,0
+1903,DE,Germany,10752,Guerra,0
+1903,DE,Germany,37,Faroeste,0
+1903,DK,Denmark,28,Ação,0
+1903,DK,Denmark,12,Aventura,0
+1903,DK,Denmark,16,Animação,0
+1903,DK,Denmark,35,Comédia,0
+1903,DK,Denmark,80,Crime,1
+1903,DK,Denmark,99,Documentário,8
+1903,DK,Denmark,18,Drama,1
+1903,DK,Denmark,10751,Família,0
+1903,DK,Denmark,14,Fantasia,0
+1903,DK,Denmark,36,História,0
+1903,DK,Denmark,27,Terror,0
+1903,DK,Denmark,10402,Música,0
+1903,DK,Denmark,9648,Mistério,0
+1903,DK,Denmark,10749,Romance,0
+1903,DK,Denmark,878,Ficção científica,0
+1903,DK,Denmark,10770,Cinema TV,0
+1903,DK,Denmark,53,Thriller,0
+1903,DK,Denmark,10752,Guerra,0
+1903,DK,Denmark,37,Faroeste,0
+1903,ES,Spain,28,Ação,0
+1903,ES,Spain,12,Aventura,0
+1903,ES,Spain,16,Animação,0
+1903,ES,Spain,35,Comédia,0
+1903,ES,Spain,80,Crime,0
+1903,ES,Spain,99,Documentário,0
+1903,ES,Spain,18,Drama,0
+1903,ES,Spain,10751,Família,0
+1903,ES,Spain,14,Fantasia,1
+1903,ES,Spain,36,História,0
+1903,ES,Spain,27,Terror,0
+1903,ES,Spain,10402,Música,0
+1903,ES,Spain,9648,Mistério,0
+1903,ES,Spain,10749,Romance,0
+1903,ES,Spain,878,Ficção científica,0
+1903,ES,Spain,10770,Cinema TV,0
+1903,ES,Spain,53,Thriller,0
+1903,ES,Spain,10752,Guerra,0
+1903,ES,Spain,37,Faroeste,0
+1903,FR,France,28,Ação,0
+1903,FR,France,12,Aventura,2
+1903,FR,France,16,Animação,0
+1903,FR,France,35,Comédia,38
+1903,FR,France,80,Crime,2
+1903,FR,France,99,Documentário,41
+1903,FR,France,18,Drama,7
+1903,FR,France,10751,Família,0
+1903,FR,France,14,Fantasia,26
+1903,FR,France,36,História,2
+1903,FR,France,27,Terror,5
+1903,FR,France,10402,Música,1
+1903,FR,France,9648,Mistério,0
+1903,FR,France,10749,Romance,2
+1903,FR,France,878,Ficção científica,0
+1903,FR,France,10770,Cinema TV,0
+1903,FR,France,53,Thriller,0
+1903,FR,France,10752,Guerra,1
+1903,FR,France,37,Faroeste,0
+1903,GB,United Kingdom,28,Ação,2
+1903,GB,United Kingdom,12,Aventura,0
+1903,GB,United Kingdom,16,Animação,0
+1903,GB,United Kingdom,35,Comédia,13
+1903,GB,United Kingdom,80,Crime,3
+1903,GB,United Kingdom,99,Documentário,74
+1903,GB,United Kingdom,18,Drama,6
+1903,GB,United Kingdom,10751,Família,1
+1903,GB,United Kingdom,14,Fantasia,3
+1903,GB,United Kingdom,36,História,0
+1903,GB,United Kingdom,27,Terror,0
+1903,GB,United Kingdom,10402,Música,0
+1903,GB,United Kingdom,9648,Mistério,0
+1903,GB,United Kingdom,10749,Romance,1
+1903,GB,United Kingdom,878,Ficção científica,0
+1903,GB,United Kingdom,10770,Cinema TV,0
+1903,GB,United Kingdom,53,Thriller,0
+1903,GB,United Kingdom,10752,Guerra,0
+1903,GB,United Kingdom,37,Faroeste,0
+1903,IN,India,28,Ação,0
+1903,IN,India,12,Aventura,0
+1903,IN,India,16,Animação,0
+1903,IN,India,35,Comédia,0
+1903,IN,India,80,Crime,0
+1903,IN,India,99,Documentário,3
+1903,IN,India,18,Drama,0
+1903,IN,India,10751,Família,0
+1903,IN,India,14,Fantasia,0
+1903,IN,India,36,História,0
+1903,IN,India,27,Terror,0
+1903,IN,India,10402,Música,0
+1903,IN,India,9648,Mistério,0
+1903,IN,India,10749,Romance,0
+1903,IN,India,878,Ficção científica,0
+1903,IN,India,10770,Cinema TV,0
+1903,IN,India,53,Thriller,0
+1903,IN,India,10752,Guerra,0
+1903,IN,India,37,Faroeste,0
+1903,IR,Iran,28,Ação,0
+1903,IR,Iran,12,Aventura,0
+1903,IR,Iran,16,Animação,0
+1903,IR,Iran,35,Comédia,0
+1903,IR,Iran,80,Crime,0
+1903,IR,Iran,99,Documentário,1
+1903,IR,Iran,18,Drama,0
+1903,IR,Iran,10751,Família,0
+1903,IR,Iran,14,Fantasia,0
+1903,IR,Iran,36,História,0
+1903,IR,Iran,27,Terror,0
+1903,IR,Iran,10402,Música,0
+1903,IR,Iran,9648,Mistério,0
+1903,IR,Iran,10749,Romance,0
+1903,IR,Iran,878,Ficção científica,0
+1903,IR,Iran,10770,Cinema TV,0
+1903,IR,Iran,53,Thriller,0
+1903,IR,Iran,10752,Guerra,0
+1903,IR,Iran,37,Faroeste,0
+1903,IT,Italy,28,Ação,0
+1903,IT,Italy,12,Aventura,0
+1903,IT,Italy,16,Animação,0
+1903,IT,Italy,35,Comédia,0
+1903,IT,Italy,80,Crime,0
+1903,IT,Italy,99,Documentário,1
+1903,IT,Italy,18,Drama,0
+1903,IT,Italy,10751,Família,0
+1903,IT,Italy,14,Fantasia,0
+1903,IT,Italy,36,História,0
+1903,IT,Italy,27,Terror,0
+1903,IT,Italy,10402,Música,0
+1903,IT,Italy,9648,Mistério,0
+1903,IT,Italy,10749,Romance,0
+1903,IT,Italy,878,Ficção científica,0
+1903,IT,Italy,10770,Cinema TV,0
+1903,IT,Italy,53,Thriller,0
+1903,IT,Italy,10752,Guerra,0
+1903,IT,Italy,37,Faroeste,0
+1903,SE,Sweden,28,Ação,0
+1903,SE,Sweden,12,Aventura,0
+1903,SE,Sweden,16,Animação,0
+1903,SE,Sweden,35,Comédia,0
+1903,SE,Sweden,80,Crime,0
+1903,SE,Sweden,99,Documentário,2
+1903,SE,Sweden,18,Drama,0
+1903,SE,Sweden,10751,Família,0
+1903,SE,Sweden,14,Fantasia,0
+1903,SE,Sweden,36,História,0
+1903,SE,Sweden,27,Terror,0
+1903,SE,Sweden,10402,Música,2
+1903,SE,Sweden,9648,Mistério,0
+1903,SE,Sweden,10749,Romance,0
+1903,SE,Sweden,878,Ficção científica,0
+1903,SE,Sweden,10770,Cinema TV,0
+1903,SE,Sweden,53,Thriller,0
+1903,SE,Sweden,10752,Guerra,0
+1903,SE,Sweden,37,Faroeste,0
+1903,SG,Singapore,28,Ação,0
+1903,SG,Singapore,12,Aventura,0
+1903,SG,Singapore,16,Animação,0
+1903,SG,Singapore,35,Comédia,0
+1903,SG,Singapore,80,Crime,0
+1903,SG,Singapore,99,Documentário,1
+1903,SG,Singapore,18,Drama,0
+1903,SG,Singapore,10751,Família,0
+1903,SG,Singapore,14,Fantasia,0
+1903,SG,Singapore,36,História,0
+1903,SG,Singapore,27,Terror,0
+1903,SG,Singapore,10402,Música,0
+1903,SG,Singapore,9648,Mistério,0
+1903,SG,Singapore,10749,Romance,0
+1903,SG,Singapore,878,Ficção científica,0
+1903,SG,Singapore,10770,Cinema TV,0
+1903,SG,Singapore,53,Thriller,0
+1903,SG,Singapore,10752,Guerra,0
+1903,SG,Singapore,37,Faroeste,0
+1903,US,United States of America,28,Ação,3
+1903,US,United States of America,12,Aventura,2
+1903,US,United States of America,16,Animação,0
+1903,US,United States of America,35,Comédia,43
+1903,US,United States of America,80,Crime,3
+1903,US,United States of America,99,Documentário,139
+1903,US,United States of America,18,Drama,8
+1903,US,United States of America,10751,Família,0
+1903,US,United States of America,14,Fantasia,0
+1903,US,United States of America,36,História,1
+1903,US,United States of America,27,Terror,0
+1903,US,United States of America,10402,Música,0
+1903,US,United States of America,9648,Mistério,0
+1903,US,United States of America,10749,Romance,4
+1903,US,United States of America,878,Ficção científica,0
+1903,US,United States of America,10770,Cinema TV,0
+1903,US,United States of America,53,Thriller,0
+1903,US,United States of America,10752,Guerra,0
+1903,US,United States of America,37,Faroeste,2
+1903,XI,Northern Ireland,28,Ação,0
+1903,XI,Northern Ireland,12,Aventura,0
+1903,XI,Northern Ireland,16,Animação,0
+1903,XI,Northern Ireland,35,Comédia,0
+1903,XI,Northern Ireland,80,Crime,0
+1903,XI,Northern Ireland,99,Documentário,1
+1903,XI,Northern Ireland,18,Drama,0
+1903,XI,Northern Ireland,10751,Família,0
+1903,XI,Northern Ireland,14,Fantasia,0
+1903,XI,Northern Ireland,36,História,0
+1903,XI,Northern Ireland,27,Terror,0
+1903,XI,Northern Ireland,10402,Música,0
+1903,XI,Northern Ireland,9648,Mistério,0
+1903,XI,Northern Ireland,10749,Romance,0
+1903,XI,Northern Ireland,878,Ficção científica,0
+1903,XI,Northern Ireland,10770,Cinema TV,0
+1903,XI,Northern Ireland,53,Thriller,0
+1903,XI,Northern Ireland,10752,Guerra,0
+1903,XI,Northern Ireland,37,Faroeste,0
+1904,AR,Argentina,28,Ação,0
+1904,AR,Argentina,12,Aventura,0
+1904,AR,Argentina,16,Animação,0
+1904,AR,Argentina,35,Comédia,0
+1904,AR,Argentina,80,Crime,0
+1904,AR,Argentina,99,Documentário,2
+1904,AR,Argentina,18,Drama,0
+1904,AR,Argentina,10751,Família,0
+1904,AR,Argentina,14,Fantasia,0
+1904,AR,Argentina,36,História,0
+1904,AR,Argentina,27,Terror,0
+1904,AR,Argentina,10402,Música,0
+1904,AR,Argentina,9648,Mistério,0
+1904,AR,Argentina,10749,Romance,0
+1904,AR,Argentina,878,Ficção científica,0
+1904,AR,Argentina,10770,Cinema TV,0
+1904,AR,Argentina,53,Thriller,0
+1904,AR,Argentina,10752,Guerra,0
+1904,AR,Argentina,37,Faroeste,0
+1904,CA,Canada,28,Ação,0
+1904,CA,Canada,12,Aventura,0
+1904,CA,Canada,16,Animação,0
+1904,CA,Canada,35,Comédia,0
+1904,CA,Canada,80,Crime,0
+1904,CA,Canada,99,Documentário,1
+1904,CA,Canada,18,Drama,0
+1904,CA,Canada,10751,Família,0
+1904,CA,Canada,14,Fantasia,0
+1904,CA,Canada,36,História,0
+1904,CA,Canada,27,Terror,0
+1904,CA,Canada,10402,Música,0
+1904,CA,Canada,9648,Mistério,0
+1904,CA,Canada,10749,Romance,0
+1904,CA,Canada,878,Ficção científica,0
+1904,CA,Canada,10770,Cinema TV,0
+1904,CA,Canada,53,Thriller,0
+1904,CA,Canada,10752,Guerra,0
+1904,CA,Canada,37,Faroeste,0
+1904,CH,Switzerland,28,Ação,0
+1904,CH,Switzerland,12,Aventura,0
+1904,CH,Switzerland,16,Animação,0
+1904,CH,Switzerland,35,Comédia,0
+1904,CH,Switzerland,80,Crime,0
+1904,CH,Switzerland,99,Documentário,1
+1904,CH,Switzerland,18,Drama,0
+1904,CH,Switzerland,10751,Família,0
+1904,CH,Switzerland,14,Fantasia,0
+1904,CH,Switzerland,36,História,0
+1904,CH,Switzerland,27,Terror,0
+1904,CH,Switzerland,10402,Música,0
+1904,CH,Switzerland,9648,Mistério,0
+1904,CH,Switzerland,10749,Romance,0
+1904,CH,Switzerland,878,Ficção científica,0
+1904,CH,Switzerland,10770,Cinema TV,0
+1904,CH,Switzerland,53,Thriller,0
+1904,CH,Switzerland,10752,Guerra,0
+1904,CH,Switzerland,37,Faroeste,0
+1904,DE,Germany,28,Ação,0
+1904,DE,Germany,12,Aventura,0
+1904,DE,Germany,16,Animação,0
+1904,DE,Germany,35,Comédia,1
+1904,DE,Germany,80,Crime,0
+1904,DE,Germany,99,Documentário,2
+1904,DE,Germany,18,Drama,0
+1904,DE,Germany,10751,Família,0
+1904,DE,Germany,14,Fantasia,0
+1904,DE,Germany,36,História,0
+1904,DE,Germany,27,Terror,0
+1904,DE,Germany,10402,Música,0
+1904,DE,Germany,9648,Mistério,0
+1904,DE,Germany,10749,Romance,0
+1904,DE,Germany,878,Ficção científica,0
+1904,DE,Germany,10770,Cinema TV,0
+1904,DE,Germany,53,Thriller,0
+1904,DE,Germany,10752,Guerra,0
+1904,DE,Germany,37,Faroeste,0
+1904,DK,Denmark,28,Ação,0
+1904,DK,Denmark,12,Aventura,0
+1904,DK,Denmark,16,Animação,0
+1904,DK,Denmark,35,Comédia,0
+1904,DK,Denmark,80,Crime,0
+1904,DK,Denmark,99,Documentário,3
+1904,DK,Denmark,18,Drama,0
+1904,DK,Denmark,10751,Família,0
+1904,DK,Denmark,14,Fantasia,0
+1904,DK,Denmark,36,História,0
+1904,DK,Denmark,27,Terror,0
+1904,DK,Denmark,10402,Música,0
+1904,DK,Denmark,9648,Mistério,0
+1904,DK,Denmark,10749,Romance,0
+1904,DK,Denmark,878,Ficção científica,0
+1904,DK,Denmark,10770,Cinema TV,0
+1904,DK,Denmark,53,Thriller,0
+1904,DK,Denmark,10752,Guerra,0
+1904,DK,Denmark,37,Faroeste,0
+1904,ES,Spain,28,Ação,0
+1904,ES,Spain,12,Aventura,0
+1904,ES,Spain,16,Animação,0
+1904,ES,Spain,35,Comédia,3
+1904,ES,Spain,80,Crime,0
+1904,ES,Spain,99,Documentário,2
+1904,ES,Spain,18,Drama,0
+1904,ES,Spain,10751,Família,0
+1904,ES,Spain,14,Fantasia,0
+1904,ES,Spain,36,História,0
+1904,ES,Spain,27,Terror,0
+1904,ES,Spain,10402,Música,0
+1904,ES,Spain,9648,Mistério,0
+1904,ES,Spain,10749,Romance,0
+1904,ES,Spain,878,Ficção científica,0
+1904,ES,Spain,10770,Cinema TV,0
+1904,ES,Spain,53,Thriller,0
+1904,ES,Spain,10752,Guerra,0
+1904,ES,Spain,37,Faroeste,0
+1904,FR,France,28,Ação,0
+1904,FR,France,12,Aventura,2
+1904,FR,France,16,Animação,0
+1904,FR,France,35,Comédia,37
+1904,FR,France,80,Crime,3
+1904,FR,France,99,Documentário,11
+1904,FR,France,18,Drama,14
+1904,FR,France,10751,Família,0
+1904,FR,France,14,Fantasia,20
+1904,FR,France,36,História,4
+1904,FR,France,27,Terror,0
+1904,FR,France,10402,Música,0
+1904,FR,France,9648,Mistério,0
+1904,FR,France,10749,Romance,0
+1904,FR,France,878,Ficção científica,1
+1904,FR,France,10770,Cinema TV,0
+1904,FR,France,53,Thriller,0
+1904,FR,France,10752,Guerra,0
+1904,FR,France,37,Faroeste,2
+1904,GB,United Kingdom,28,Ação,1
+1904,GB,United Kingdom,12,Aventura,0
+1904,GB,United Kingdom,16,Animação,0
+1904,GB,United Kingdom,35,Comédia,12
+1904,GB,United Kingdom,80,Crime,4
+1904,GB,United Kingdom,99,Documentário,50
+1904,GB,United Kingdom,18,Drama,9
+1904,GB,United Kingdom,10751,Família,0
+1904,GB,United Kingdom,14,Fantasia,0
+1904,GB,United Kingdom,36,História,0
+1904,GB,United Kingdom,27,Terror,1
+1904,GB,United Kingdom,10402,Música,0
+1904,GB,United Kingdom,9648,Mistério,1
+1904,GB,United Kingdom,10749,Romance,0
+1904,GB,United Kingdom,878,Ficção científica,0
+1904,GB,United Kingdom,10770,Cinema TV,0
+1904,GB,United Kingdom,53,Thriller,1
+1904,GB,United Kingdom,10752,Guerra,1
+1904,GB,United Kingdom,37,Faroeste,0
+1904,HR,Croatia,28,Ação,0
+1904,HR,Croatia,12,Aventura,0
+1904,HR,Croatia,16,Animação,0
+1904,HR,Croatia,35,Comédia,0
+1904,HR,Croatia,80,Crime,0
+1904,HR,Croatia,99,Documentário,1
+1904,HR,Croatia,18,Drama,0
+1904,HR,Croatia,10751,Família,0
+1904,HR,Croatia,14,Fantasia,0
+1904,HR,Croatia,36,História,0
+1904,HR,Croatia,27,Terror,0
+1904,HR,Croatia,10402,Música,0
+1904,HR,Croatia,9648,Mistério,0
+1904,HR,Croatia,10749,Romance,0
+1904,HR,Croatia,878,Ficção científica,0
+1904,HR,Croatia,10770,Cinema TV,0
+1904,HR,Croatia,53,Thriller,0
+1904,HR,Croatia,10752,Guerra,0
+1904,HR,Croatia,37,Faroeste,0
+1904,IN,India,28,Ação,0
+1904,IN,India,12,Aventura,0
+1904,IN,India,16,Animação,0
+1904,IN,India,35,Comédia,0
+1904,IN,India,80,Crime,0
+1904,IN,India,99,Documentário,2
+1904,IN,India,18,Drama,0
+1904,IN,India,10751,Família,0
+1904,IN,India,14,Fantasia,0
+1904,IN,India,36,História,0
+1904,IN,India,27,Terror,0
+1904,IN,India,10402,Música,0
+1904,IN,India,9648,Mistério,0
+1904,IN,India,10749,Romance,0
+1904,IN,India,878,Ficção científica,0
+1904,IN,India,10770,Cinema TV,0
+1904,IN,India,53,Thriller,0
+1904,IN,India,10752,Guerra,0
+1904,IN,India,37,Faroeste,0
+1904,NL,Netherlands,28,Ação,0
+1904,NL,Netherlands,12,Aventura,0
+1904,NL,Netherlands,16,Animação,0
+1904,NL,Netherlands,35,Comédia,0
+1904,NL,Netherlands,80,Crime,0
+1904,NL,Netherlands,99,Documentário,1
+1904,NL,Netherlands,18,Drama,0
+1904,NL,Netherlands,10751,Família,0
+1904,NL,Netherlands,14,Fantasia,0
+1904,NL,Netherlands,36,História,0
+1904,NL,Netherlands,27,Terror,0
+1904,NL,Netherlands,10402,Música,0
+1904,NL,Netherlands,9648,Mistério,0
+1904,NL,Netherlands,10749,Romance,0
+1904,NL,Netherlands,878,Ficção científica,0
+1904,NL,Netherlands,10770,Cinema TV,0
+1904,NL,Netherlands,53,Thriller,0
+1904,NL,Netherlands,10752,Guerra,0
+1904,NL,Netherlands,37,Faroeste,0
+1904,PE,Peru,28,Ação,0
+1904,PE,Peru,12,Aventura,0
+1904,PE,Peru,16,Animação,0
+1904,PE,Peru,35,Comédia,0
+1904,PE,Peru,80,Crime,0
+1904,PE,Peru,99,Documentário,10
+1904,PE,Peru,18,Drama,0
+1904,PE,Peru,10751,Família,0
+1904,PE,Peru,14,Fantasia,0
+1904,PE,Peru,36,História,0
+1904,PE,Peru,27,Terror,0
+1904,PE,Peru,10402,Música,0
+1904,PE,Peru,9648,Mistério,0
+1904,PE,Peru,10749,Romance,0
+1904,PE,Peru,878,Ficção científica,0
+1904,PE,Peru,10770,Cinema TV,0
+1904,PE,Peru,53,Thriller,0
+1904,PE,Peru,10752,Guerra,0
+1904,PE,Peru,37,Faroeste,0
+1904,RS,Serbia,28,Ação,0
+1904,RS,Serbia,12,Aventura,0
+1904,RS,Serbia,16,Animação,0
+1904,RS,Serbia,35,Comédia,0
+1904,RS,Serbia,80,Crime,0
+1904,RS,Serbia,99,Documentário,1
+1904,RS,Serbia,18,Drama,0
+1904,RS,Serbia,10751,Família,0
+1904,RS,Serbia,14,Fantasia,0
+1904,RS,Serbia,36,História,0
+1904,RS,Serbia,27,Terror,0
+1904,RS,Serbia,10402,Música,0
+1904,RS,Serbia,9648,Mistério,0
+1904,RS,Serbia,10749,Romance,0
+1904,RS,Serbia,878,Ficção científica,0
+1904,RS,Serbia,10770,Cinema TV,0
+1904,RS,Serbia,53,Thriller,0
+1904,RS,Serbia,10752,Guerra,0
+1904,RS,Serbia,37,Faroeste,0
+1904,SE,Sweden,28,Ação,0
+1904,SE,Sweden,12,Aventura,0
+1904,SE,Sweden,16,Animação,0
+1904,SE,Sweden,35,Comédia,0
+1904,SE,Sweden,80,Crime,0
+1904,SE,Sweden,99,Documentário,1
+1904,SE,Sweden,18,Drama,0
+1904,SE,Sweden,10751,Família,0
+1904,SE,Sweden,14,Fantasia,0
+1904,SE,Sweden,36,História,0
+1904,SE,Sweden,27,Terror,0
+1904,SE,Sweden,10402,Música,0
+1904,SE,Sweden,9648,Mistério,0
+1904,SE,Sweden,10749,Romance,0
+1904,SE,Sweden,878,Ficção científica,0
+1904,SE,Sweden,10770,Cinema TV,0
+1904,SE,Sweden,53,Thriller,0
+1904,SE,Sweden,10752,Guerra,0
+1904,SE,Sweden,37,Faroeste,0
+1904,US,United States of America,28,Ação,6
+1904,US,United States of America,12,Aventura,0
+1904,US,United States of America,16,Animação,1
+1904,US,United States of America,35,Comédia,45
+1904,US,United States of America,80,Crime,3
+1904,US,United States of America,99,Documentário,106
+1904,US,United States of America,18,Drama,11
+1904,US,United States of America,10751,Família,0
+1904,US,United States of America,14,Fantasia,2
+1904,US,United States of America,36,História,3
+1904,US,United States of America,27,Terror,1
+1904,US,United States of America,10402,Música,0
+1904,US,United States of America,9648,Mistério,0
+1904,US,United States of America,10749,Romance,2
+1904,US,United States of America,878,Ficção científica,0
+1904,US,United States of America,10770,Cinema TV,0
+1904,US,United States of America,53,Thriller,0
+1904,US,United States of America,10752,Guerra,6
+1904,US,United States of America,37,Faroeste,5
+1905,AR,Argentina,28,Ação,0
+1905,AR,Argentina,12,Aventura,0
+1905,AR,Argentina,16,Animação,0
+1905,AR,Argentina,35,Comédia,0
+1905,AR,Argentina,80,Crime,0
+1905,AR,Argentina,99,Documentário,0
+1905,AR,Argentina,18,Drama,0
+1905,AR,Argentina,10751,Família,0
+1905,AR,Argentina,14,Fantasia,0
+1905,AR,Argentina,36,História,0
+1905,AR,Argentina,27,Terror,0
+1905,AR,Argentina,10402,Música,0
+1905,AR,Argentina,9648,Mistério,0
+1905,AR,Argentina,10749,Romance,0
+1905,AR,Argentina,878,Ficção científica,0
+1905,AR,Argentina,10770,Cinema TV,0
+1905,AR,Argentina,53,Thriller,0
+1905,AR,Argentina,10752,Guerra,0
+1905,AR,Argentina,37,Faroeste,0
+1905,AU,Australia,28,Ação,0
+1905,AU,Australia,12,Aventura,0
+1905,AU,Australia,16,Animação,0
+1905,AU,Australia,35,Comédia,0
+1905,AU,Australia,80,Crime,0
+1905,AU,Australia,99,Documentário,2
+1905,AU,Australia,18,Drama,0
+1905,AU,Australia,10751,Família,0
+1905,AU,Australia,14,Fantasia,0
+1905,AU,Australia,36,História,0
+1905,AU,Australia,27,Terror,0
+1905,AU,Australia,10402,Música,0
+1905,AU,Australia,9648,Mistério,0
+1905,AU,Australia,10749,Romance,0
+1905,AU,Australia,878,Ficção científica,0
+1905,AU,Australia,10770,Cinema TV,0
+1905,AU,Australia,53,Thriller,0
+1905,AU,Australia,10752,Guerra,0
+1905,AU,Australia,37,Faroeste,0
+1905,CH,Switzerland,28,Ação,0
+1905,CH,Switzerland,12,Aventura,0
+1905,CH,Switzerland,16,Animação,0
+1905,CH,Switzerland,35,Comédia,0
+1905,CH,Switzerland,80,Crime,0
+1905,CH,Switzerland,99,Documentário,1
+1905,CH,Switzerland,18,Drama,0
+1905,CH,Switzerland,10751,Família,0
+1905,CH,Switzerland,14,Fantasia,0
+1905,CH,Switzerland,36,História,0
+1905,CH,Switzerland,27,Terror,0
+1905,CH,Switzerland,10402,Música,0
+1905,CH,Switzerland,9648,Mistério,0
+1905,CH,Switzerland,10749,Romance,0
+1905,CH,Switzerland,878,Ficção científica,0
+1905,CH,Switzerland,10770,Cinema TV,0
+1905,CH,Switzerland,53,Thriller,0
+1905,CH,Switzerland,10752,Guerra,0
+1905,CH,Switzerland,37,Faroeste,0
+1905,CN,China,28,Ação,0
+1905,CN,China,12,Aventura,0
+1905,CN,China,16,Animação,0
+1905,CN,China,35,Comédia,0
+1905,CN,China,80,Crime,0
+1905,CN,China,99,Documentário,1
+1905,CN,China,18,Drama,1
+1905,CN,China,10751,Família,0
+1905,CN,China,14,Fantasia,0
+1905,CN,China,36,História,1
+1905,CN,China,27,Terror,0
+1905,CN,China,10402,Música,0
+1905,CN,China,9648,Mistério,0
+1905,CN,China,10749,Romance,0
+1905,CN,China,878,Ficção científica,0
+1905,CN,China,10770,Cinema TV,0
+1905,CN,China,53,Thriller,0
+1905,CN,China,10752,Guerra,1
+1905,CN,China,37,Faroeste,0
+1905,DE,Germany,28,Ação,0
+1905,DE,Germany,12,Aventura,0
+1905,DE,Germany,16,Animação,0
+1905,DE,Germany,35,Comédia,1
+1905,DE,Germany,80,Crime,0
+1905,DE,Germany,99,Documentário,2
+1905,DE,Germany,18,Drama,0
+1905,DE,Germany,10751,Família,0
+1905,DE,Germany,14,Fantasia,0
+1905,DE,Germany,36,História,0
+1905,DE,Germany,27,Terror,0
+1905,DE,Germany,10402,Música,0
+1905,DE,Germany,9648,Mistério,0
+1905,DE,Germany,10749,Romance,0
+1905,DE,Germany,878,Ficção científica,0
+1905,DE,Germany,10770,Cinema TV,0
+1905,DE,Germany,53,Thriller,0
+1905,DE,Germany,10752,Guerra,0
+1905,DE,Germany,37,Faroeste,0
+1905,DK,Denmark,28,Ação,0
+1905,DK,Denmark,12,Aventura,0
+1905,DK,Denmark,16,Animação,0
+1905,DK,Denmark,35,Comédia,0
+1905,DK,Denmark,80,Crime,0
+1905,DK,Denmark,99,Documentário,7
+1905,DK,Denmark,18,Drama,0
+1905,DK,Denmark,10751,Família,0
+1905,DK,Denmark,14,Fantasia,0
+1905,DK,Denmark,36,História,0
+1905,DK,Denmark,27,Terror,0
+1905,DK,Denmark,10402,Música,0
+1905,DK,Denmark,9648,Mistério,0
+1905,DK,Denmark,10749,Romance,0
+1905,DK,Denmark,878,Ficção científica,0
+1905,DK,Denmark,10770,Cinema TV,0
+1905,DK,Denmark,53,Thriller,0
+1905,DK,Denmark,10752,Guerra,0
+1905,DK,Denmark,37,Faroeste,0
+1905,ES,Spain,28,Ação,0
+1905,ES,Spain,12,Aventura,0
+1905,ES,Spain,16,Animação,0
+1905,ES,Spain,35,Comédia,1
+1905,ES,Spain,80,Crime,0
+1905,ES,Spain,99,Documentário,4
+1905,ES,Spain,18,Drama,1
+1905,ES,Spain,10751,Família,0
+1905,ES,Spain,14,Fantasia,0
+1905,ES,Spain,36,História,1
+1905,ES,Spain,27,Terror,0
+1905,ES,Spain,10402,Música,0
+1905,ES,Spain,9648,Mistério,0
+1905,ES,Spain,10749,Romance,0
+1905,ES,Spain,878,Ficção científica,0
+1905,ES,Spain,10770,Cinema TV,0
+1905,ES,Spain,53,Thriller,0
+1905,ES,Spain,10752,Guerra,1
+1905,ES,Spain,37,Faroeste,0
+1905,FR,France,28,Ação,0
+1905,FR,France,12,Aventura,2
+1905,FR,France,16,Animação,0
+1905,FR,France,35,Comédia,55
+1905,FR,France,80,Crime,2
+1905,FR,France,99,Documentário,33
+1905,FR,France,18,Drama,27
+1905,FR,France,10751,Família,1
+1905,FR,France,14,Fantasia,27
+1905,FR,France,36,História,3
+1905,FR,France,27,Terror,2
+1905,FR,France,10402,Música,6
+1905,FR,France,9648,Mistério,0
+1905,FR,France,10749,Romance,1
+1905,FR,France,878,Ficção científica,1
+1905,FR,France,10770,Cinema TV,0
+1905,FR,France,53,Thriller,0
+1905,FR,France,10752,Guerra,1
+1905,FR,France,37,Faroeste,0
+1905,GB,United Kingdom,28,Ação,1
+1905,GB,United Kingdom,12,Aventura,0
+1905,GB,United Kingdom,16,Animação,0
+1905,GB,United Kingdom,35,Comédia,14
+1905,GB,United Kingdom,80,Crime,2
+1905,GB,United Kingdom,99,Documentário,27
+1905,GB,United Kingdom,18,Drama,4
+1905,GB,United Kingdom,10751,Família,0
+1905,GB,United Kingdom,14,Fantasia,2
+1905,GB,United Kingdom,36,História,0
+1905,GB,United Kingdom,27,Terror,1
+1905,GB,United Kingdom,10402,Música,0
+1905,GB,United Kingdom,9648,Mistério,0
+1905,GB,United Kingdom,10749,Romance,2
+1905,GB,United Kingdom,878,Ficção científica,1
+1905,GB,United Kingdom,10770,Cinema TV,0
+1905,GB,United Kingdom,53,Thriller,0
+1905,GB,United Kingdom,10752,Guerra,0
+1905,GB,United Kingdom,37,Faroeste,0
+1905,HU,Hungary,28,Ação,0
+1905,HU,Hungary,12,Aventura,0
+1905,HU,Hungary,16,Animação,0
+1905,HU,Hungary,35,Comédia,0
+1905,HU,Hungary,80,Crime,0
+1905,HU,Hungary,99,Documentário,0
+1905,HU,Hungary,18,Drama,0
+1905,HU,Hungary,10751,Família,0
+1905,HU,Hungary,14,Fantasia,0
+1905,HU,Hungary,36,História,0
+1905,HU,Hungary,27,Terror,0
+1905,HU,Hungary,10402,Música,0
+1905,HU,Hungary,9648,Mistério,0
+1905,HU,Hungary,10749,Romance,0
+1905,HU,Hungary,878,Ficção científica,0
+1905,HU,Hungary,10770,Cinema TV,0
+1905,HU,Hungary,53,Thriller,0
+1905,HU,Hungary,10752,Guerra,0
+1905,HU,Hungary,37,Faroeste,0
+1905,IN,India,28,Ação,0
+1905,IN,India,12,Aventura,0
+1905,IN,India,16,Animação,0
+1905,IN,India,35,Comédia,0
+1905,IN,India,80,Crime,0
+1905,IN,India,99,Documentário,2
+1905,IN,India,18,Drama,0
+1905,IN,India,10751,Família,0
+1905,IN,India,14,Fantasia,0
+1905,IN,India,36,História,0
+1905,IN,India,27,Terror,0
+1905,IN,India,10402,Música,0
+1905,IN,India,9648,Mistério,0
+1905,IN,India,10749,Romance,0
+1905,IN,India,878,Ficção científica,0
+1905,IN,India,10770,Cinema TV,0
+1905,IN,India,53,Thriller,0
+1905,IN,India,10752,Guerra,0
+1905,IN,India,37,Faroeste,0
+1905,IT,Italy,28,Ação,0
+1905,IT,Italy,12,Aventura,0
+1905,IT,Italy,16,Animação,0
+1905,IT,Italy,35,Comédia,0
+1905,IT,Italy,80,Crime,0
+1905,IT,Italy,99,Documentário,0
+1905,IT,Italy,18,Drama,0
+1905,IT,Italy,10751,Família,0
+1905,IT,Italy,14,Fantasia,0
+1905,IT,Italy,36,História,1
+1905,IT,Italy,27,Terror,0
+1905,IT,Italy,10402,Música,0
+1905,IT,Italy,9648,Mistério,0
+1905,IT,Italy,10749,Romance,0
+1905,IT,Italy,878,Ficção científica,0
+1905,IT,Italy,10770,Cinema TV,0
+1905,IT,Italy,53,Thriller,0
+1905,IT,Italy,10752,Guerra,0
+1905,IT,Italy,37,Faroeste,0
+1905,JP,Japan,28,Ação,0
+1905,JP,Japan,12,Aventura,0
+1905,JP,Japan,16,Animação,0
+1905,JP,Japan,35,Comédia,0
+1905,JP,Japan,80,Crime,0
+1905,JP,Japan,99,Documentário,1
+1905,JP,Japan,18,Drama,0
+1905,JP,Japan,10751,Família,0
+1905,JP,Japan,14,Fantasia,0
+1905,JP,Japan,36,História,0
+1905,JP,Japan,27,Terror,0
+1905,JP,Japan,10402,Música,0
+1905,JP,Japan,9648,Mistério,0
+1905,JP,Japan,10749,Romance,0
+1905,JP,Japan,878,Ficção científica,0
+1905,JP,Japan,10770,Cinema TV,0
+1905,JP,Japan,53,Thriller,0
+1905,JP,Japan,10752,Guerra,0
+1905,JP,Japan,37,Faroeste,0
+1905,MK,Macedonia,28,Ação,0
+1905,MK,Macedonia,12,Aventura,0
+1905,MK,Macedonia,16,Animação,0
+1905,MK,Macedonia,35,Comédia,0
+1905,MK,Macedonia,80,Crime,0
+1905,MK,Macedonia,99,Documentário,4
+1905,MK,Macedonia,18,Drama,0
+1905,MK,Macedonia,10751,Família,0
+1905,MK,Macedonia,14,Fantasia,0
+1905,MK,Macedonia,36,História,0
+1905,MK,Macedonia,27,Terror,0
+1905,MK,Macedonia,10402,Música,0
+1905,MK,Macedonia,9648,Mistério,0
+1905,MK,Macedonia,10749,Romance,0
+1905,MK,Macedonia,878,Ficção científica,0
+1905,MK,Macedonia,10770,Cinema TV,0
+1905,MK,Macedonia,53,Thriller,0
+1905,MK,Macedonia,10752,Guerra,0
+1905,MK,Macedonia,37,Faroeste,0
+1905,NL,Netherlands,28,Ação,0
+1905,NL,Netherlands,12,Aventura,0
+1905,NL,Netherlands,16,Animação,0
+1905,NL,Netherlands,35,Comédia,1
+1905,NL,Netherlands,80,Crime,0
+1905,NL,Netherlands,99,Documentário,1
+1905,NL,Netherlands,18,Drama,0
+1905,NL,Netherlands,10751,Família,0
+1905,NL,Netherlands,14,Fantasia,0
+1905,NL,Netherlands,36,História,0
+1905,NL,Netherlands,27,Terror,0
+1905,NL,Netherlands,10402,Música,0
+1905,NL,Netherlands,9648,Mistério,0
+1905,NL,Netherlands,10749,Romance,0
+1905,NL,Netherlands,878,Ficção científica,0
+1905,NL,Netherlands,10770,Cinema TV,0
+1905,NL,Netherlands,53,Thriller,0
+1905,NL,Netherlands,10752,Guerra,0
+1905,NL,Netherlands,37,Faroeste,0
+1905,RU,Russia,28,Ação,0
+1905,RU,Russia,12,Aventura,0
+1905,RU,Russia,16,Animação,0
+1905,RU,Russia,35,Comédia,0
+1905,RU,Russia,80,Crime,0
+1905,RU,Russia,99,Documentário,0
+1905,RU,Russia,18,Drama,0
+1905,RU,Russia,10751,Família,0
+1905,RU,Russia,14,Fantasia,0
+1905,RU,Russia,36,História,0
+1905,RU,Russia,27,Terror,0
+1905,RU,Russia,10402,Música,0
+1905,RU,Russia,9648,Mistério,0
+1905,RU,Russia,10749,Romance,0
+1905,RU,Russia,878,Ficção científica,0
+1905,RU,Russia,10770,Cinema TV,0
+1905,RU,Russia,53,Thriller,0
+1905,RU,Russia,10752,Guerra,0
+1905,RU,Russia,37,Faroeste,0
+1905,SE,Sweden,28,Ação,0
+1905,SE,Sweden,12,Aventura,0
+1905,SE,Sweden,16,Animação,0
+1905,SE,Sweden,35,Comédia,0
+1905,SE,Sweden,80,Crime,0
+1905,SE,Sweden,99,Documentário,5
+1905,SE,Sweden,18,Drama,0
+1905,SE,Sweden,10751,Família,0
+1905,SE,Sweden,14,Fantasia,0
+1905,SE,Sweden,36,História,0
+1905,SE,Sweden,27,Terror,0
+1905,SE,Sweden,10402,Música,0
+1905,SE,Sweden,9648,Mistério,0
+1905,SE,Sweden,10749,Romance,0
+1905,SE,Sweden,878,Ficção científica,0
+1905,SE,Sweden,10770,Cinema TV,0
+1905,SE,Sweden,53,Thriller,0
+1905,SE,Sweden,10752,Guerra,0
+1905,SE,Sweden,37,Faroeste,0
+1905,SI,Slovenia,28,Ação,0
+1905,SI,Slovenia,12,Aventura,0
+1905,SI,Slovenia,16,Animação,0
+1905,SI,Slovenia,35,Comédia,0
+1905,SI,Slovenia,80,Crime,0
+1905,SI,Slovenia,99,Documentário,1
+1905,SI,Slovenia,18,Drama,0
+1905,SI,Slovenia,10751,Família,0
+1905,SI,Slovenia,14,Fantasia,0
+1905,SI,Slovenia,36,História,0
+1905,SI,Slovenia,27,Terror,0
+1905,SI,Slovenia,10402,Música,0
+1905,SI,Slovenia,9648,Mistério,0
+1905,SI,Slovenia,10749,Romance,0
+1905,SI,Slovenia,878,Ficção científica,0
+1905,SI,Slovenia,10770,Cinema TV,0
+1905,SI,Slovenia,53,Thriller,0
+1905,SI,Slovenia,10752,Guerra,0
+1905,SI,Slovenia,37,Faroeste,0
+1905,TN,Tunisia,28,Ação,0
+1905,TN,Tunisia,12,Aventura,0
+1905,TN,Tunisia,16,Animação,0
+1905,TN,Tunisia,35,Comédia,0
+1905,TN,Tunisia,80,Crime,0
+1905,TN,Tunisia,99,Documentário,1
+1905,TN,Tunisia,18,Drama,0
+1905,TN,Tunisia,10751,Família,0
+1905,TN,Tunisia,14,Fantasia,0
+1905,TN,Tunisia,36,História,0
+1905,TN,Tunisia,27,Terror,0
+1905,TN,Tunisia,10402,Música,0
+1905,TN,Tunisia,9648,Mistério,0
+1905,TN,Tunisia,10749,Romance,0
+1905,TN,Tunisia,878,Ficção científica,0
+1905,TN,Tunisia,10770,Cinema TV,0
+1905,TN,Tunisia,53,Thriller,0
+1905,TN,Tunisia,10752,Guerra,0
+1905,TN,Tunisia,37,Faroeste,0
+1905,US,United States of America,28,Ação,1
+1905,US,United States of America,12,Aventura,3
+1905,US,United States of America,16,Animação,0
+1905,US,United States of America,35,Comédia,20
+1905,US,United States of America,80,Crime,12
+1905,US,United States of America,99,Documentário,46
+1905,US,United States of America,18,Drama,21
+1905,US,United States of America,10751,Família,2
+1905,US,United States of America,14,Fantasia,2
+1905,US,United States of America,36,História,0
+1905,US,United States of America,27,Terror,0
+1905,US,United States of America,10402,Música,0
+1905,US,United States of America,9648,Mistério,0
+1905,US,United States of America,10749,Romance,2
+1905,US,United States of America,878,Ficção científica,0
+1905,US,United States of America,10770,Cinema TV,0
+1905,US,United States of America,53,Thriller,0
+1905,US,United States of America,10752,Guerra,0
+1905,US,United States of America,37,Faroeste,0
+1906,AT,Austria,28,Ação,0
+1906,AT,Austria,12,Aventura,0
+1906,AT,Austria,16,Animação,0
+1906,AT,Austria,35,Comédia,1
+1906,AT,Austria,80,Crime,0
+1906,AT,Austria,99,Documentário,1
+1906,AT,Austria,18,Drama,0
+1906,AT,Austria,10751,Família,0
+1906,AT,Austria,14,Fantasia,0
+1906,AT,Austria,36,História,0
+1906,AT,Austria,27,Terror,0
+1906,AT,Austria,10402,Música,0
+1906,AT,Austria,9648,Mistério,0
+1906,AT,Austria,10749,Romance,0
+1906,AT,Austria,878,Ficção científica,0
+1906,AT,Austria,10770,Cinema TV,0
+1906,AT,Austria,53,Thriller,0
+1906,AT,Austria,10752,Guerra,0
+1906,AT,Austria,37,Faroeste,0
+1906,AU,Australia,28,Ação,1
+1906,AU,Australia,12,Aventura,0
+1906,AU,Australia,16,Animação,0
+1906,AU,Australia,35,Comédia,0
+1906,AU,Australia,80,Crime,1
+1906,AU,Australia,99,Documentário,1
+1906,AU,Australia,18,Drama,1
+1906,AU,Australia,10751,Família,0
+1906,AU,Australia,14,Fantasia,0
+1906,AU,Australia,36,História,1
+1906,AU,Australia,27,Terror,0
+1906,AU,Australia,10402,Música,0
+1906,AU,Australia,9648,Mistério,0
+1906,AU,Australia,10749,Romance,0
+1906,AU,Australia,878,Ficção científica,0
+1906,AU,Australia,10770,Cinema TV,0
+1906,AU,Australia,53,Thriller,0
+1906,AU,Australia,10752,Guerra,0
+1906,AU,Australia,37,Faroeste,0
+1906,DE,Germany,28,Ação,0
+1906,DE,Germany,12,Aventura,0
+1906,DE,Germany,16,Animação,0
+1906,DE,Germany,35,Comédia,1
+1906,DE,Germany,80,Crime,0
+1906,DE,Germany,99,Documentário,2
+1906,DE,Germany,18,Drama,2
+1906,DE,Germany,10751,Família,0
+1906,DE,Germany,14,Fantasia,0
+1906,DE,Germany,36,História,0
+1906,DE,Germany,27,Terror,0
+1906,DE,Germany,10402,Música,1
+1906,DE,Germany,9648,Mistério,0
+1906,DE,Germany,10749,Romance,0
+1906,DE,Germany,878,Ficção científica,0
+1906,DE,Germany,10770,Cinema TV,0
+1906,DE,Germany,53,Thriller,0
+1906,DE,Germany,10752,Guerra,0
+1906,DE,Germany,37,Faroeste,0
+1906,DK,Denmark,28,Ação,0
+1906,DK,Denmark,12,Aventura,0
+1906,DK,Denmark,16,Animação,0
+1906,DK,Denmark,35,Comédia,2
+1906,DK,Denmark,80,Crime,0
+1906,DK,Denmark,99,Documentário,27
+1906,DK,Denmark,18,Drama,2
+1906,DK,Denmark,10751,Família,0
+1906,DK,Denmark,14,Fantasia,0
+1906,DK,Denmark,36,História,0
+1906,DK,Denmark,27,Terror,1
+1906,DK,Denmark,10402,Música,0
+1906,DK,Denmark,9648,Mistério,0
+1906,DK,Denmark,10749,Romance,1
+1906,DK,Denmark,878,Ficção científica,0
+1906,DK,Denmark,10770,Cinema TV,0
+1906,DK,Denmark,53,Thriller,0
+1906,DK,Denmark,10752,Guerra,0
+1906,DK,Denmark,37,Faroeste,0
+1906,ES,Spain,28,Ação,0
+1906,ES,Spain,12,Aventura,0
+1906,ES,Spain,16,Animação,0
+1906,ES,Spain,35,Comédia,0
+1906,ES,Spain,80,Crime,0
+1906,ES,Spain,99,Documentário,5
+1906,ES,Spain,18,Drama,0
+1906,ES,Spain,10751,Família,0
+1906,ES,Spain,14,Fantasia,0
+1906,ES,Spain,36,História,0
+1906,ES,Spain,27,Terror,0
+1906,ES,Spain,10402,Música,0
+1906,ES,Spain,9648,Mistério,0
+1906,ES,Spain,10749,Romance,0
+1906,ES,Spain,878,Ficção científica,0
+1906,ES,Spain,10770,Cinema TV,0
+1906,ES,Spain,53,Thriller,0
+1906,ES,Spain,10752,Guerra,0
+1906,ES,Spain,37,Faroeste,0
+1906,FR,France,28,Ação,0
+1906,FR,France,12,Aventura,1
+1906,FR,France,16,Animação,1
+1906,FR,France,35,Comédia,88
+1906,FR,France,80,Crime,9
+1906,FR,France,99,Documentário,16
+1906,FR,France,18,Drama,39
+1906,FR,France,10751,Família,1
+1906,FR,France,14,Fantasia,25
+1906,FR,France,36,História,2
+1906,FR,France,27,Terror,3
+1906,FR,France,10402,Música,3
+1906,FR,France,9648,Mistério,0
+1906,FR,France,10749,Romance,2
+1906,FR,France,878,Ficção científica,1
+1906,FR,France,10770,Cinema TV,0
+1906,FR,France,53,Thriller,2
+1906,FR,France,10752,Guerra,0
+1906,FR,France,37,Faroeste,0
+1906,GB,United Kingdom,28,Ação,2
+1906,GB,United Kingdom,12,Aventura,3
+1906,GB,United Kingdom,16,Animação,0
+1906,GB,United Kingdom,35,Comédia,10
+1906,GB,United Kingdom,80,Crime,1
+1906,GB,United Kingdom,99,Documentário,25
+1906,GB,United Kingdom,18,Drama,2
+1906,GB,United Kingdom,10751,Família,1
+1906,GB,United Kingdom,14,Fantasia,3
+1906,GB,United Kingdom,36,História,0
+1906,GB,United Kingdom,27,Terror,0
+1906,GB,United Kingdom,10402,Música,0
+1906,GB,United Kingdom,9648,Mistério,0
+1906,GB,United Kingdom,10749,Romance,0
+1906,GB,United Kingdom,878,Ficção científica,2
+1906,GB,United Kingdom,10770,Cinema TV,0
+1906,GB,United Kingdom,53,Thriller,0
+1906,GB,United Kingdom,10752,Guerra,1
+1906,GB,United Kingdom,37,Faroeste,1
+1906,GR,Greece,28,Ação,0
+1906,GR,Greece,12,Aventura,0
+1906,GR,Greece,16,Animação,0
+1906,GR,Greece,35,Comédia,0
+1906,GR,Greece,80,Crime,0
+1906,GR,Greece,99,Documentário,2
+1906,GR,Greece,18,Drama,0
+1906,GR,Greece,10751,Família,0
+1906,GR,Greece,14,Fantasia,0
+1906,GR,Greece,36,História,0
+1906,GR,Greece,27,Terror,0
+1906,GR,Greece,10402,Música,0
+1906,GR,Greece,9648,Mistério,0
+1906,GR,Greece,10749,Romance,0
+1906,GR,Greece,878,Ficção científica,0
+1906,GR,Greece,10770,Cinema TV,0
+1906,GR,Greece,53,Thriller,0
+1906,GR,Greece,10752,Guerra,0
+1906,GR,Greece,37,Faroeste,0
+1906,IN,India,28,Ação,0
+1906,IN,India,12,Aventura,0
+1906,IN,India,16,Animação,0
+1906,IN,India,35,Comédia,0
+1906,IN,India,80,Crime,0
+1906,IN,India,99,Documentário,2
+1906,IN,India,18,Drama,0
+1906,IN,India,10751,Família,0
+1906,IN,India,14,Fantasia,0
+1906,IN,India,36,História,0
+1906,IN,India,27,Terror,0
+1906,IN,India,10402,Música,0
+1906,IN,India,9648,Mistério,0
+1906,IN,India,10749,Romance,0
+1906,IN,India,878,Ficção científica,0
+1906,IN,India,10770,Cinema TV,0
+1906,IN,India,53,Thriller,0
+1906,IN,India,10752,Guerra,0
+1906,IN,India,37,Faroeste,0
+1906,IS,Iceland,28,Ação,0
+1906,IS,Iceland,12,Aventura,0
+1906,IS,Iceland,16,Animação,0
+1906,IS,Iceland,35,Comédia,0
+1906,IS,Iceland,80,Crime,0
+1906,IS,Iceland,99,Documentário,1
+1906,IS,Iceland,18,Drama,0
+1906,IS,Iceland,10751,Família,0
+1906,IS,Iceland,14,Fantasia,0
+1906,IS,Iceland,36,História,0
+1906,IS,Iceland,27,Terror,0
+1906,IS,Iceland,10402,Música,0
+1906,IS,Iceland,9648,Mistério,0
+1906,IS,Iceland,10749,Romance,0
+1906,IS,Iceland,878,Ficção científica,0
+1906,IS,Iceland,10770,Cinema TV,0
+1906,IS,Iceland,53,Thriller,0
+1906,IS,Iceland,10752,Guerra,0
+1906,IS,Iceland,37,Faroeste,0
+1906,IT,Italy,28,Ação,0
+1906,IT,Italy,12,Aventura,0
+1906,IT,Italy,16,Animação,0
+1906,IT,Italy,35,Comédia,0
+1906,IT,Italy,80,Crime,0
+1906,IT,Italy,99,Documentário,0
+1906,IT,Italy,18,Drama,2
+1906,IT,Italy,10751,Família,0
+1906,IT,Italy,14,Fantasia,0
+1906,IT,Italy,36,História,0
+1906,IT,Italy,27,Terror,0
+1906,IT,Italy,10402,Música,0
+1906,IT,Italy,9648,Mistério,0
+1906,IT,Italy,10749,Romance,0
+1906,IT,Italy,878,Ficção científica,0
+1906,IT,Italy,10770,Cinema TV,0
+1906,IT,Italy,53,Thriller,0
+1906,IT,Italy,10752,Guerra,0
+1906,IT,Italy,37,Faroeste,0
+1906,LU,Luxembourg,28,Ação,0
+1906,LU,Luxembourg,12,Aventura,0
+1906,LU,Luxembourg,16,Animação,0
+1906,LU,Luxembourg,35,Comédia,0
+1906,LU,Luxembourg,80,Crime,0
+1906,LU,Luxembourg,99,Documentário,3
+1906,LU,Luxembourg,18,Drama,0
+1906,LU,Luxembourg,10751,Família,0
+1906,LU,Luxembourg,14,Fantasia,0
+1906,LU,Luxembourg,36,História,0
+1906,LU,Luxembourg,27,Terror,0
+1906,LU,Luxembourg,10402,Música,0
+1906,LU,Luxembourg,9648,Mistério,0
+1906,LU,Luxembourg,10749,Romance,0
+1906,LU,Luxembourg,878,Ficção científica,0
+1906,LU,Luxembourg,10770,Cinema TV,0
+1906,LU,Luxembourg,53,Thriller,0
+1906,LU,Luxembourg,10752,Guerra,0
+1906,LU,Luxembourg,37,Faroeste,0
+1906,MX,Mexico,28,Ação,0
+1906,MX,Mexico,12,Aventura,0
+1906,MX,Mexico,16,Animação,0
+1906,MX,Mexico,35,Comédia,0
+1906,MX,Mexico,80,Crime,0
+1906,MX,Mexico,99,Documentário,1
+1906,MX,Mexico,18,Drama,0
+1906,MX,Mexico,10751,Família,0
+1906,MX,Mexico,14,Fantasia,0
+1906,MX,Mexico,36,História,0
+1906,MX,Mexico,27,Terror,0
+1906,MX,Mexico,10402,Música,0
+1906,MX,Mexico,9648,Mistério,0
+1906,MX,Mexico,10749,Romance,0
+1906,MX,Mexico,878,Ficção científica,0
+1906,MX,Mexico,10770,Cinema TV,0
+1906,MX,Mexico,53,Thriller,0
+1906,MX,Mexico,10752,Guerra,0
+1906,MX,Mexico,37,Faroeste,0
+1906,NL,Netherlands,28,Ação,0
+1906,NL,Netherlands,12,Aventura,0
+1906,NL,Netherlands,16,Animação,0
+1906,NL,Netherlands,35,Comédia,1
+1906,NL,Netherlands,80,Crime,0
+1906,NL,Netherlands,99,Documentário,0
+1906,NL,Netherlands,18,Drama,0
+1906,NL,Netherlands,10751,Família,0
+1906,NL,Netherlands,14,Fantasia,0
+1906,NL,Netherlands,36,História,0
+1906,NL,Netherlands,27,Terror,0
+1906,NL,Netherlands,10402,Música,0
+1906,NL,Netherlands,9648,Mistério,0
+1906,NL,Netherlands,10749,Romance,0
+1906,NL,Netherlands,878,Ficção científica,0
+1906,NL,Netherlands,10770,Cinema TV,0
+1906,NL,Netherlands,53,Thriller,0
+1906,NL,Netherlands,10752,Guerra,0
+1906,NL,Netherlands,37,Faroeste,0
+1906,RU,Russia,28,Ação,0
+1906,RU,Russia,12,Aventura,0
+1906,RU,Russia,16,Animação,4
+1906,RU,Russia,35,Comédia,0
+1906,RU,Russia,80,Crime,0
+1906,RU,Russia,99,Documentário,0
+1906,RU,Russia,18,Drama,0
+1906,RU,Russia,10751,Família,0
+1906,RU,Russia,14,Fantasia,0
+1906,RU,Russia,36,História,0
+1906,RU,Russia,27,Terror,0
+1906,RU,Russia,10402,Música,0
+1906,RU,Russia,9648,Mistério,0
+1906,RU,Russia,10749,Romance,0
+1906,RU,Russia,878,Ficção científica,0
+1906,RU,Russia,10770,Cinema TV,0
+1906,RU,Russia,53,Thriller,0
+1906,RU,Russia,10752,Guerra,0
+1906,RU,Russia,37,Faroeste,0
+1906,SE,Sweden,28,Ação,0
+1906,SE,Sweden,12,Aventura,0
+1906,SE,Sweden,16,Animação,0
+1906,SE,Sweden,35,Comédia,1
+1906,SE,Sweden,80,Crime,0
+1906,SE,Sweden,99,Documentário,6
+1906,SE,Sweden,18,Drama,0
+1906,SE,Sweden,10751,Família,0
+1906,SE,Sweden,14,Fantasia,0
+1906,SE,Sweden,36,História,1
+1906,SE,Sweden,27,Terror,0
+1906,SE,Sweden,10402,Música,0
+1906,SE,Sweden,9648,Mistério,0
+1906,SE,Sweden,10749,Romance,0
+1906,SE,Sweden,878,Ficção científica,0
+1906,SE,Sweden,10770,Cinema TV,0
+1906,SE,Sweden,53,Thriller,0
+1906,SE,Sweden,10752,Guerra,0
+1906,SE,Sweden,37,Faroeste,0
+1906,US,United States of America,28,Ação,2
+1906,US,United States of America,12,Aventura,1
+1906,US,United States of America,16,Animação,1
+1906,US,United States of America,35,Comédia,13
+1906,US,United States of America,80,Crime,7
+1906,US,United States of America,99,Documentário,71
+1906,US,United States of America,18,Drama,8
+1906,US,United States of America,10751,Família,0
+1906,US,United States of America,14,Fantasia,1
+1906,US,United States of America,36,História,1
+1906,US,United States of America,27,Terror,0
+1906,US,United States of America,10402,Música,0
+1906,US,United States of America,9648,Mistério,0
+1906,US,United States of America,10749,Romance,1
+1906,US,United States of America,878,Ficção científica,0
+1906,US,United States of America,10770,Cinema TV,0
+1906,US,United States of America,53,Thriller,0
+1906,US,United States of America,10752,Guerra,0
+1906,US,United States of America,37,Faroeste,4
+1906,XC,Czechoslovakia,28,Ação,0
+1906,XC,Czechoslovakia,12,Aventura,0
+1906,XC,Czechoslovakia,16,Animação,0
+1906,XC,Czechoslovakia,35,Comédia,1
+1906,XC,Czechoslovakia,80,Crime,0
+1906,XC,Czechoslovakia,99,Documentário,0
+1906,XC,Czechoslovakia,18,Drama,0
+1906,XC,Czechoslovakia,10751,Família,0
+1906,XC,Czechoslovakia,14,Fantasia,0
+1906,XC,Czechoslovakia,36,História,0
+1906,XC,Czechoslovakia,27,Terror,0
+1906,XC,Czechoslovakia,10402,Música,0
+1906,XC,Czechoslovakia,9648,Mistério,0
+1906,XC,Czechoslovakia,10749,Romance,0
+1906,XC,Czechoslovakia,878,Ficção científica,0
+1906,XC,Czechoslovakia,10770,Cinema TV,0
+1906,XC,Czechoslovakia,53,Thriller,0
+1906,XC,Czechoslovakia,10752,Guerra,0
+1906,XC,Czechoslovakia,37,Faroeste,0
+1907,AT,Austria,28,Ação,0
+1907,AT,Austria,12,Aventura,2
+1907,AT,Austria,16,Animação,0
+1907,AT,Austria,35,Comédia,4
+1907,AT,Austria,80,Crime,1
+1907,AT,Austria,99,Documentário,1
+1907,AT,Austria,18,Drama,2
+1907,AT,Austria,10751,Família,0
+1907,AT,Austria,14,Fantasia,1
+1907,AT,Austria,36,História,0
+1907,AT,Austria,27,Terror,0
+1907,AT,Austria,10402,Música,0
+1907,AT,Austria,9648,Mistério,0
+1907,AT,Austria,10749,Romance,1
+1907,AT,Austria,878,Ficção científica,0
+1907,AT,Austria,10770,Cinema TV,0
+1907,AT,Austria,53,Thriller,0
+1907,AT,Austria,10752,Guerra,0
+1907,AT,Austria,37,Faroeste,0
+1907,AU,Australia,28,Ação,0
+1907,AU,Australia,12,Aventura,0
+1907,AU,Australia,16,Animação,0
+1907,AU,Australia,35,Comédia,0
+1907,AU,Australia,80,Crime,0
+1907,AU,Australia,99,Documentário,0
+1907,AU,Australia,18,Drama,1
+1907,AU,Australia,10751,Família,0
+1907,AU,Australia,14,Fantasia,0
+1907,AU,Australia,36,História,0
+1907,AU,Australia,27,Terror,0
+1907,AU,Australia,10402,Música,0
+1907,AU,Australia,9648,Mistério,0
+1907,AU,Australia,10749,Romance,0
+1907,AU,Australia,878,Ficção científica,0
+1907,AU,Australia,10770,Cinema TV,0
+1907,AU,Australia,53,Thriller,0
+1907,AU,Australia,10752,Guerra,0
+1907,AU,Australia,37,Faroeste,0
+1907,BR,Brazil,28,Ação,0
+1907,BR,Brazil,12,Aventura,0
+1907,BR,Brazil,16,Animação,0
+1907,BR,Brazil,35,Comédia,0
+1907,BR,Brazil,80,Crime,0
+1907,BR,Brazil,99,Documentário,1
+1907,BR,Brazil,18,Drama,0
+1907,BR,Brazil,10751,Família,0
+1907,BR,Brazil,14,Fantasia,0
+1907,BR,Brazil,36,História,0
+1907,BR,Brazil,27,Terror,0
+1907,BR,Brazil,10402,Música,0
+1907,BR,Brazil,9648,Mistério,0
+1907,BR,Brazil,10749,Romance,0
+1907,BR,Brazil,878,Ficção científica,0
+1907,BR,Brazil,10770,Cinema TV,0
+1907,BR,Brazil,53,Thriller,0
+1907,BR,Brazil,10752,Guerra,0
+1907,BR,Brazil,37,Faroeste,0
+1907,CZ,Czech Republic,28,Ação,0
+1907,CZ,Czech Republic,12,Aventura,0
+1907,CZ,Czech Republic,16,Animação,0
+1907,CZ,Czech Republic,35,Comédia,0
+1907,CZ,Czech Republic,80,Crime,0
+1907,CZ,Czech Republic,99,Documentário,1
+1907,CZ,Czech Republic,18,Drama,0
+1907,CZ,Czech Republic,10751,Família,0
+1907,CZ,Czech Republic,14,Fantasia,0
+1907,CZ,Czech Republic,36,História,0
+1907,CZ,Czech Republic,27,Terror,0
+1907,CZ,Czech Republic,10402,Música,0
+1907,CZ,Czech Republic,9648,Mistério,0
+1907,CZ,Czech Republic,10749,Romance,0
+1907,CZ,Czech Republic,878,Ficção científica,0
+1907,CZ,Czech Republic,10770,Cinema TV,0
+1907,CZ,Czech Republic,53,Thriller,0
+1907,CZ,Czech Republic,10752,Guerra,0
+1907,CZ,Czech Republic,37,Faroeste,0
+1907,DE,Germany,28,Ação,0
+1907,DE,Germany,12,Aventura,0
+1907,DE,Germany,16,Animação,0
+1907,DE,Germany,35,Comédia,2
+1907,DE,Germany,80,Crime,0
+1907,DE,Germany,99,Documentário,3
+1907,DE,Germany,18,Drama,0
+1907,DE,Germany,10751,Família,0
+1907,DE,Germany,14,Fantasia,0
+1907,DE,Germany,36,História,0
+1907,DE,Germany,27,Terror,1
+1907,DE,Germany,10402,Música,2
+1907,DE,Germany,9648,Mistério,0
+1907,DE,Germany,10749,Romance,0
+1907,DE,Germany,878,Ficção científica,0
+1907,DE,Germany,10770,Cinema TV,0
+1907,DE,Germany,53,Thriller,0
+1907,DE,Germany,10752,Guerra,0
+1907,DE,Germany,37,Faroeste,0
+1907,DK,Denmark,28,Ação,0
+1907,DK,Denmark,12,Aventura,0
+1907,DK,Denmark,16,Animação,0
+1907,DK,Denmark,35,Comédia,4
+1907,DK,Denmark,80,Crime,0
+1907,DK,Denmark,99,Documentário,23
+1907,DK,Denmark,18,Drama,9
+1907,DK,Denmark,10751,Família,0
+1907,DK,Denmark,14,Fantasia,1
+1907,DK,Denmark,36,História,0
+1907,DK,Denmark,27,Terror,0
+1907,DK,Denmark,10402,Música,0
+1907,DK,Denmark,9648,Mistério,0
+1907,DK,Denmark,10749,Romance,1
+1907,DK,Denmark,878,Ficção científica,0
+1907,DK,Denmark,10770,Cinema TV,0
+1907,DK,Denmark,53,Thriller,0
+1907,DK,Denmark,10752,Guerra,0
+1907,DK,Denmark,37,Faroeste,0
+1907,EG,Egypt,28,Ação,0
+1907,EG,Egypt,12,Aventura,0
+1907,EG,Egypt,16,Animação,0
+1907,EG,Egypt,35,Comédia,0
+1907,EG,Egypt,80,Crime,0
+1907,EG,Egypt,99,Documentário,1
+1907,EG,Egypt,18,Drama,0
+1907,EG,Egypt,10751,Família,0
+1907,EG,Egypt,14,Fantasia,0
+1907,EG,Egypt,36,História,0
+1907,EG,Egypt,27,Terror,0
+1907,EG,Egypt,10402,Música,0
+1907,EG,Egypt,9648,Mistério,0
+1907,EG,Egypt,10749,Romance,0
+1907,EG,Egypt,878,Ficção científica,0
+1907,EG,Egypt,10770,Cinema TV,0
+1907,EG,Egypt,53,Thriller,0
+1907,EG,Egypt,10752,Guerra,0
+1907,EG,Egypt,37,Faroeste,0
+1907,ES,Spain,28,Ação,0
+1907,ES,Spain,12,Aventura,0
+1907,ES,Spain,16,Animação,0
+1907,ES,Spain,35,Comédia,0
+1907,ES,Spain,80,Crime,0
+1907,ES,Spain,99,Documentário,0
+1907,ES,Spain,18,Drama,1
+1907,ES,Spain,10751,Família,0
+1907,ES,Spain,14,Fantasia,0
+1907,ES,Spain,36,História,0
+1907,ES,Spain,27,Terror,0
+1907,ES,Spain,10402,Música,0
+1907,ES,Spain,9648,Mistério,0
+1907,ES,Spain,10749,Romance,0
+1907,ES,Spain,878,Ficção científica,0
+1907,ES,Spain,10770,Cinema TV,0
+1907,ES,Spain,53,Thriller,0
+1907,ES,Spain,10752,Guerra,0
+1907,ES,Spain,37,Faroeste,0
+1907,FI,Finland,28,Ação,0
+1907,FI,Finland,12,Aventura,0
+1907,FI,Finland,16,Animação,0
+1907,FI,Finland,35,Comédia,1
+1907,FI,Finland,80,Crime,0
+1907,FI,Finland,99,Documentário,0
+1907,FI,Finland,18,Drama,0
+1907,FI,Finland,10751,Família,0
+1907,FI,Finland,14,Fantasia,0
+1907,FI,Finland,36,História,0
+1907,FI,Finland,27,Terror,0
+1907,FI,Finland,10402,Música,0
+1907,FI,Finland,9648,Mistério,0
+1907,FI,Finland,10749,Romance,0
+1907,FI,Finland,878,Ficção científica,0
+1907,FI,Finland,10770,Cinema TV,0
+1907,FI,Finland,53,Thriller,0
+1907,FI,Finland,10752,Guerra,0
+1907,FI,Finland,37,Faroeste,0
+1907,FR,France,28,Ação,2
+1907,FR,France,12,Aventura,7
+1907,FR,France,16,Animação,1
+1907,FR,France,35,Comédia,78
+1907,FR,France,80,Crime,8
+1907,FR,France,99,Documentário,11
+1907,FR,France,18,Drama,38
+1907,FR,France,10751,Família,0
+1907,FR,France,14,Fantasia,34
+1907,FR,France,36,História,3
+1907,FR,France,27,Terror,5
+1907,FR,France,10402,Música,2
+1907,FR,France,9648,Mistério,0
+1907,FR,France,10749,Romance,5
+1907,FR,France,878,Ficção científica,1
+1907,FR,France,10770,Cinema TV,0
+1907,FR,France,53,Thriller,0
+1907,FR,France,10752,Guerra,0
+1907,FR,France,37,Faroeste,2
+1907,GB,United Kingdom,28,Ação,2
+1907,GB,United Kingdom,12,Aventura,0
+1907,GB,United Kingdom,16,Animação,2
+1907,GB,United Kingdom,35,Comédia,13
+1907,GB,United Kingdom,80,Crime,1
+1907,GB,United Kingdom,99,Documentário,28
+1907,GB,United Kingdom,18,Drama,3
+1907,GB,United Kingdom,10751,Família,0
+1907,GB,United Kingdom,14,Fantasia,6
+1907,GB,United Kingdom,36,História,0
+1907,GB,United Kingdom,27,Terror,1
+1907,GB,United Kingdom,10402,Música,0
+1907,GB,United Kingdom,9648,Mistério,0
+1907,GB,United Kingdom,10749,Romance,0
+1907,GB,United Kingdom,878,Ficção científica,1
+1907,GB,United Kingdom,10770,Cinema TV,0
+1907,GB,United Kingdom,53,Thriller,0
+1907,GB,United Kingdom,10752,Guerra,0
+1907,GB,United Kingdom,37,Faroeste,0
+1907,HU,Hungary,28,Ação,0
+1907,HU,Hungary,12,Aventura,1
+1907,HU,Hungary,16,Animação,0
+1907,HU,Hungary,35,Comédia,0
+1907,HU,Hungary,80,Crime,0
+1907,HU,Hungary,99,Documentário,0
+1907,HU,Hungary,18,Drama,0
+1907,HU,Hungary,10751,Família,0
+1907,HU,Hungary,14,Fantasia,0
+1907,HU,Hungary,36,História,0
+1907,HU,Hungary,27,Terror,0
+1907,HU,Hungary,10402,Música,0
+1907,HU,Hungary,9648,Mistério,0
+1907,HU,Hungary,10749,Romance,0
+1907,HU,Hungary,878,Ficção científica,0
+1907,HU,Hungary,10770,Cinema TV,0
+1907,HU,Hungary,53,Thriller,0
+1907,HU,Hungary,10752,Guerra,0
+1907,HU,Hungary,37,Faroeste,0
+1907,IS,Iceland,28,Ação,0
+1907,IS,Iceland,12,Aventura,0
+1907,IS,Iceland,16,Animação,0
+1907,IS,Iceland,35,Comédia,0
+1907,IS,Iceland,80,Crime,0
+1907,IS,Iceland,99,Documentário,1
+1907,IS,Iceland,18,Drama,0
+1907,IS,Iceland,10751,Família,0
+1907,IS,Iceland,14,Fantasia,0
+1907,IS,Iceland,36,História,0
+1907,IS,Iceland,27,Terror,0
+1907,IS,Iceland,10402,Música,0
+1907,IS,Iceland,9648,Mistério,0
+1907,IS,Iceland,10749,Romance,0
+1907,IS,Iceland,878,Ficção científica,0
+1907,IS,Iceland,10770,Cinema TV,0
+1907,IS,Iceland,53,Thriller,0
+1907,IS,Iceland,10752,Guerra,0
+1907,IS,Iceland,37,Faroeste,0
+1907,IT,Italy,28,Ação,0
+1907,IT,Italy,12,Aventura,0
+1907,IT,Italy,16,Animação,0
+1907,IT,Italy,35,Comédia,1
+1907,IT,Italy,80,Crime,0
+1907,IT,Italy,99,Documentário,3
+1907,IT,Italy,18,Drama,0
+1907,IT,Italy,10751,Família,0
+1907,IT,Italy,14,Fantasia,0
+1907,IT,Italy,36,História,0
+1907,IT,Italy,27,Terror,0
+1907,IT,Italy,10402,Música,0
+1907,IT,Italy,9648,Mistério,0
+1907,IT,Italy,10749,Romance,0
+1907,IT,Italy,878,Ficção científica,0
+1907,IT,Italy,10770,Cinema TV,0
+1907,IT,Italy,53,Thriller,0
+1907,IT,Italy,10752,Guerra,0
+1907,IT,Italy,37,Faroeste,0
+1907,JP,Japan,28,Ação,0
+1907,JP,Japan,12,Aventura,0
+1907,JP,Japan,16,Animação,1
+1907,JP,Japan,35,Comédia,0
+1907,JP,Japan,80,Crime,0
+1907,JP,Japan,99,Documentário,1
+1907,JP,Japan,18,Drama,1
+1907,JP,Japan,10751,Família,1
+1907,JP,Japan,14,Fantasia,0
+1907,JP,Japan,36,História,0
+1907,JP,Japan,27,Terror,2
+1907,JP,Japan,10402,Música,0
+1907,JP,Japan,9648,Mistério,0
+1907,JP,Japan,10749,Romance,0
+1907,JP,Japan,878,Ficção científica,0
+1907,JP,Japan,10770,Cinema TV,0
+1907,JP,Japan,53,Thriller,0
+1907,JP,Japan,10752,Guerra,0
+1907,JP,Japan,37,Faroeste,0
+1907,LU,Luxembourg,28,Ação,0
+1907,LU,Luxembourg,12,Aventura,0
+1907,LU,Luxembourg,16,Animação,0
+1907,LU,Luxembourg,35,Comédia,0
+1907,LU,Luxembourg,80,Crime,0
+1907,LU,Luxembourg,99,Documentário,1
+1907,LU,Luxembourg,18,Drama,0
+1907,LU,Luxembourg,10751,Família,0
+1907,LU,Luxembourg,14,Fantasia,0
+1907,LU,Luxembourg,36,História,0
+1907,LU,Luxembourg,27,Terror,0
+1907,LU,Luxembourg,10402,Música,0
+1907,LU,Luxembourg,9648,Mistério,0
+1907,LU,Luxembourg,10749,Romance,0
+1907,LU,Luxembourg,878,Ficção científica,0
+1907,LU,Luxembourg,10770,Cinema TV,0
+1907,LU,Luxembourg,53,Thriller,0
+1907,LU,Luxembourg,10752,Guerra,0
+1907,LU,Luxembourg,37,Faroeste,0
+1907,MX,Mexico,28,Ação,0
+1907,MX,Mexico,12,Aventura,0
+1907,MX,Mexico,16,Animação,0
+1907,MX,Mexico,35,Comédia,0
+1907,MX,Mexico,80,Crime,0
+1907,MX,Mexico,99,Documentário,0
+1907,MX,Mexico,18,Drama,0
+1907,MX,Mexico,10751,Família,0
+1907,MX,Mexico,14,Fantasia,0
+1907,MX,Mexico,36,História,1
+1907,MX,Mexico,27,Terror,0
+1907,MX,Mexico,10402,Música,0
+1907,MX,Mexico,9648,Mistério,0
+1907,MX,Mexico,10749,Romance,0
+1907,MX,Mexico,878,Ficção científica,0
+1907,MX,Mexico,10770,Cinema TV,0
+1907,MX,Mexico,53,Thriller,0
+1907,MX,Mexico,10752,Guerra,0
+1907,MX,Mexico,37,Faroeste,0
+1907,NL,Netherlands,28,Ação,0
+1907,NL,Netherlands,12,Aventura,0
+1907,NL,Netherlands,16,Animação,0
+1907,NL,Netherlands,35,Comédia,0
+1907,NL,Netherlands,80,Crime,0
+1907,NL,Netherlands,99,Documentário,0
+1907,NL,Netherlands,18,Drama,1
+1907,NL,Netherlands,10751,Família,0
+1907,NL,Netherlands,14,Fantasia,0
+1907,NL,Netherlands,36,História,0
+1907,NL,Netherlands,27,Terror,0
+1907,NL,Netherlands,10402,Música,0
+1907,NL,Netherlands,9648,Mistério,0
+1907,NL,Netherlands,10749,Romance,0
+1907,NL,Netherlands,878,Ficção científica,0
+1907,NL,Netherlands,10770,Cinema TV,0
+1907,NL,Netherlands,53,Thriller,0
+1907,NL,Netherlands,10752,Guerra,0
+1907,NL,Netherlands,37,Faroeste,0
+1907,NO,Norway,28,Ação,0
+1907,NO,Norway,12,Aventura,0
+1907,NO,Norway,16,Animação,0
+1907,NO,Norway,35,Comédia,0
+1907,NO,Norway,80,Crime,0
+1907,NO,Norway,99,Documentário,0
+1907,NO,Norway,18,Drama,1
+1907,NO,Norway,10751,Família,0
+1907,NO,Norway,14,Fantasia,0
+1907,NO,Norway,36,História,0
+1907,NO,Norway,27,Terror,0
+1907,NO,Norway,10402,Música,0
+1907,NO,Norway,9648,Mistério,0
+1907,NO,Norway,10749,Romance,0
+1907,NO,Norway,878,Ficção científica,0
+1907,NO,Norway,10770,Cinema TV,0
+1907,NO,Norway,53,Thriller,0
+1907,NO,Norway,10752,Guerra,0
+1907,NO,Norway,37,Faroeste,0
+1907,NZ,New Zealand,28,Ação,0
+1907,NZ,New Zealand,12,Aventura,0
+1907,NZ,New Zealand,16,Animação,0
+1907,NZ,New Zealand,35,Comédia,1
+1907,NZ,New Zealand,80,Crime,0
+1907,NZ,New Zealand,99,Documentário,1
+1907,NZ,New Zealand,18,Drama,0
+1907,NZ,New Zealand,10751,Família,0
+1907,NZ,New Zealand,14,Fantasia,0
+1907,NZ,New Zealand,36,História,0
+1907,NZ,New Zealand,27,Terror,0
+1907,NZ,New Zealand,10402,Música,0
+1907,NZ,New Zealand,9648,Mistério,0
+1907,NZ,New Zealand,10749,Romance,0
+1907,NZ,New Zealand,878,Ficção científica,0
+1907,NZ,New Zealand,10770,Cinema TV,0
+1907,NZ,New Zealand,53,Thriller,0
+1907,NZ,New Zealand,10752,Guerra,0
+1907,NZ,New Zealand,37,Faroeste,0
+1907,PT,Portugal,28,Ação,0
+1907,PT,Portugal,12,Aventura,0
+1907,PT,Portugal,16,Animação,0
+1907,PT,Portugal,35,Comédia,0
+1907,PT,Portugal,80,Crime,0
+1907,PT,Portugal,99,Documentário,0
+1907,PT,Portugal,18,Drama,1
+1907,PT,Portugal,10751,Família,0
+1907,PT,Portugal,14,Fantasia,0
+1907,PT,Portugal,36,História,0
+1907,PT,Portugal,27,Terror,0
+1907,PT,Portugal,10402,Música,0
+1907,PT,Portugal,9648,Mistério,0
+1907,PT,Portugal,10749,Romance,0
+1907,PT,Portugal,878,Ficção científica,0
+1907,PT,Portugal,10770,Cinema TV,0
+1907,PT,Portugal,53,Thriller,0
+1907,PT,Portugal,10752,Guerra,0
+1907,PT,Portugal,37,Faroeste,0
+1907,RU,Russia,28,Ação,0
+1907,RU,Russia,12,Aventura,0
+1907,RU,Russia,16,Animação,0
+1907,RU,Russia,35,Comédia,0
+1907,RU,Russia,80,Crime,0
+1907,RU,Russia,99,Documentário,0
+1907,RU,Russia,18,Drama,1
+1907,RU,Russia,10751,Família,0
+1907,RU,Russia,14,Fantasia,0
+1907,RU,Russia,36,História,1
+1907,RU,Russia,27,Terror,0
+1907,RU,Russia,10402,Música,0
+1907,RU,Russia,9648,Mistério,0
+1907,RU,Russia,10749,Romance,0
+1907,RU,Russia,878,Ficção científica,0
+1907,RU,Russia,10770,Cinema TV,0
+1907,RU,Russia,53,Thriller,0
+1907,RU,Russia,10752,Guerra,0
+1907,RU,Russia,37,Faroeste,0
+1907,SE,Sweden,28,Ação,1
+1907,SE,Sweden,12,Aventura,0
+1907,SE,Sweden,16,Animação,0
+1907,SE,Sweden,35,Comédia,0
+1907,SE,Sweden,80,Crime,0
+1907,SE,Sweden,99,Documentário,14
+1907,SE,Sweden,18,Drama,1
+1907,SE,Sweden,10751,Família,0
+1907,SE,Sweden,14,Fantasia,0
+1907,SE,Sweden,36,História,0
+1907,SE,Sweden,27,Terror,0
+1907,SE,Sweden,10402,Música,0
+1907,SE,Sweden,9648,Mistério,0
+1907,SE,Sweden,10749,Romance,0
+1907,SE,Sweden,878,Ficção científica,0
+1907,SE,Sweden,10770,Cinema TV,0
+1907,SE,Sweden,53,Thriller,0
+1907,SE,Sweden,10752,Guerra,0
+1907,SE,Sweden,37,Faroeste,0
+1907,TN,Tunisia,28,Ação,0
+1907,TN,Tunisia,12,Aventura,0
+1907,TN,Tunisia,16,Animação,0
+1907,TN,Tunisia,35,Comédia,0
+1907,TN,Tunisia,80,Crime,0
+1907,TN,Tunisia,99,Documentário,1
+1907,TN,Tunisia,18,Drama,0
+1907,TN,Tunisia,10751,Família,0
+1907,TN,Tunisia,14,Fantasia,0
+1907,TN,Tunisia,36,História,0
+1907,TN,Tunisia,27,Terror,0
+1907,TN,Tunisia,10402,Música,0
+1907,TN,Tunisia,9648,Mistério,0
+1907,TN,Tunisia,10749,Romance,0
+1907,TN,Tunisia,878,Ficção científica,0
+1907,TN,Tunisia,10770,Cinema TV,0
+1907,TN,Tunisia,53,Thriller,0
+1907,TN,Tunisia,10752,Guerra,0
+1907,TN,Tunisia,37,Faroeste,0
+1907,TW,Taiwan,28,Ação,0
+1907,TW,Taiwan,12,Aventura,0
+1907,TW,Taiwan,16,Animação,0
+1907,TW,Taiwan,35,Comédia,0
+1907,TW,Taiwan,80,Crime,0
+1907,TW,Taiwan,99,Documentário,1
+1907,TW,Taiwan,18,Drama,0
+1907,TW,Taiwan,10751,Família,0
+1907,TW,Taiwan,14,Fantasia,0
+1907,TW,Taiwan,36,História,0
+1907,TW,Taiwan,27,Terror,0
+1907,TW,Taiwan,10402,Música,0
+1907,TW,Taiwan,9648,Mistério,0
+1907,TW,Taiwan,10749,Romance,0
+1907,TW,Taiwan,878,Ficção científica,0
+1907,TW,Taiwan,10770,Cinema TV,0
+1907,TW,Taiwan,53,Thriller,0
+1907,TW,Taiwan,10752,Guerra,0
+1907,TW,Taiwan,37,Faroeste,0
+1907,US,United States of America,28,Ação,0
+1907,US,United States of America,12,Aventura,2
+1907,US,United States of America,16,Animação,3
+1907,US,United States of America,35,Comédia,26
+1907,US,United States of America,80,Crime,2
+1907,US,United States of America,99,Documentário,36
+1907,US,United States of America,18,Drama,12
+1907,US,United States of America,10751,Família,1
+1907,US,United States of America,14,Fantasia,5
+1907,US,United States of America,36,História,2
+1907,US,United States of America,27,Terror,2
+1907,US,United States of America,10402,Música,1
+1907,US,United States of America,9648,Mistério,0
+1907,US,United States of America,10749,Romance,3
+1907,US,United States of America,878,Ficção científica,0
+1907,US,United States of America,10770,Cinema TV,0
+1907,US,United States of America,53,Thriller,0
+1907,US,United States of America,10752,Guerra,0
+1907,US,United States of America,37,Faroeste,3
+1908,AT,Austria,28,Ação,0
+1908,AT,Austria,12,Aventura,0
+1908,AT,Austria,16,Animação,0
+1908,AT,Austria,35,Comédia,3
+1908,AT,Austria,80,Crime,1
+1908,AT,Austria,99,Documentário,1
+1908,AT,Austria,18,Drama,1
+1908,AT,Austria,10751,Família,0
+1908,AT,Austria,14,Fantasia,0
+1908,AT,Austria,36,História,0
+1908,AT,Austria,27,Terror,0
+1908,AT,Austria,10402,Música,0
+1908,AT,Austria,9648,Mistério,0
+1908,AT,Austria,10749,Romance,0
+1908,AT,Austria,878,Ficção científica,0
+1908,AT,Austria,10770,Cinema TV,0
+1908,AT,Austria,53,Thriller,0
+1908,AT,Austria,10752,Guerra,0
+1908,AT,Austria,37,Faroeste,0
+1908,AU,Australia,28,Ação,0
+1908,AU,Australia,12,Aventura,0
+1908,AU,Australia,16,Animação,0
+1908,AU,Australia,35,Comédia,0
+1908,AU,Australia,80,Crime,1
+1908,AU,Australia,99,Documentário,1
+1908,AU,Australia,18,Drama,1
+1908,AU,Australia,10751,Família,0
+1908,AU,Australia,14,Fantasia,0
+1908,AU,Australia,36,História,0
+1908,AU,Australia,27,Terror,0
+1908,AU,Australia,10402,Música,0
+1908,AU,Australia,9648,Mistério,0
+1908,AU,Australia,10749,Romance,0
+1908,AU,Australia,878,Ficção científica,0
+1908,AU,Australia,10770,Cinema TV,0
+1908,AU,Australia,53,Thriller,0
+1908,AU,Australia,10752,Guerra,0
+1908,AU,Australia,37,Faroeste,0
+1908,BE,Belgium,28,Ação,0
+1908,BE,Belgium,12,Aventura,0
+1908,BE,Belgium,16,Animação,0
+1908,BE,Belgium,35,Comédia,0
+1908,BE,Belgium,80,Crime,0
+1908,BE,Belgium,99,Documentário,1
+1908,BE,Belgium,18,Drama,0
+1908,BE,Belgium,10751,Família,0
+1908,BE,Belgium,14,Fantasia,0
+1908,BE,Belgium,36,História,0
+1908,BE,Belgium,27,Terror,0
+1908,BE,Belgium,10402,Música,0
+1908,BE,Belgium,9648,Mistério,0
+1908,BE,Belgium,10749,Romance,0
+1908,BE,Belgium,878,Ficção científica,0
+1908,BE,Belgium,10770,Cinema TV,0
+1908,BE,Belgium,53,Thriller,0
+1908,BE,Belgium,10752,Guerra,0
+1908,BE,Belgium,37,Faroeste,0
+1908,BR,Brazil,28,Ação,0
+1908,BR,Brazil,12,Aventura,0
+1908,BR,Brazil,16,Animação,0
+1908,BR,Brazil,35,Comédia,1
+1908,BR,Brazil,80,Crime,1
+1908,BR,Brazil,99,Documentário,3
+1908,BR,Brazil,18,Drama,2
+1908,BR,Brazil,10751,Família,0
+1908,BR,Brazil,14,Fantasia,0
+1908,BR,Brazil,36,História,0
+1908,BR,Brazil,27,Terror,0
+1908,BR,Brazil,10402,Música,1
+1908,BR,Brazil,9648,Mistério,1
+1908,BR,Brazil,10749,Romance,0
+1908,BR,Brazil,878,Ficção científica,0
+1908,BR,Brazil,10770,Cinema TV,0
+1908,BR,Brazil,53,Thriller,0
+1908,BR,Brazil,10752,Guerra,0
+1908,BR,Brazil,37,Faroeste,0
+1908,CA,Canada,28,Ação,0
+1908,CA,Canada,12,Aventura,0
+1908,CA,Canada,16,Animação,0
+1908,CA,Canada,35,Comédia,0
+1908,CA,Canada,80,Crime,0
+1908,CA,Canada,99,Documentário,1
+1908,CA,Canada,18,Drama,0
+1908,CA,Canada,10751,Família,0
+1908,CA,Canada,14,Fantasia,0
+1908,CA,Canada,36,História,0
+1908,CA,Canada,27,Terror,0
+1908,CA,Canada,10402,Música,0
+1908,CA,Canada,9648,Mistério,0
+1908,CA,Canada,10749,Romance,0
+1908,CA,Canada,878,Ficção científica,0
+1908,CA,Canada,10770,Cinema TV,0
+1908,CA,Canada,53,Thriller,0
+1908,CA,Canada,10752,Guerra,0
+1908,CA,Canada,37,Faroeste,0
+1908,CZ,Czech Republic,28,Ação,0
+1908,CZ,Czech Republic,12,Aventura,0
+1908,CZ,Czech Republic,16,Animação,0
+1908,CZ,Czech Republic,35,Comédia,0
+1908,CZ,Czech Republic,80,Crime,0
+1908,CZ,Czech Republic,99,Documentário,1
+1908,CZ,Czech Republic,18,Drama,0
+1908,CZ,Czech Republic,10751,Família,0
+1908,CZ,Czech Republic,14,Fantasia,0
+1908,CZ,Czech Republic,36,História,0
+1908,CZ,Czech Republic,27,Terror,0
+1908,CZ,Czech Republic,10402,Música,0
+1908,CZ,Czech Republic,9648,Mistério,0
+1908,CZ,Czech Republic,10749,Romance,0
+1908,CZ,Czech Republic,878,Ficção científica,0
+1908,CZ,Czech Republic,10770,Cinema TV,0
+1908,CZ,Czech Republic,53,Thriller,0
+1908,CZ,Czech Republic,10752,Guerra,0
+1908,CZ,Czech Republic,37,Faroeste,0
+1908,DE,Germany,28,Ação,0
+1908,DE,Germany,12,Aventura,0
+1908,DE,Germany,16,Animação,0
+1908,DE,Germany,35,Comédia,0
+1908,DE,Germany,80,Crime,0
+1908,DE,Germany,99,Documentário,21
+1908,DE,Germany,18,Drama,0
+1908,DE,Germany,10751,Família,0
+1908,DE,Germany,14,Fantasia,0
+1908,DE,Germany,36,História,0
+1908,DE,Germany,27,Terror,0
+1908,DE,Germany,10402,Música,12
+1908,DE,Germany,9648,Mistério,0
+1908,DE,Germany,10749,Romance,0
+1908,DE,Germany,878,Ficção científica,0
+1908,DE,Germany,10770,Cinema TV,0
+1908,DE,Germany,53,Thriller,0
+1908,DE,Germany,10752,Guerra,0
+1908,DE,Germany,37,Faroeste,0
+1908,DK,Denmark,28,Ação,0
+1908,DK,Denmark,12,Aventura,1
+1908,DK,Denmark,16,Animação,0
+1908,DK,Denmark,35,Comédia,1
+1908,DK,Denmark,80,Crime,1
+1908,DK,Denmark,99,Documentário,7
+1908,DK,Denmark,18,Drama,4
+1908,DK,Denmark,10751,Família,0
+1908,DK,Denmark,14,Fantasia,0
+1908,DK,Denmark,36,História,1
+1908,DK,Denmark,27,Terror,1
+1908,DK,Denmark,10402,Música,0
+1908,DK,Denmark,9648,Mistério,1
+1908,DK,Denmark,10749,Romance,0
+1908,DK,Denmark,878,Ficção científica,0
+1908,DK,Denmark,10770,Cinema TV,0
+1908,DK,Denmark,53,Thriller,0
+1908,DK,Denmark,10752,Guerra,0
+1908,DK,Denmark,37,Faroeste,0
+1908,ES,Spain,28,Ação,0
+1908,ES,Spain,12,Aventura,0
+1908,ES,Spain,16,Animação,0
+1908,ES,Spain,35,Comédia,0
+1908,ES,Spain,80,Crime,0
+1908,ES,Spain,99,Documentário,3
+1908,ES,Spain,18,Drama,4
+1908,ES,Spain,10751,Família,0
+1908,ES,Spain,14,Fantasia,0
+1908,ES,Spain,36,História,1
+1908,ES,Spain,27,Terror,0
+1908,ES,Spain,10402,Música,0
+1908,ES,Spain,9648,Mistério,0
+1908,ES,Spain,10749,Romance,2
+1908,ES,Spain,878,Ficção científica,0
+1908,ES,Spain,10770,Cinema TV,0
+1908,ES,Spain,53,Thriller,0
+1908,ES,Spain,10752,Guerra,0
+1908,ES,Spain,37,Faroeste,0
+1908,FR,France,28,Ação,3
+1908,FR,France,12,Aventura,4
+1908,FR,France,16,Animação,14
+1908,FR,France,35,Comédia,96
+1908,FR,France,80,Crime,5
+1908,FR,France,99,Documentário,13
+1908,FR,France,18,Drama,44
+1908,FR,France,10751,Família,1
+1908,FR,France,14,Fantasia,51
+1908,FR,France,36,História,9
+1908,FR,France,27,Terror,5
+1908,FR,France,10402,Música,0
+1908,FR,France,9648,Mistério,1
+1908,FR,France,10749,Romance,1
+1908,FR,France,878,Ficção científica,6
+1908,FR,France,10770,Cinema TV,0
+1908,FR,France,53,Thriller,1
+1908,FR,France,10752,Guerra,0
+1908,FR,France,37,Faroeste,1
+1908,GB,United Kingdom,28,Ação,0
+1908,GB,United Kingdom,12,Aventura,1
+1908,GB,United Kingdom,16,Animação,2
+1908,GB,United Kingdom,35,Comédia,8
+1908,GB,United Kingdom,80,Crime,1
+1908,GB,United Kingdom,99,Documentário,15
+1908,GB,United Kingdom,18,Drama,6
+1908,GB,United Kingdom,10751,Família,0
+1908,GB,United Kingdom,14,Fantasia,3
+1908,GB,United Kingdom,36,História,1
+1908,GB,United Kingdom,27,Terror,0
+1908,GB,United Kingdom,10402,Música,0
+1908,GB,United Kingdom,9648,Mistério,0
+1908,GB,United Kingdom,10749,Romance,0
+1908,GB,United Kingdom,878,Ficção científica,0
+1908,GB,United Kingdom,10770,Cinema TV,0
+1908,GB,United Kingdom,53,Thriller,0
+1908,GB,United Kingdom,10752,Guerra,0
+1908,GB,United Kingdom,37,Faroeste,0
+1908,GE,Georgia,28,Ação,0
+1908,GE,Georgia,12,Aventura,0
+1908,GE,Georgia,16,Animação,0
+1908,GE,Georgia,35,Comédia,0
+1908,GE,Georgia,80,Crime,0
+1908,GE,Georgia,99,Documentário,7
+1908,GE,Georgia,18,Drama,0
+1908,GE,Georgia,10751,Família,0
+1908,GE,Georgia,14,Fantasia,0
+1908,GE,Georgia,36,História,0
+1908,GE,Georgia,27,Terror,0
+1908,GE,Georgia,10402,Música,0
+1908,GE,Georgia,9648,Mistério,0
+1908,GE,Georgia,10749,Romance,0
+1908,GE,Georgia,878,Ficção científica,0
+1908,GE,Georgia,10770,Cinema TV,0
+1908,GE,Georgia,53,Thriller,0
+1908,GE,Georgia,10752,Guerra,0
+1908,GE,Georgia,37,Faroeste,0
+1908,IE,Ireland,28,Ação,0
+1908,IE,Ireland,12,Aventura,0
+1908,IE,Ireland,16,Animação,0
+1908,IE,Ireland,35,Comédia,0
+1908,IE,Ireland,80,Crime,0
+1908,IE,Ireland,99,Documentário,1
+1908,IE,Ireland,18,Drama,0
+1908,IE,Ireland,10751,Família,0
+1908,IE,Ireland,14,Fantasia,0
+1908,IE,Ireland,36,História,0
+1908,IE,Ireland,27,Terror,0
+1908,IE,Ireland,10402,Música,0
+1908,IE,Ireland,9648,Mistério,0
+1908,IE,Ireland,10749,Romance,0
+1908,IE,Ireland,878,Ficção científica,0
+1908,IE,Ireland,10770,Cinema TV,0
+1908,IE,Ireland,53,Thriller,0
+1908,IE,Ireland,10752,Guerra,0
+1908,IE,Ireland,37,Faroeste,0
+1908,IT,Italy,28,Ação,0
+1908,IT,Italy,12,Aventura,0
+1908,IT,Italy,16,Animação,0
+1908,IT,Italy,35,Comédia,4
+1908,IT,Italy,80,Crime,0
+1908,IT,Italy,99,Documentário,5
+1908,IT,Italy,18,Drama,7
+1908,IT,Italy,10751,Família,0
+1908,IT,Italy,14,Fantasia,2
+1908,IT,Italy,36,História,1
+1908,IT,Italy,27,Terror,0
+1908,IT,Italy,10402,Música,0
+1908,IT,Italy,9648,Mistério,0
+1908,IT,Italy,10749,Romance,0
+1908,IT,Italy,878,Ficção científica,0
+1908,IT,Italy,10770,Cinema TV,0
+1908,IT,Italy,53,Thriller,0
+1908,IT,Italy,10752,Guerra,0
+1908,IT,Italy,37,Faroeste,0
+1908,JP,Japan,28,Ação,1
+1908,JP,Japan,12,Aventura,1
+1908,JP,Japan,16,Animação,0
+1908,JP,Japan,35,Comédia,0
+1908,JP,Japan,80,Crime,0
+1908,JP,Japan,99,Documentário,0
+1908,JP,Japan,18,Drama,2
+1908,JP,Japan,10751,Família,0
+1908,JP,Japan,14,Fantasia,0
+1908,JP,Japan,36,História,0
+1908,JP,Japan,27,Terror,3
+1908,JP,Japan,10402,Música,0
+1908,JP,Japan,9648,Mistério,0
+1908,JP,Japan,10749,Romance,0
+1908,JP,Japan,878,Ficção científica,0
+1908,JP,Japan,10770,Cinema TV,0
+1908,JP,Japan,53,Thriller,0
+1908,JP,Japan,10752,Guerra,0
+1908,JP,Japan,37,Faroeste,0
+1908,MK,Macedonia,28,Ação,0
+1908,MK,Macedonia,12,Aventura,0
+1908,MK,Macedonia,16,Animação,0
+1908,MK,Macedonia,35,Comédia,0
+1908,MK,Macedonia,80,Crime,0
+1908,MK,Macedonia,99,Documentário,1
+1908,MK,Macedonia,18,Drama,0
+1908,MK,Macedonia,10751,Família,0
+1908,MK,Macedonia,14,Fantasia,0
+1908,MK,Macedonia,36,História,0
+1908,MK,Macedonia,27,Terror,0
+1908,MK,Macedonia,10402,Música,0
+1908,MK,Macedonia,9648,Mistério,0
+1908,MK,Macedonia,10749,Romance,0
+1908,MK,Macedonia,878,Ficção científica,0
+1908,MK,Macedonia,10770,Cinema TV,0
+1908,MK,Macedonia,53,Thriller,0
+1908,MK,Macedonia,10752,Guerra,0
+1908,MK,Macedonia,37,Faroeste,0
+1908,NZ,New Zealand,28,Ação,0
+1908,NZ,New Zealand,12,Aventura,0
+1908,NZ,New Zealand,16,Animação,0
+1908,NZ,New Zealand,35,Comédia,0
+1908,NZ,New Zealand,80,Crime,0
+1908,NZ,New Zealand,99,Documentário,1
+1908,NZ,New Zealand,18,Drama,0
+1908,NZ,New Zealand,10751,Família,0
+1908,NZ,New Zealand,14,Fantasia,0
+1908,NZ,New Zealand,36,História,0
+1908,NZ,New Zealand,27,Terror,0
+1908,NZ,New Zealand,10402,Música,0
+1908,NZ,New Zealand,9648,Mistério,0
+1908,NZ,New Zealand,10749,Romance,0
+1908,NZ,New Zealand,878,Ficção científica,0
+1908,NZ,New Zealand,10770,Cinema TV,0
+1908,NZ,New Zealand,53,Thriller,0
+1908,NZ,New Zealand,10752,Guerra,0
+1908,NZ,New Zealand,37,Faroeste,0
+1908,PE,Peru,28,Ação,0
+1908,PE,Peru,12,Aventura,0
+1908,PE,Peru,16,Animação,0
+1908,PE,Peru,35,Comédia,0
+1908,PE,Peru,80,Crime,0
+1908,PE,Peru,99,Documentário,8
+1908,PE,Peru,18,Drama,0
+1908,PE,Peru,10751,Família,0
+1908,PE,Peru,14,Fantasia,0
+1908,PE,Peru,36,História,0
+1908,PE,Peru,27,Terror,0
+1908,PE,Peru,10402,Música,0
+1908,PE,Peru,9648,Mistério,0
+1908,PE,Peru,10749,Romance,0
+1908,PE,Peru,878,Ficção científica,0
+1908,PE,Peru,10770,Cinema TV,0
+1908,PE,Peru,53,Thriller,0
+1908,PE,Peru,10752,Guerra,0
+1908,PE,Peru,37,Faroeste,0
+1908,PL,Poland,28,Ação,0
+1908,PL,Poland,12,Aventura,0
+1908,PL,Poland,16,Animação,0
+1908,PL,Poland,35,Comédia,1
+1908,PL,Poland,80,Crime,0
+1908,PL,Poland,99,Documentário,0
+1908,PL,Poland,18,Drama,1
+1908,PL,Poland,10751,Família,0
+1908,PL,Poland,14,Fantasia,0
+1908,PL,Poland,36,História,0
+1908,PL,Poland,27,Terror,0
+1908,PL,Poland,10402,Música,0
+1908,PL,Poland,9648,Mistério,0
+1908,PL,Poland,10749,Romance,0
+1908,PL,Poland,878,Ficção científica,0
+1908,PL,Poland,10770,Cinema TV,0
+1908,PL,Poland,53,Thriller,0
+1908,PL,Poland,10752,Guerra,0
+1908,PL,Poland,37,Faroeste,0
+1908,PT,Portugal,28,Ação,0
+1908,PT,Portugal,12,Aventura,0
+1908,PT,Portugal,16,Animação,0
+1908,PT,Portugal,35,Comédia,0
+1908,PT,Portugal,80,Crime,0
+1908,PT,Portugal,99,Documentário,1
+1908,PT,Portugal,18,Drama,0
+1908,PT,Portugal,10751,Família,0
+1908,PT,Portugal,14,Fantasia,0
+1908,PT,Portugal,36,História,0
+1908,PT,Portugal,27,Terror,0
+1908,PT,Portugal,10402,Música,0
+1908,PT,Portugal,9648,Mistério,0
+1908,PT,Portugal,10749,Romance,0
+1908,PT,Portugal,878,Ficção científica,0
+1908,PT,Portugal,10770,Cinema TV,0
+1908,PT,Portugal,53,Thriller,0
+1908,PT,Portugal,10752,Guerra,0
+1908,PT,Portugal,37,Faroeste,0
+1908,RU,Russia,28,Ação,0
+1908,RU,Russia,12,Aventura,0
+1908,RU,Russia,16,Animação,0
+1908,RU,Russia,35,Comédia,2
+1908,RU,Russia,80,Crime,1
+1908,RU,Russia,99,Documentário,1
+1908,RU,Russia,18,Drama,2
+1908,RU,Russia,10751,Família,0
+1908,RU,Russia,14,Fantasia,0
+1908,RU,Russia,36,História,0
+1908,RU,Russia,27,Terror,0
+1908,RU,Russia,10402,Música,0
+1908,RU,Russia,9648,Mistério,0
+1908,RU,Russia,10749,Romance,1
+1908,RU,Russia,878,Ficção científica,0
+1908,RU,Russia,10770,Cinema TV,0
+1908,RU,Russia,53,Thriller,0
+1908,RU,Russia,10752,Guerra,0
+1908,RU,Russia,37,Faroeste,0
+1908,SE,Sweden,28,Ação,0
+1908,SE,Sweden,12,Aventura,0
+1908,SE,Sweden,16,Animação,0
+1908,SE,Sweden,35,Comédia,5
+1908,SE,Sweden,80,Crime,0
+1908,SE,Sweden,99,Documentário,20
+1908,SE,Sweden,18,Drama,1
+1908,SE,Sweden,10751,Família,0
+1908,SE,Sweden,14,Fantasia,0
+1908,SE,Sweden,36,História,1
+1908,SE,Sweden,27,Terror,0
+1908,SE,Sweden,10402,Música,0
+1908,SE,Sweden,9648,Mistério,0
+1908,SE,Sweden,10749,Romance,0
+1908,SE,Sweden,878,Ficção científica,0
+1908,SE,Sweden,10770,Cinema TV,0
+1908,SE,Sweden,53,Thriller,0
+1908,SE,Sweden,10752,Guerra,0
+1908,SE,Sweden,37,Faroeste,0
+1908,UA,Ukraine,28,Ação,0
+1908,UA,Ukraine,12,Aventura,0
+1908,UA,Ukraine,16,Animação,0
+1908,UA,Ukraine,35,Comédia,0
+1908,UA,Ukraine,80,Crime,0
+1908,UA,Ukraine,99,Documentário,1
+1908,UA,Ukraine,18,Drama,0
+1908,UA,Ukraine,10751,Família,0
+1908,UA,Ukraine,14,Fantasia,0
+1908,UA,Ukraine,36,História,0
+1908,UA,Ukraine,27,Terror,0
+1908,UA,Ukraine,10402,Música,0
+1908,UA,Ukraine,9648,Mistério,0
+1908,UA,Ukraine,10749,Romance,0
+1908,UA,Ukraine,878,Ficção científica,0
+1908,UA,Ukraine,10770,Cinema TV,0
+1908,UA,Ukraine,53,Thriller,0
+1908,UA,Ukraine,10752,Guerra,0
+1908,UA,Ukraine,37,Faroeste,0
+1908,US,United States of America,28,Ação,11
+1908,US,United States of America,12,Aventura,3
+1908,US,United States of America,16,Animação,1
+1908,US,United States of America,35,Comédia,44
+1908,US,United States of America,80,Crime,12
+1908,US,United States of America,99,Documentário,12
+1908,US,United States of America,18,Drama,61
+1908,US,United States of America,10751,Família,0
+1908,US,United States of America,14,Fantasia,5
+1908,US,United States of America,36,História,5
+1908,US,United States of America,27,Terror,2
+1908,US,United States of America,10402,Música,0
+1908,US,United States of America,9648,Mistério,1
+1908,US,United States of America,10749,Romance,6
+1908,US,United States of America,878,Ficção científica,1
+1908,US,United States of America,10770,Cinema TV,0
+1908,US,United States of America,53,Thriller,3
+1908,US,United States of America,10752,Guerra,1
+1908,US,United States of America,37,Faroeste,9
+1908,XC,Czechoslovakia,28,Ação,0
+1908,XC,Czechoslovakia,12,Aventura,0
+1908,XC,Czechoslovakia,16,Animação,0
+1908,XC,Czechoslovakia,35,Comédia,0
+1908,XC,Czechoslovakia,80,Crime,0
+1908,XC,Czechoslovakia,99,Documentário,1
+1908,XC,Czechoslovakia,18,Drama,0
+1908,XC,Czechoslovakia,10751,Família,0
+1908,XC,Czechoslovakia,14,Fantasia,0
+1908,XC,Czechoslovakia,36,História,0
+1908,XC,Czechoslovakia,27,Terror,0
+1908,XC,Czechoslovakia,10402,Música,0
+1908,XC,Czechoslovakia,9648,Mistério,0
+1908,XC,Czechoslovakia,10749,Romance,0
+1908,XC,Czechoslovakia,878,Ficção científica,0
+1908,XC,Czechoslovakia,10770,Cinema TV,0
+1908,XC,Czechoslovakia,53,Thriller,0
+1908,XC,Czechoslovakia,10752,Guerra,0
+1908,XC,Czechoslovakia,37,Faroeste,0
+1909,AR,Argentina,28,Ação,0
+1909,AR,Argentina,12,Aventura,0
+1909,AR,Argentina,16,Animação,0
+1909,AR,Argentina,35,Comédia,0
+1909,AR,Argentina,80,Crime,0
+1909,AR,Argentina,99,Documentário,2
+1909,AR,Argentina,18,Drama,3
+1909,AR,Argentina,10751,Família,0
+1909,AR,Argentina,14,Fantasia,0
+1909,AR,Argentina,36,História,3
+1909,AR,Argentina,27,Terror,0
+1909,AR,Argentina,10402,Música,0
+1909,AR,Argentina,9648,Mistério,0
+1909,AR,Argentina,10749,Romance,0
+1909,AR,Argentina,878,Ficção científica,0
+1909,AR,Argentina,10770,Cinema TV,0
+1909,AR,Argentina,53,Thriller,0
+1909,AR,Argentina,10752,Guerra,0
+1909,AR,Argentina,37,Faroeste,0
+1909,AT,Austria,28,Ação,0
+1909,AT,Austria,12,Aventura,0
+1909,AT,Austria,16,Animação,0
+1909,AT,Austria,35,Comédia,0
+1909,AT,Austria,80,Crime,0
+1909,AT,Austria,99,Documentário,2
+1909,AT,Austria,18,Drama,0
+1909,AT,Austria,10751,Família,0
+1909,AT,Austria,14,Fantasia,1
+1909,AT,Austria,36,História,0
+1909,AT,Austria,27,Terror,0
+1909,AT,Austria,10402,Música,0
+1909,AT,Austria,9648,Mistério,0
+1909,AT,Austria,10749,Romance,0
+1909,AT,Austria,878,Ficção científica,0
+1909,AT,Austria,10770,Cinema TV,0
+1909,AT,Austria,53,Thriller,0
+1909,AT,Austria,10752,Guerra,0
+1909,AT,Austria,37,Faroeste,0
+1909,AU,Australia,28,Ação,0
+1909,AU,Australia,12,Aventura,0
+1909,AU,Australia,16,Animação,0
+1909,AU,Australia,35,Comédia,0
+1909,AU,Australia,80,Crime,0
+1909,AU,Australia,99,Documentário,1
+1909,AU,Australia,18,Drama,0
+1909,AU,Australia,10751,Família,0
+1909,AU,Australia,14,Fantasia,0
+1909,AU,Australia,36,História,0
+1909,AU,Australia,27,Terror,0
+1909,AU,Australia,10402,Música,0
+1909,AU,Australia,9648,Mistério,0
+1909,AU,Australia,10749,Romance,0
+1909,AU,Australia,878,Ficção científica,0
+1909,AU,Australia,10770,Cinema TV,0
+1909,AU,Australia,53,Thriller,0
+1909,AU,Australia,10752,Guerra,0
+1909,AU,Australia,37,Faroeste,0
+1909,BE,Belgium,28,Ação,0
+1909,BE,Belgium,12,Aventura,0
+1909,BE,Belgium,16,Animação,0
+1909,BE,Belgium,35,Comédia,0
+1909,BE,Belgium,80,Crime,0
+1909,BE,Belgium,99,Documentário,1
+1909,BE,Belgium,18,Drama,1
+1909,BE,Belgium,10751,Família,0
+1909,BE,Belgium,14,Fantasia,0
+1909,BE,Belgium,36,História,0
+1909,BE,Belgium,27,Terror,0
+1909,BE,Belgium,10402,Música,0
+1909,BE,Belgium,9648,Mistério,0
+1909,BE,Belgium,10749,Romance,0
+1909,BE,Belgium,878,Ficção científica,0
+1909,BE,Belgium,10770,Cinema TV,0
+1909,BE,Belgium,53,Thriller,0
+1909,BE,Belgium,10752,Guerra,0
+1909,BE,Belgium,37,Faroeste,0
+1909,BR,Brazil,28,Ação,0
+1909,BR,Brazil,12,Aventura,0
+1909,BR,Brazil,16,Animação,0
+1909,BR,Brazil,35,Comédia,0
+1909,BR,Brazil,80,Crime,0
+1909,BR,Brazil,99,Documentário,11
+1909,BR,Brazil,18,Drama,1
+1909,BR,Brazil,10751,Família,0
+1909,BR,Brazil,14,Fantasia,0
+1909,BR,Brazil,36,História,1
+1909,BR,Brazil,27,Terror,0
+1909,BR,Brazil,10402,Música,0
+1909,BR,Brazil,9648,Mistério,0
+1909,BR,Brazil,10749,Romance,0
+1909,BR,Brazil,878,Ficção científica,0
+1909,BR,Brazil,10770,Cinema TV,0
+1909,BR,Brazil,53,Thriller,0
+1909,BR,Brazil,10752,Guerra,0
+1909,BR,Brazil,37,Faroeste,0
+1909,CN,China,28,Ação,0
+1909,CN,China,12,Aventura,0
+1909,CN,China,16,Animação,0
+1909,CN,China,35,Comédia,0
+1909,CN,China,80,Crime,0
+1909,CN,China,99,Documentário,0
+1909,CN,China,18,Drama,0
+1909,CN,China,10751,Família,0
+1909,CN,China,14,Fantasia,0
+1909,CN,China,36,História,0
+1909,CN,China,27,Terror,0
+1909,CN,China,10402,Música,0
+1909,CN,China,9648,Mistério,0
+1909,CN,China,10749,Romance,0
+1909,CN,China,878,Ficção científica,0
+1909,CN,China,10770,Cinema TV,0
+1909,CN,China,53,Thriller,0
+1909,CN,China,10752,Guerra,0
+1909,CN,China,37,Faroeste,0
+1909,DE,Germany,28,Ação,0
+1909,DE,Germany,12,Aventura,0
+1909,DE,Germany,16,Animação,1
+1909,DE,Germany,35,Comédia,2
+1909,DE,Germany,80,Crime,0
+1909,DE,Germany,99,Documentário,11
+1909,DE,Germany,18,Drama,2
+1909,DE,Germany,10751,Família,0
+1909,DE,Germany,14,Fantasia,0
+1909,DE,Germany,36,História,0
+1909,DE,Germany,27,Terror,0
+1909,DE,Germany,10402,Música,0
+1909,DE,Germany,9648,Mistério,0
+1909,DE,Germany,10749,Romance,0
+1909,DE,Germany,878,Ficção científica,0
+1909,DE,Germany,10770,Cinema TV,0
+1909,DE,Germany,53,Thriller,0
+1909,DE,Germany,10752,Guerra,0
+1909,DE,Germany,37,Faroeste,0
+1909,DK,Denmark,28,Ação,0
+1909,DK,Denmark,12,Aventura,0
+1909,DK,Denmark,16,Animação,0
+1909,DK,Denmark,35,Comédia,4
+1909,DK,Denmark,80,Crime,2
+1909,DK,Denmark,99,Documentário,6
+1909,DK,Denmark,18,Drama,5
+1909,DK,Denmark,10751,Família,0
+1909,DK,Denmark,14,Fantasia,2
+1909,DK,Denmark,36,História,1
+1909,DK,Denmark,27,Terror,1
+1909,DK,Denmark,10402,Música,0
+1909,DK,Denmark,9648,Mistério,0
+1909,DK,Denmark,10749,Romance,1
+1909,DK,Denmark,878,Ficção científica,0
+1909,DK,Denmark,10770,Cinema TV,0
+1909,DK,Denmark,53,Thriller,0
+1909,DK,Denmark,10752,Guerra,1
+1909,DK,Denmark,37,Faroeste,1
+1909,ES,Spain,28,Ação,0
+1909,ES,Spain,12,Aventura,0
+1909,ES,Spain,16,Animação,0
+1909,ES,Spain,35,Comédia,0
+1909,ES,Spain,80,Crime,0
+1909,ES,Spain,99,Documentário,1
+1909,ES,Spain,18,Drama,1
+1909,ES,Spain,10751,Família,0
+1909,ES,Spain,14,Fantasia,0
+1909,ES,Spain,36,História,1
+1909,ES,Spain,27,Terror,0
+1909,ES,Spain,10402,Música,0
+1909,ES,Spain,9648,Mistério,0
+1909,ES,Spain,10749,Romance,0
+1909,ES,Spain,878,Ficção científica,0
+1909,ES,Spain,10770,Cinema TV,0
+1909,ES,Spain,53,Thriller,0
+1909,ES,Spain,10752,Guerra,0
+1909,ES,Spain,37,Faroeste,0
+1909,FR,France,28,Ação,0
+1909,FR,France,12,Aventura,2
+1909,FR,France,16,Animação,17
+1909,FR,France,35,Comédia,38
+1909,FR,France,80,Crime,3
+1909,FR,France,99,Documentário,26
+1909,FR,France,18,Drama,35
+1909,FR,France,10751,Família,0
+1909,FR,France,14,Fantasia,27
+1909,FR,France,36,História,11
+1909,FR,France,27,Terror,6
+1909,FR,France,10402,Música,2
+1909,FR,France,9648,Mistério,2
+1909,FR,France,10749,Romance,7
+1909,FR,France,878,Ficção científica,2
+1909,FR,France,10770,Cinema TV,0
+1909,FR,France,53,Thriller,0
+1909,FR,France,10752,Guerra,0
+1909,FR,France,37,Faroeste,0
+1909,GB,United Kingdom,28,Ação,3
+1909,GB,United Kingdom,12,Aventura,2
+1909,GB,United Kingdom,16,Animação,6
+1909,GB,United Kingdom,35,Comédia,6
+1909,GB,United Kingdom,80,Crime,3
+1909,GB,United Kingdom,99,Documentário,22
+1909,GB,United Kingdom,18,Drama,7
+1909,GB,United Kingdom,10751,Família,0
+1909,GB,United Kingdom,14,Fantasia,3
+1909,GB,United Kingdom,36,História,0
+1909,GB,United Kingdom,27,Terror,0
+1909,GB,United Kingdom,10402,Música,0
+1909,GB,United Kingdom,9648,Mistério,0
+1909,GB,United Kingdom,10749,Romance,0
+1909,GB,United Kingdom,878,Ficção científica,1
+1909,GB,United Kingdom,10770,Cinema TV,0
+1909,GB,United Kingdom,53,Thriller,0
+1909,GB,United Kingdom,10752,Guerra,2
+1909,GB,United Kingdom,37,Faroeste,0
+1909,GE,Georgia,28,Ação,0
+1909,GE,Georgia,12,Aventura,0
+1909,GE,Georgia,16,Animação,0
+1909,GE,Georgia,35,Comédia,1
+1909,GE,Georgia,80,Crime,0
+1909,GE,Georgia,99,Documentário,5
+1909,GE,Georgia,18,Drama,0
+1909,GE,Georgia,10751,Família,0
+1909,GE,Georgia,14,Fantasia,0
+1909,GE,Georgia,36,História,0
+1909,GE,Georgia,27,Terror,0
+1909,GE,Georgia,10402,Música,0
+1909,GE,Georgia,9648,Mistério,0
+1909,GE,Georgia,10749,Romance,0
+1909,GE,Georgia,878,Ficção científica,0
+1909,GE,Georgia,10770,Cinema TV,0
+1909,GE,Georgia,53,Thriller,0
+1909,GE,Georgia,10752,Guerra,0
+1909,GE,Georgia,37,Faroeste,0
+1909,HK,Hong Kong,28,Ação,0
+1909,HK,Hong Kong,12,Aventura,0
+1909,HK,Hong Kong,16,Animação,0
+1909,HK,Hong Kong,35,Comédia,0
+1909,HK,Hong Kong,80,Crime,0
+1909,HK,Hong Kong,99,Documentário,0
+1909,HK,Hong Kong,18,Drama,0
+1909,HK,Hong Kong,10751,Família,0
+1909,HK,Hong Kong,14,Fantasia,0
+1909,HK,Hong Kong,36,História,0
+1909,HK,Hong Kong,27,Terror,0
+1909,HK,Hong Kong,10402,Música,0
+1909,HK,Hong Kong,9648,Mistério,0
+1909,HK,Hong Kong,10749,Romance,0
+1909,HK,Hong Kong,878,Ficção científica,0
+1909,HK,Hong Kong,10770,Cinema TV,0
+1909,HK,Hong Kong,53,Thriller,0
+1909,HK,Hong Kong,10752,Guerra,0
+1909,HK,Hong Kong,37,Faroeste,0
+1909,HU,Hungary,28,Ação,0
+1909,HU,Hungary,12,Aventura,0
+1909,HU,Hungary,16,Animação,0
+1909,HU,Hungary,35,Comédia,0
+1909,HU,Hungary,80,Crime,0
+1909,HU,Hungary,99,Documentário,1
+1909,HU,Hungary,18,Drama,0
+1909,HU,Hungary,10751,Família,0
+1909,HU,Hungary,14,Fantasia,0
+1909,HU,Hungary,36,História,0
+1909,HU,Hungary,27,Terror,0
+1909,HU,Hungary,10402,Música,0
+1909,HU,Hungary,9648,Mistério,0
+1909,HU,Hungary,10749,Romance,0
+1909,HU,Hungary,878,Ficção científica,0
+1909,HU,Hungary,10770,Cinema TV,0
+1909,HU,Hungary,53,Thriller,0
+1909,HU,Hungary,10752,Guerra,0
+1909,HU,Hungary,37,Faroeste,0
+1909,IE,Ireland,28,Ação,0
+1909,IE,Ireland,12,Aventura,0
+1909,IE,Ireland,16,Animação,0
+1909,IE,Ireland,35,Comédia,0
+1909,IE,Ireland,80,Crime,0
+1909,IE,Ireland,99,Documentário,0
+1909,IE,Ireland,18,Drama,0
+1909,IE,Ireland,10751,Família,0
+1909,IE,Ireland,14,Fantasia,1
+1909,IE,Ireland,36,História,0
+1909,IE,Ireland,27,Terror,0
+1909,IE,Ireland,10402,Música,0
+1909,IE,Ireland,9648,Mistério,0
+1909,IE,Ireland,10749,Romance,0
+1909,IE,Ireland,878,Ficção científica,0
+1909,IE,Ireland,10770,Cinema TV,0
+1909,IE,Ireland,53,Thriller,0
+1909,IE,Ireland,10752,Guerra,0
+1909,IE,Ireland,37,Faroeste,0
+1909,IN,India,28,Ação,0
+1909,IN,India,12,Aventura,0
+1909,IN,India,16,Animação,0
+1909,IN,India,35,Comédia,0
+1909,IN,India,80,Crime,0
+1909,IN,India,99,Documentário,1
+1909,IN,India,18,Drama,0
+1909,IN,India,10751,Família,0
+1909,IN,India,14,Fantasia,0
+1909,IN,India,36,História,0
+1909,IN,India,27,Terror,0
+1909,IN,India,10402,Música,0
+1909,IN,India,9648,Mistério,0
+1909,IN,India,10749,Romance,0
+1909,IN,India,878,Ficção científica,0
+1909,IN,India,10770,Cinema TV,0
+1909,IN,India,53,Thriller,0
+1909,IN,India,10752,Guerra,0
+1909,IN,India,37,Faroeste,0
+1909,IT,Italy,28,Ação,0
+1909,IT,Italy,12,Aventura,0
+1909,IT,Italy,16,Animação,2
+1909,IT,Italy,35,Comédia,11
+1909,IT,Italy,80,Crime,0
+1909,IT,Italy,99,Documentário,13
+1909,IT,Italy,18,Drama,19
+1909,IT,Italy,10751,Família,0
+1909,IT,Italy,14,Fantasia,5
+1909,IT,Italy,36,História,5
+1909,IT,Italy,27,Terror,1
+1909,IT,Italy,10402,Música,0
+1909,IT,Italy,9648,Mistério,0
+1909,IT,Italy,10749,Romance,0
+1909,IT,Italy,878,Ficção científica,0
+1909,IT,Italy,10770,Cinema TV,0
+1909,IT,Italy,53,Thriller,0
+1909,IT,Italy,10752,Guerra,1
+1909,IT,Italy,37,Faroeste,0
+1909,JP,Japan,28,Ação,1
+1909,JP,Japan,12,Aventura,1
+1909,JP,Japan,16,Animação,0
+1909,JP,Japan,35,Comédia,0
+1909,JP,Japan,80,Crime,0
+1909,JP,Japan,99,Documentário,0
+1909,JP,Japan,18,Drama,4
+1909,JP,Japan,10751,Família,0
+1909,JP,Japan,14,Fantasia,0
+1909,JP,Japan,36,História,0
+1909,JP,Japan,27,Terror,13
+1909,JP,Japan,10402,Música,0
+1909,JP,Japan,9648,Mistério,0
+1909,JP,Japan,10749,Romance,0
+1909,JP,Japan,878,Ficção científica,0
+1909,JP,Japan,10770,Cinema TV,0
+1909,JP,Japan,53,Thriller,0
+1909,JP,Japan,10752,Guerra,0
+1909,JP,Japan,37,Faroeste,0
+1909,MX,Mexico,28,Ação,0
+1909,MX,Mexico,12,Aventura,0
+1909,MX,Mexico,16,Animação,0
+1909,MX,Mexico,35,Comédia,0
+1909,MX,Mexico,80,Crime,0
+1909,MX,Mexico,99,Documentário,6
+1909,MX,Mexico,18,Drama,0
+1909,MX,Mexico,10751,Família,0
+1909,MX,Mexico,14,Fantasia,0
+1909,MX,Mexico,36,História,1
+1909,MX,Mexico,27,Terror,0
+1909,MX,Mexico,10402,Música,0
+1909,MX,Mexico,9648,Mistério,0
+1909,MX,Mexico,10749,Romance,0
+1909,MX,Mexico,878,Ficção científica,0
+1909,MX,Mexico,10770,Cinema TV,0
+1909,MX,Mexico,53,Thriller,0
+1909,MX,Mexico,10752,Guerra,0
+1909,MX,Mexico,37,Faroeste,0
+1909,NL,Netherlands,28,Ação,0
+1909,NL,Netherlands,12,Aventura,0
+1909,NL,Netherlands,16,Animação,0
+1909,NL,Netherlands,35,Comédia,0
+1909,NL,Netherlands,80,Crime,0
+1909,NL,Netherlands,99,Documentário,2
+1909,NL,Netherlands,18,Drama,1
+1909,NL,Netherlands,10751,Família,0
+1909,NL,Netherlands,14,Fantasia,0
+1909,NL,Netherlands,36,História,0
+1909,NL,Netherlands,27,Terror,1
+1909,NL,Netherlands,10402,Música,0
+1909,NL,Netherlands,9648,Mistério,0
+1909,NL,Netherlands,10749,Romance,0
+1909,NL,Netherlands,878,Ficção científica,0
+1909,NL,Netherlands,10770,Cinema TV,0
+1909,NL,Netherlands,53,Thriller,0
+1909,NL,Netherlands,10752,Guerra,0
+1909,NL,Netherlands,37,Faroeste,0
+1909,NO,Norway,28,Ação,0
+1909,NO,Norway,12,Aventura,0
+1909,NO,Norway,16,Animação,0
+1909,NO,Norway,35,Comédia,0
+1909,NO,Norway,80,Crime,0
+1909,NO,Norway,99,Documentário,2
+1909,NO,Norway,18,Drama,0
+1909,NO,Norway,10751,Família,0
+1909,NO,Norway,14,Fantasia,0
+1909,NO,Norway,36,História,0
+1909,NO,Norway,27,Terror,0
+1909,NO,Norway,10402,Música,0
+1909,NO,Norway,9648,Mistério,0
+1909,NO,Norway,10749,Romance,0
+1909,NO,Norway,878,Ficção científica,0
+1909,NO,Norway,10770,Cinema TV,0
+1909,NO,Norway,53,Thriller,0
+1909,NO,Norway,10752,Guerra,0
+1909,NO,Norway,37,Faroeste,0
+1909,PE,Peru,28,Ação,0
+1909,PE,Peru,12,Aventura,0
+1909,PE,Peru,16,Animação,0
+1909,PE,Peru,35,Comédia,0
+1909,PE,Peru,80,Crime,0
+1909,PE,Peru,99,Documentário,7
+1909,PE,Peru,18,Drama,0
+1909,PE,Peru,10751,Família,0
+1909,PE,Peru,14,Fantasia,0
+1909,PE,Peru,36,História,0
+1909,PE,Peru,27,Terror,0
+1909,PE,Peru,10402,Música,0
+1909,PE,Peru,9648,Mistério,0
+1909,PE,Peru,10749,Romance,0
+1909,PE,Peru,878,Ficção científica,0
+1909,PE,Peru,10770,Cinema TV,0
+1909,PE,Peru,53,Thriller,0
+1909,PE,Peru,10752,Guerra,0
+1909,PE,Peru,37,Faroeste,0
+1909,PH,Philippines,28,Ação,0
+1909,PH,Philippines,12,Aventura,0
+1909,PH,Philippines,16,Animação,0
+1909,PH,Philippines,35,Comédia,0
+1909,PH,Philippines,80,Crime,0
+1909,PH,Philippines,99,Documentário,1
+1909,PH,Philippines,18,Drama,0
+1909,PH,Philippines,10751,Família,0
+1909,PH,Philippines,14,Fantasia,0
+1909,PH,Philippines,36,História,0
+1909,PH,Philippines,27,Terror,0
+1909,PH,Philippines,10402,Música,0
+1909,PH,Philippines,9648,Mistério,0
+1909,PH,Philippines,10749,Romance,0
+1909,PH,Philippines,878,Ficção científica,0
+1909,PH,Philippines,10770,Cinema TV,0
+1909,PH,Philippines,53,Thriller,0
+1909,PH,Philippines,10752,Guerra,0
+1909,PH,Philippines,37,Faroeste,0
+1909,PT,Portugal,28,Ação,0
+1909,PT,Portugal,12,Aventura,0
+1909,PT,Portugal,16,Animação,0
+1909,PT,Portugal,35,Comédia,0
+1909,PT,Portugal,80,Crime,1
+1909,PT,Portugal,99,Documentário,1
+1909,PT,Portugal,18,Drama,1
+1909,PT,Portugal,10751,Família,0
+1909,PT,Portugal,14,Fantasia,0
+1909,PT,Portugal,36,História,0
+1909,PT,Portugal,27,Terror,0
+1909,PT,Portugal,10402,Música,0
+1909,PT,Portugal,9648,Mistério,0
+1909,PT,Portugal,10749,Romance,0
+1909,PT,Portugal,878,Ficção científica,0
+1909,PT,Portugal,10770,Cinema TV,0
+1909,PT,Portugal,53,Thriller,0
+1909,PT,Portugal,10752,Guerra,0
+1909,PT,Portugal,37,Faroeste,0
+1909,RU,Russia,28,Ação,0
+1909,RU,Russia,12,Aventura,0
+1909,RU,Russia,16,Animação,0
+1909,RU,Russia,35,Comédia,3
+1909,RU,Russia,80,Crime,0
+1909,RU,Russia,99,Documentário,0
+1909,RU,Russia,18,Drama,11
+1909,RU,Russia,10751,Família,0
+1909,RU,Russia,14,Fantasia,1
+1909,RU,Russia,36,História,5
+1909,RU,Russia,27,Terror,1
+1909,RU,Russia,10402,Música,0
+1909,RU,Russia,9648,Mistério,0
+1909,RU,Russia,10749,Romance,0
+1909,RU,Russia,878,Ficção científica,0
+1909,RU,Russia,10770,Cinema TV,0
+1909,RU,Russia,53,Thriller,0
+1909,RU,Russia,10752,Guerra,0
+1909,RU,Russia,37,Faroeste,0
+1909,SE,Sweden,28,Ação,0
+1909,SE,Sweden,12,Aventura,0
+1909,SE,Sweden,16,Animação,0
+1909,SE,Sweden,35,Comédia,1
+1909,SE,Sweden,80,Crime,0
+1909,SE,Sweden,99,Documentário,5
+1909,SE,Sweden,18,Drama,0
+1909,SE,Sweden,10751,Família,0
+1909,SE,Sweden,14,Fantasia,0
+1909,SE,Sweden,36,História,0
+1909,SE,Sweden,27,Terror,0
+1909,SE,Sweden,10402,Música,0
+1909,SE,Sweden,9648,Mistério,0
+1909,SE,Sweden,10749,Romance,0
+1909,SE,Sweden,878,Ficção científica,0
+1909,SE,Sweden,10770,Cinema TV,0
+1909,SE,Sweden,53,Thriller,0
+1909,SE,Sweden,10752,Guerra,0
+1909,SE,Sweden,37,Faroeste,0
+1909,UA,Ukraine,28,Ação,0
+1909,UA,Ukraine,12,Aventura,0
+1909,UA,Ukraine,16,Animação,0
+1909,UA,Ukraine,35,Comédia,0
+1909,UA,Ukraine,80,Crime,0
+1909,UA,Ukraine,99,Documentário,0
+1909,UA,Ukraine,18,Drama,0
+1909,UA,Ukraine,10751,Família,0
+1909,UA,Ukraine,14,Fantasia,0
+1909,UA,Ukraine,36,História,0
+1909,UA,Ukraine,27,Terror,0
+1909,UA,Ukraine,10402,Música,0
+1909,UA,Ukraine,9648,Mistério,0
+1909,UA,Ukraine,10749,Romance,0
+1909,UA,Ukraine,878,Ficção científica,0
+1909,UA,Ukraine,10770,Cinema TV,0
+1909,UA,Ukraine,53,Thriller,0
+1909,UA,Ukraine,10752,Guerra,0
+1909,UA,Ukraine,37,Faroeste,0
+1909,US,United States of America,28,Ação,1
+1909,US,United States of America,12,Aventura,14
+1909,US,United States of America,16,Animação,3
+1909,US,United States of America,35,Comédia,63
+1909,US,United States of America,80,Crime,7
+1909,US,United States of America,99,Documentário,15
+1909,US,United States of America,18,Drama,115
+1909,US,United States of America,10751,Família,1
+1909,US,United States of America,14,Fantasia,5
+1909,US,United States of America,36,História,15
+1909,US,United States of America,27,Terror,1
+1909,US,United States of America,10402,Música,1
+1909,US,United States of America,9648,Mistério,1
+1909,US,United States of America,10749,Romance,13
+1909,US,United States of America,878,Ficção científica,0
+1909,US,United States of America,10770,Cinema TV,0
+1909,US,United States of America,53,Thriller,4
+1909,US,United States of America,10752,Guerra,5
+1909,US,United States of America,37,Faroeste,21
+1909,VE,Venezuela,28,Ação,0
+1909,VE,Venezuela,12,Aventura,0
+1909,VE,Venezuela,16,Animação,0
+1909,VE,Venezuela,35,Comédia,0
+1909,VE,Venezuela,80,Crime,0
+1909,VE,Venezuela,99,Documentário,1
+1909,VE,Venezuela,18,Drama,0
+1909,VE,Venezuela,10751,Família,0
+1909,VE,Venezuela,14,Fantasia,0
+1909,VE,Venezuela,36,História,0
+1909,VE,Venezuela,27,Terror,0
+1909,VE,Venezuela,10402,Música,0
+1909,VE,Venezuela,9648,Mistério,0
+1909,VE,Venezuela,10749,Romance,0
+1909,VE,Venezuela,878,Ficção científica,0
+1909,VE,Venezuela,10770,Cinema TV,0
+1909,VE,Venezuela,53,Thriller,0
+1909,VE,Venezuela,10752,Guerra,0
+1909,VE,Venezuela,37,Faroeste,0
+1910,AR,Argentina,28,Ação,0
+1910,AR,Argentina,12,Aventura,0
+1910,AR,Argentina,16,Animação,0
+1910,AR,Argentina,35,Comédia,0
+1910,AR,Argentina,80,Crime,0
+1910,AR,Argentina,99,Documentário,2
+1910,AR,Argentina,18,Drama,0
+1910,AR,Argentina,10751,Família,0
+1910,AR,Argentina,14,Fantasia,0
+1910,AR,Argentina,36,História,0
+1910,AR,Argentina,27,Terror,0
+1910,AR,Argentina,10402,Música,0
+1910,AR,Argentina,9648,Mistério,0
+1910,AR,Argentina,10749,Romance,0
+1910,AR,Argentina,878,Ficção científica,0
+1910,AR,Argentina,10770,Cinema TV,0
+1910,AR,Argentina,53,Thriller,0
+1910,AR,Argentina,10752,Guerra,0
+1910,AR,Argentina,37,Faroeste,0
+1910,AT,Austria,28,Ação,0
+1910,AT,Austria,12,Aventura,0
+1910,AT,Austria,16,Animação,0
+1910,AT,Austria,35,Comédia,3
+1910,AT,Austria,80,Crime,0
+1910,AT,Austria,99,Documentário,1
+1910,AT,Austria,18,Drama,1
+1910,AT,Austria,10751,Família,0
+1910,AT,Austria,14,Fantasia,0
+1910,AT,Austria,36,História,0
+1910,AT,Austria,27,Terror,0
+1910,AT,Austria,10402,Música,0
+1910,AT,Austria,9648,Mistério,0
+1910,AT,Austria,10749,Romance,0
+1910,AT,Austria,878,Ficção científica,0
+1910,AT,Austria,10770,Cinema TV,0
+1910,AT,Austria,53,Thriller,0
+1910,AT,Austria,10752,Guerra,0
+1910,AT,Austria,37,Faroeste,0
+1910,AU,Australia,28,Ação,0
+1910,AU,Australia,12,Aventura,0
+1910,AU,Australia,16,Animação,0
+1910,AU,Australia,35,Comédia,0
+1910,AU,Australia,80,Crime,0
+1910,AU,Australia,99,Documentário,1
+1910,AU,Australia,18,Drama,1
+1910,AU,Australia,10751,Família,0
+1910,AU,Australia,14,Fantasia,0
+1910,AU,Australia,36,História,0
+1910,AU,Australia,27,Terror,0
+1910,AU,Australia,10402,Música,0
+1910,AU,Australia,9648,Mistério,0
+1910,AU,Australia,10749,Romance,0
+1910,AU,Australia,878,Ficção científica,0
+1910,AU,Australia,10770,Cinema TV,0
+1910,AU,Australia,53,Thriller,0
+1910,AU,Australia,10752,Guerra,0
+1910,AU,Australia,37,Faroeste,2
+1910,BR,Brazil,28,Ação,0
+1910,BR,Brazil,12,Aventura,0
+1910,BR,Brazil,16,Animação,0
+1910,BR,Brazil,35,Comédia,1
+1910,BR,Brazil,80,Crime,0
+1910,BR,Brazil,99,Documentário,4
+1910,BR,Brazil,18,Drama,0
+1910,BR,Brazil,10751,Família,0
+1910,BR,Brazil,14,Fantasia,0
+1910,BR,Brazil,36,História,0
+1910,BR,Brazil,27,Terror,0
+1910,BR,Brazil,10402,Música,3
+1910,BR,Brazil,9648,Mistério,0
+1910,BR,Brazil,10749,Romance,0
+1910,BR,Brazil,878,Ficção científica,0
+1910,BR,Brazil,10770,Cinema TV,0
+1910,BR,Brazil,53,Thriller,0
+1910,BR,Brazil,10752,Guerra,0
+1910,BR,Brazil,37,Faroeste,0
+1910,CA,Canada,28,Ação,0
+1910,CA,Canada,12,Aventura,0
+1910,CA,Canada,16,Animação,0
+1910,CA,Canada,35,Comédia,0
+1910,CA,Canada,80,Crime,0
+1910,CA,Canada,99,Documentário,1
+1910,CA,Canada,18,Drama,0
+1910,CA,Canada,10751,Família,0
+1910,CA,Canada,14,Fantasia,0
+1910,CA,Canada,36,História,0
+1910,CA,Canada,27,Terror,0
+1910,CA,Canada,10402,Música,0
+1910,CA,Canada,9648,Mistério,0
+1910,CA,Canada,10749,Romance,0
+1910,CA,Canada,878,Ficção científica,0
+1910,CA,Canada,10770,Cinema TV,0
+1910,CA,Canada,53,Thriller,0
+1910,CA,Canada,10752,Guerra,0
+1910,CA,Canada,37,Faroeste,0
+1910,CL,Chile,28,Ação,0
+1910,CL,Chile,12,Aventura,0
+1910,CL,Chile,16,Animação,0
+1910,CL,Chile,35,Comédia,0
+1910,CL,Chile,80,Crime,0
+1910,CL,Chile,99,Documentário,1
+1910,CL,Chile,18,Drama,0
+1910,CL,Chile,10751,Família,0
+1910,CL,Chile,14,Fantasia,0
+1910,CL,Chile,36,História,0
+1910,CL,Chile,27,Terror,0
+1910,CL,Chile,10402,Música,0
+1910,CL,Chile,9648,Mistério,0
+1910,CL,Chile,10749,Romance,0
+1910,CL,Chile,878,Ficção científica,0
+1910,CL,Chile,10770,Cinema TV,0
+1910,CL,Chile,53,Thriller,0
+1910,CL,Chile,10752,Guerra,0
+1910,CL,Chile,37,Faroeste,0
+1910,CZ,Czech Republic,28,Ação,0
+1910,CZ,Czech Republic,12,Aventura,0
+1910,CZ,Czech Republic,16,Animação,0
+1910,CZ,Czech Republic,35,Comédia,0
+1910,CZ,Czech Republic,80,Crime,0
+1910,CZ,Czech Republic,99,Documentário,0
+1910,CZ,Czech Republic,18,Drama,0
+1910,CZ,Czech Republic,10751,Família,0
+1910,CZ,Czech Republic,14,Fantasia,0
+1910,CZ,Czech Republic,36,História,0
+1910,CZ,Czech Republic,27,Terror,0
+1910,CZ,Czech Republic,10402,Música,0
+1910,CZ,Czech Republic,9648,Mistério,0
+1910,CZ,Czech Republic,10749,Romance,0
+1910,CZ,Czech Republic,878,Ficção científica,0
+1910,CZ,Czech Republic,10770,Cinema TV,0
+1910,CZ,Czech Republic,53,Thriller,0
+1910,CZ,Czech Republic,10752,Guerra,0
+1910,CZ,Czech Republic,37,Faroeste,0
+1910,DE,Germany,28,Ação,0
+1910,DE,Germany,12,Aventura,0
+1910,DE,Germany,16,Animação,3
+1910,DE,Germany,35,Comédia,1
+1910,DE,Germany,80,Crime,0
+1910,DE,Germany,99,Documentário,7
+1910,DE,Germany,18,Drama,7
+1910,DE,Germany,10751,Família,0
+1910,DE,Germany,14,Fantasia,1
+1910,DE,Germany,36,História,0
+1910,DE,Germany,27,Terror,0
+1910,DE,Germany,10402,Música,0
+1910,DE,Germany,9648,Mistério,0
+1910,DE,Germany,10749,Romance,0
+1910,DE,Germany,878,Ficção científica,0
+1910,DE,Germany,10770,Cinema TV,0
+1910,DE,Germany,53,Thriller,0
+1910,DE,Germany,10752,Guerra,0
+1910,DE,Germany,37,Faroeste,0
+1910,DK,Denmark,28,Ação,0
+1910,DK,Denmark,12,Aventura,0
+1910,DK,Denmark,16,Animação,0
+1910,DK,Denmark,35,Comédia,7
+1910,DK,Denmark,80,Crime,3
+1910,DK,Denmark,99,Documentário,5
+1910,DK,Denmark,18,Drama,15
+1910,DK,Denmark,10751,Família,0
+1910,DK,Denmark,14,Fantasia,2
+1910,DK,Denmark,36,História,2
+1910,DK,Denmark,27,Terror,2
+1910,DK,Denmark,10402,Música,0
+1910,DK,Denmark,9648,Mistério,0
+1910,DK,Denmark,10749,Romance,0
+1910,DK,Denmark,878,Ficção científica,0
+1910,DK,Denmark,10770,Cinema TV,0
+1910,DK,Denmark,53,Thriller,0
+1910,DK,Denmark,10752,Guerra,2
+1910,DK,Denmark,37,Faroeste,0
+1910,ES,Spain,28,Ação,0
+1910,ES,Spain,12,Aventura,1
+1910,ES,Spain,16,Animação,0
+1910,ES,Spain,35,Comédia,1
+1910,ES,Spain,80,Crime,0
+1910,ES,Spain,99,Documentário,12
+1910,ES,Spain,18,Drama,1
+1910,ES,Spain,10751,Família,0
+1910,ES,Spain,14,Fantasia,0
+1910,ES,Spain,36,História,1
+1910,ES,Spain,27,Terror,0
+1910,ES,Spain,10402,Música,0
+1910,ES,Spain,9648,Mistério,0
+1910,ES,Spain,10749,Romance,0
+1910,ES,Spain,878,Ficção científica,0
+1910,ES,Spain,10770,Cinema TV,0
+1910,ES,Spain,53,Thriller,0
+1910,ES,Spain,10752,Guerra,1
+1910,ES,Spain,37,Faroeste,0
+1910,FI,Finland,28,Ação,0
+1910,FI,Finland,12,Aventura,0
+1910,FI,Finland,16,Animação,0
+1910,FI,Finland,35,Comédia,0
+1910,FI,Finland,80,Crime,0
+1910,FI,Finland,99,Documentário,1
+1910,FI,Finland,18,Drama,0
+1910,FI,Finland,10751,Família,0
+1910,FI,Finland,14,Fantasia,0
+1910,FI,Finland,36,História,0
+1910,FI,Finland,27,Terror,0
+1910,FI,Finland,10402,Música,0
+1910,FI,Finland,9648,Mistério,0
+1910,FI,Finland,10749,Romance,0
+1910,FI,Finland,878,Ficção científica,0
+1910,FI,Finland,10770,Cinema TV,0
+1910,FI,Finland,53,Thriller,0
+1910,FI,Finland,10752,Guerra,0
+1910,FI,Finland,37,Faroeste,0
+1910,FR,France,28,Ação,0
+1910,FR,France,12,Aventura,4
+1910,FR,France,16,Animação,20
+1910,FR,France,35,Comédia,48
+1910,FR,France,80,Crime,2
+1910,FR,France,99,Documentário,37
+1910,FR,France,18,Drama,50
+1910,FR,France,10751,Família,1
+1910,FR,France,14,Fantasia,15
+1910,FR,France,36,História,12
+1910,FR,France,27,Terror,1
+1910,FR,France,10402,Música,1
+1910,FR,France,9648,Mistério,1
+1910,FR,France,10749,Romance,3
+1910,FR,France,878,Ficção científica,1
+1910,FR,France,10770,Cinema TV,0
+1910,FR,France,53,Thriller,0
+1910,FR,France,10752,Guerra,0
+1910,FR,France,37,Faroeste,1
+1910,GB,United Kingdom,28,Ação,0
+1910,GB,United Kingdom,12,Aventura,7
+1910,GB,United Kingdom,16,Animação,3
+1910,GB,United Kingdom,35,Comédia,9
+1910,GB,United Kingdom,80,Crime,5
+1910,GB,United Kingdom,99,Documentário,26
+1910,GB,United Kingdom,18,Drama,2
+1910,GB,United Kingdom,10751,Família,0
+1910,GB,United Kingdom,14,Fantasia,3
+1910,GB,United Kingdom,36,História,0
+1910,GB,United Kingdom,27,Terror,1
+1910,GB,United Kingdom,10402,Música,0
+1910,GB,United Kingdom,9648,Mistério,0
+1910,GB,United Kingdom,10749,Romance,0
+1910,GB,United Kingdom,878,Ficção científica,1
+1910,GB,United Kingdom,10770,Cinema TV,0
+1910,GB,United Kingdom,53,Thriller,0
+1910,GB,United Kingdom,10752,Guerra,1
+1910,GB,United Kingdom,37,Faroeste,0
+1910,GE,Georgia,28,Ação,0
+1910,GE,Georgia,12,Aventura,0
+1910,GE,Georgia,16,Animação,0
+1910,GE,Georgia,35,Comédia,0
+1910,GE,Georgia,80,Crime,0
+1910,GE,Georgia,99,Documentário,5
+1910,GE,Georgia,18,Drama,0
+1910,GE,Georgia,10751,Família,0
+1910,GE,Georgia,14,Fantasia,0
+1910,GE,Georgia,36,História,0
+1910,GE,Georgia,27,Terror,0
+1910,GE,Georgia,10402,Música,0
+1910,GE,Georgia,9648,Mistério,0
+1910,GE,Georgia,10749,Romance,0
+1910,GE,Georgia,878,Ficção científica,0
+1910,GE,Georgia,10770,Cinema TV,0
+1910,GE,Georgia,53,Thriller,0
+1910,GE,Georgia,10752,Guerra,0
+1910,GE,Georgia,37,Faroeste,0
+1910,IE,Ireland,28,Ação,0
+1910,IE,Ireland,12,Aventura,0
+1910,IE,Ireland,16,Animação,0
+1910,IE,Ireland,35,Comédia,0
+1910,IE,Ireland,80,Crime,0
+1910,IE,Ireland,99,Documentário,1
+1910,IE,Ireland,18,Drama,0
+1910,IE,Ireland,10751,Família,0
+1910,IE,Ireland,14,Fantasia,0
+1910,IE,Ireland,36,História,0
+1910,IE,Ireland,27,Terror,0
+1910,IE,Ireland,10402,Música,0
+1910,IE,Ireland,9648,Mistério,0
+1910,IE,Ireland,10749,Romance,0
+1910,IE,Ireland,878,Ficção científica,0
+1910,IE,Ireland,10770,Cinema TV,0
+1910,IE,Ireland,53,Thriller,0
+1910,IE,Ireland,10752,Guerra,0
+1910,IE,Ireland,37,Faroeste,0
+1910,IT,Italy,28,Ação,0
+1910,IT,Italy,12,Aventura,1
+1910,IT,Italy,16,Animação,0
+1910,IT,Italy,35,Comédia,17
+1910,IT,Italy,80,Crime,0
+1910,IT,Italy,99,Documentário,30
+1910,IT,Italy,18,Drama,26
+1910,IT,Italy,10751,Família,0
+1910,IT,Italy,14,Fantasia,4
+1910,IT,Italy,36,História,6
+1910,IT,Italy,27,Terror,2
+1910,IT,Italy,10402,Música,0
+1910,IT,Italy,9648,Mistério,0
+1910,IT,Italy,10749,Romance,3
+1910,IT,Italy,878,Ficção científica,0
+1910,IT,Italy,10770,Cinema TV,0
+1910,IT,Italy,53,Thriller,0
+1910,IT,Italy,10752,Guerra,1
+1910,IT,Italy,37,Faroeste,0
+1910,JP,Japan,28,Ação,0
+1910,JP,Japan,12,Aventura,1
+1910,JP,Japan,16,Animação,0
+1910,JP,Japan,35,Comédia,0
+1910,JP,Japan,80,Crime,0
+1910,JP,Japan,99,Documentário,1
+1910,JP,Japan,18,Drama,1
+1910,JP,Japan,10751,Família,0
+1910,JP,Japan,14,Fantasia,0
+1910,JP,Japan,36,História,1
+1910,JP,Japan,27,Terror,14
+1910,JP,Japan,10402,Música,0
+1910,JP,Japan,9648,Mistério,0
+1910,JP,Japan,10749,Romance,0
+1910,JP,Japan,878,Ficção científica,0
+1910,JP,Japan,10770,Cinema TV,0
+1910,JP,Japan,53,Thriller,0
+1910,JP,Japan,10752,Guerra,0
+1910,JP,Japan,37,Faroeste,0
+1910,LT,Lithuania,28,Ação,0
+1910,LT,Lithuania,12,Aventura,0
+1910,LT,Lithuania,16,Animação,0
+1910,LT,Lithuania,35,Comédia,0
+1910,LT,Lithuania,80,Crime,0
+1910,LT,Lithuania,99,Documentário,1
+1910,LT,Lithuania,18,Drama,0
+1910,LT,Lithuania,10751,Família,0
+1910,LT,Lithuania,14,Fantasia,0
+1910,LT,Lithuania,36,História,0
+1910,LT,Lithuania,27,Terror,0
+1910,LT,Lithuania,10402,Música,0
+1910,LT,Lithuania,9648,Mistério,0
+1910,LT,Lithuania,10749,Romance,0
+1910,LT,Lithuania,878,Ficção científica,0
+1910,LT,Lithuania,10770,Cinema TV,0
+1910,LT,Lithuania,53,Thriller,0
+1910,LT,Lithuania,10752,Guerra,0
+1910,LT,Lithuania,37,Faroeste,0
+1910,ME,Montenegro,28,Ação,0
+1910,ME,Montenegro,12,Aventura,0
+1910,ME,Montenegro,16,Animação,0
+1910,ME,Montenegro,35,Comédia,0
+1910,ME,Montenegro,80,Crime,0
+1910,ME,Montenegro,99,Documentário,1
+1910,ME,Montenegro,18,Drama,0
+1910,ME,Montenegro,10751,Família,0
+1910,ME,Montenegro,14,Fantasia,0
+1910,ME,Montenegro,36,História,0
+1910,ME,Montenegro,27,Terror,0
+1910,ME,Montenegro,10402,Música,0
+1910,ME,Montenegro,9648,Mistério,0
+1910,ME,Montenegro,10749,Romance,0
+1910,ME,Montenegro,878,Ficção científica,0
+1910,ME,Montenegro,10770,Cinema TV,0
+1910,ME,Montenegro,53,Thriller,0
+1910,ME,Montenegro,10752,Guerra,0
+1910,ME,Montenegro,37,Faroeste,0
+1910,MX,Mexico,28,Ação,0
+1910,MX,Mexico,12,Aventura,0
+1910,MX,Mexico,16,Animação,0
+1910,MX,Mexico,35,Comédia,0
+1910,MX,Mexico,80,Crime,0
+1910,MX,Mexico,99,Documentário,1
+1910,MX,Mexico,18,Drama,1
+1910,MX,Mexico,10751,Família,0
+1910,MX,Mexico,14,Fantasia,0
+1910,MX,Mexico,36,História,1
+1910,MX,Mexico,27,Terror,0
+1910,MX,Mexico,10402,Música,0
+1910,MX,Mexico,9648,Mistério,0
+1910,MX,Mexico,10749,Romance,0
+1910,MX,Mexico,878,Ficção científica,0
+1910,MX,Mexico,10770,Cinema TV,0
+1910,MX,Mexico,53,Thriller,0
+1910,MX,Mexico,10752,Guerra,0
+1910,MX,Mexico,37,Faroeste,0
+1910,NL,Netherlands,28,Ação,0
+1910,NL,Netherlands,12,Aventura,0
+1910,NL,Netherlands,16,Animação,0
+1910,NL,Netherlands,35,Comédia,1
+1910,NL,Netherlands,80,Crime,0
+1910,NL,Netherlands,99,Documentário,1
+1910,NL,Netherlands,18,Drama,0
+1910,NL,Netherlands,10751,Família,0
+1910,NL,Netherlands,14,Fantasia,0
+1910,NL,Netherlands,36,História,0
+1910,NL,Netherlands,27,Terror,0
+1910,NL,Netherlands,10402,Música,0
+1910,NL,Netherlands,9648,Mistério,0
+1910,NL,Netherlands,10749,Romance,0
+1910,NL,Netherlands,878,Ficção científica,0
+1910,NL,Netherlands,10770,Cinema TV,0
+1910,NL,Netherlands,53,Thriller,0
+1910,NL,Netherlands,10752,Guerra,0
+1910,NL,Netherlands,37,Faroeste,0
+1910,NO,Norway,28,Ação,0
+1910,NO,Norway,12,Aventura,0
+1910,NO,Norway,16,Animação,0
+1910,NO,Norway,35,Comédia,0
+1910,NO,Norway,80,Crime,0
+1910,NO,Norway,99,Documentário,1
+1910,NO,Norway,18,Drama,0
+1910,NO,Norway,10751,Família,0
+1910,NO,Norway,14,Fantasia,0
+1910,NO,Norway,36,História,0
+1910,NO,Norway,27,Terror,0
+1910,NO,Norway,10402,Música,0
+1910,NO,Norway,9648,Mistério,0
+1910,NO,Norway,10749,Romance,0
+1910,NO,Norway,878,Ficção científica,0
+1910,NO,Norway,10770,Cinema TV,0
+1910,NO,Norway,53,Thriller,0
+1910,NO,Norway,10752,Guerra,0
+1910,NO,Norway,37,Faroeste,0
+1910,NZ,New Zealand,28,Ação,0
+1910,NZ,New Zealand,12,Aventura,0
+1910,NZ,New Zealand,16,Animação,0
+1910,NZ,New Zealand,35,Comédia,0
+1910,NZ,New Zealand,80,Crime,0
+1910,NZ,New Zealand,99,Documentário,1
+1910,NZ,New Zealand,18,Drama,0
+1910,NZ,New Zealand,10751,Família,0
+1910,NZ,New Zealand,14,Fantasia,0
+1910,NZ,New Zealand,36,História,0
+1910,NZ,New Zealand,27,Terror,0
+1910,NZ,New Zealand,10402,Música,0
+1910,NZ,New Zealand,9648,Mistério,0
+1910,NZ,New Zealand,10749,Romance,0
+1910,NZ,New Zealand,878,Ficção científica,0
+1910,NZ,New Zealand,10770,Cinema TV,0
+1910,NZ,New Zealand,53,Thriller,0
+1910,NZ,New Zealand,10752,Guerra,0
+1910,NZ,New Zealand,37,Faroeste,0
+1910,PE,Peru,28,Ação,0
+1910,PE,Peru,12,Aventura,0
+1910,PE,Peru,16,Animação,0
+1910,PE,Peru,35,Comédia,0
+1910,PE,Peru,80,Crime,0
+1910,PE,Peru,99,Documentário,28
+1910,PE,Peru,18,Drama,0
+1910,PE,Peru,10751,Família,0
+1910,PE,Peru,14,Fantasia,0
+1910,PE,Peru,36,História,0
+1910,PE,Peru,27,Terror,0
+1910,PE,Peru,10402,Música,0
+1910,PE,Peru,9648,Mistério,0
+1910,PE,Peru,10749,Romance,0
+1910,PE,Peru,878,Ficção científica,0
+1910,PE,Peru,10770,Cinema TV,0
+1910,PE,Peru,53,Thriller,0
+1910,PE,Peru,10752,Guerra,0
+1910,PE,Peru,37,Faroeste,0
+1910,PH,Philippines,28,Ação,0
+1910,PH,Philippines,12,Aventura,0
+1910,PH,Philippines,16,Animação,0
+1910,PH,Philippines,35,Comédia,0
+1910,PH,Philippines,80,Crime,0
+1910,PH,Philippines,99,Documentário,1
+1910,PH,Philippines,18,Drama,0
+1910,PH,Philippines,10751,Família,0
+1910,PH,Philippines,14,Fantasia,0
+1910,PH,Philippines,36,História,0
+1910,PH,Philippines,27,Terror,0
+1910,PH,Philippines,10402,Música,0
+1910,PH,Philippines,9648,Mistério,0
+1910,PH,Philippines,10749,Romance,0
+1910,PH,Philippines,878,Ficção científica,0
+1910,PH,Philippines,10770,Cinema TV,0
+1910,PH,Philippines,53,Thriller,0
+1910,PH,Philippines,10752,Guerra,0
+1910,PH,Philippines,37,Faroeste,0
+1910,PL,Poland,28,Ação,0
+1910,PL,Poland,12,Aventura,0
+1910,PL,Poland,16,Animação,0
+1910,PL,Poland,35,Comédia,0
+1910,PL,Poland,80,Crime,0
+1910,PL,Poland,99,Documentário,2
+1910,PL,Poland,18,Drama,0
+1910,PL,Poland,10751,Família,0
+1910,PL,Poland,14,Fantasia,0
+1910,PL,Poland,36,História,0
+1910,PL,Poland,27,Terror,0
+1910,PL,Poland,10402,Música,0
+1910,PL,Poland,9648,Mistério,0
+1910,PL,Poland,10749,Romance,0
+1910,PL,Poland,878,Ficção científica,0
+1910,PL,Poland,10770,Cinema TV,0
+1910,PL,Poland,53,Thriller,0
+1910,PL,Poland,10752,Guerra,0
+1910,PL,Poland,37,Faroeste,0
+1910,RU,Russia,28,Ação,0
+1910,RU,Russia,12,Aventura,0
+1910,RU,Russia,16,Animação,0
+1910,RU,Russia,35,Comédia,2
+1910,RU,Russia,80,Crime,1
+1910,RU,Russia,99,Documentário,2
+1910,RU,Russia,18,Drama,16
+1910,RU,Russia,10751,Família,0
+1910,RU,Russia,14,Fantasia,3
+1910,RU,Russia,36,História,8
+1910,RU,Russia,27,Terror,2
+1910,RU,Russia,10402,Música,0
+1910,RU,Russia,9648,Mistério,0
+1910,RU,Russia,10749,Romance,1
+1910,RU,Russia,878,Ficção científica,0
+1910,RU,Russia,10770,Cinema TV,0
+1910,RU,Russia,53,Thriller,0
+1910,RU,Russia,10752,Guerra,0
+1910,RU,Russia,37,Faroeste,0
+1910,SE,Sweden,28,Ação,0
+1910,SE,Sweden,12,Aventura,0
+1910,SE,Sweden,16,Animação,0
+1910,SE,Sweden,35,Comédia,3
+1910,SE,Sweden,80,Crime,0
+1910,SE,Sweden,99,Documentário,10
+1910,SE,Sweden,18,Drama,8
+1910,SE,Sweden,10751,Família,0
+1910,SE,Sweden,14,Fantasia,0
+1910,SE,Sweden,36,História,2
+1910,SE,Sweden,27,Terror,0
+1910,SE,Sweden,10402,Música,0
+1910,SE,Sweden,9648,Mistério,0
+1910,SE,Sweden,10749,Romance,0
+1910,SE,Sweden,878,Ficção científica,0
+1910,SE,Sweden,10770,Cinema TV,0
+1910,SE,Sweden,53,Thriller,0
+1910,SE,Sweden,10752,Guerra,0
+1910,SE,Sweden,37,Faroeste,0
+1910,TN,Tunisia,28,Ação,0
+1910,TN,Tunisia,12,Aventura,0
+1910,TN,Tunisia,16,Animação,0
+1910,TN,Tunisia,35,Comédia,0
+1910,TN,Tunisia,80,Crime,0
+1910,TN,Tunisia,99,Documentário,1
+1910,TN,Tunisia,18,Drama,0
+1910,TN,Tunisia,10751,Família,0
+1910,TN,Tunisia,14,Fantasia,0
+1910,TN,Tunisia,36,História,0
+1910,TN,Tunisia,27,Terror,0
+1910,TN,Tunisia,10402,Música,0
+1910,TN,Tunisia,9648,Mistério,0
+1910,TN,Tunisia,10749,Romance,0
+1910,TN,Tunisia,878,Ficção científica,0
+1910,TN,Tunisia,10770,Cinema TV,0
+1910,TN,Tunisia,53,Thriller,0
+1910,TN,Tunisia,10752,Guerra,0
+1910,TN,Tunisia,37,Faroeste,0
+1910,UA,Ukraine,28,Ação,0
+1910,UA,Ukraine,12,Aventura,0
+1910,UA,Ukraine,16,Animação,0
+1910,UA,Ukraine,35,Comédia,0
+1910,UA,Ukraine,80,Crime,0
+1910,UA,Ukraine,99,Documentário,1
+1910,UA,Ukraine,18,Drama,0
+1910,UA,Ukraine,10751,Família,0
+1910,UA,Ukraine,14,Fantasia,0
+1910,UA,Ukraine,36,História,0
+1910,UA,Ukraine,27,Terror,0
+1910,UA,Ukraine,10402,Música,0
+1910,UA,Ukraine,9648,Mistério,0
+1910,UA,Ukraine,10749,Romance,0
+1910,UA,Ukraine,878,Ficção científica,0
+1910,UA,Ukraine,10770,Cinema TV,0
+1910,UA,Ukraine,53,Thriller,0
+1910,UA,Ukraine,10752,Guerra,0
+1910,UA,Ukraine,37,Faroeste,0
+1910,US,United States of America,28,Ação,3
+1910,US,United States of America,12,Aventura,12
+1910,US,United States of America,16,Animação,1
+1910,US,United States of America,35,Comédia,113
+1910,US,United States of America,80,Crime,4
+1910,US,United States of America,99,Documentário,27
+1910,US,United States of America,18,Drama,179
+1910,US,United States of America,10751,Família,0
+1910,US,United States of America,14,Fantasia,13
+1910,US,United States of America,36,História,5
+1910,US,United States of America,27,Terror,5
+1910,US,United States of America,10402,Música,0
+1910,US,United States of America,9648,Mistério,0
+1910,US,United States of America,10749,Romance,57
+1910,US,United States of America,878,Ficção científica,2
+1910,US,United States of America,10770,Cinema TV,0
+1910,US,United States of America,53,Thriller,6
+1910,US,United States of America,10752,Guerra,4
+1910,US,United States of America,37,Faroeste,104
+1911,AR,Argentina,28,Ação,0
+1911,AR,Argentina,12,Aventura,0
+1911,AR,Argentina,16,Animação,0
+1911,AR,Argentina,35,Comédia,0
+1911,AR,Argentina,80,Crime,0
+1911,AR,Argentina,99,Documentário,2
+1911,AR,Argentina,18,Drama,0
+1911,AR,Argentina,10751,Família,0
+1911,AR,Argentina,14,Fantasia,0
+1911,AR,Argentina,36,História,0
+1911,AR,Argentina,27,Terror,0
+1911,AR,Argentina,10402,Música,0
+1911,AR,Argentina,9648,Mistério,0
+1911,AR,Argentina,10749,Romance,0
+1911,AR,Argentina,878,Ficção científica,0
+1911,AR,Argentina,10770,Cinema TV,0
+1911,AR,Argentina,53,Thriller,0
+1911,AR,Argentina,10752,Guerra,0
+1911,AR,Argentina,37,Faroeste,0
+1911,AT,Austria,28,Ação,0
+1911,AT,Austria,12,Aventura,0
+1911,AT,Austria,16,Animação,0
+1911,AT,Austria,35,Comédia,2
+1911,AT,Austria,80,Crime,0
+1911,AT,Austria,99,Documentário,2
+1911,AT,Austria,18,Drama,3
+1911,AT,Austria,10751,Família,0
+1911,AT,Austria,14,Fantasia,0
+1911,AT,Austria,36,História,0
+1911,AT,Austria,27,Terror,0
+1911,AT,Austria,10402,Música,0
+1911,AT,Austria,9648,Mistério,0
+1911,AT,Austria,10749,Romance,0
+1911,AT,Austria,878,Ficção científica,0
+1911,AT,Austria,10770,Cinema TV,0
+1911,AT,Austria,53,Thriller,0
+1911,AT,Austria,10752,Guerra,0
+1911,AT,Austria,37,Faroeste,0
+1911,AU,Australia,28,Ação,0
+1911,AU,Australia,12,Aventura,1
+1911,AU,Australia,16,Animação,0
+1911,AU,Australia,35,Comédia,1
+1911,AU,Australia,80,Crime,0
+1911,AU,Australia,99,Documentário,0
+1911,AU,Australia,18,Drama,8
+1911,AU,Australia,10751,Família,0
+1911,AU,Australia,14,Fantasia,0
+1911,AU,Australia,36,História,2
+1911,AU,Australia,27,Terror,0
+1911,AU,Australia,10402,Música,0
+1911,AU,Australia,9648,Mistério,0
+1911,AU,Australia,10749,Romance,1
+1911,AU,Australia,878,Ficção científica,0
+1911,AU,Australia,10770,Cinema TV,0
+1911,AU,Australia,53,Thriller,1
+1911,AU,Australia,10752,Guerra,0
+1911,AU,Australia,37,Faroeste,2
+1911,BR,Brazil,28,Ação,0
+1911,BR,Brazil,12,Aventura,0
+1911,BR,Brazil,16,Animação,0
+1911,BR,Brazil,35,Comédia,0
+1911,BR,Brazil,80,Crime,0
+1911,BR,Brazil,99,Documentário,1
+1911,BR,Brazil,18,Drama,0
+1911,BR,Brazil,10751,Família,0
+1911,BR,Brazil,14,Fantasia,0
+1911,BR,Brazil,36,História,0
+1911,BR,Brazil,27,Terror,0
+1911,BR,Brazil,10402,Música,0
+1911,BR,Brazil,9648,Mistério,0
+1911,BR,Brazil,10749,Romance,0
+1911,BR,Brazil,878,Ficção científica,0
+1911,BR,Brazil,10770,Cinema TV,0
+1911,BR,Brazil,53,Thriller,0
+1911,BR,Brazil,10752,Guerra,0
+1911,BR,Brazil,37,Faroeste,0
+1911,CA,Canada,28,Ação,0
+1911,CA,Canada,12,Aventura,0
+1911,CA,Canada,16,Animação,0
+1911,CA,Canada,35,Comédia,0
+1911,CA,Canada,80,Crime,0
+1911,CA,Canada,99,Documentário,0
+1911,CA,Canada,18,Drama,0
+1911,CA,Canada,10751,Família,0
+1911,CA,Canada,14,Fantasia,0
+1911,CA,Canada,36,História,0
+1911,CA,Canada,27,Terror,1
+1911,CA,Canada,10402,Música,0
+1911,CA,Canada,9648,Mistério,0
+1911,CA,Canada,10749,Romance,0
+1911,CA,Canada,878,Ficção científica,0
+1911,CA,Canada,10770,Cinema TV,0
+1911,CA,Canada,53,Thriller,0
+1911,CA,Canada,10752,Guerra,0
+1911,CA,Canada,37,Faroeste,0
+1911,CL,Chile,28,Ação,0
+1911,CL,Chile,12,Aventura,0
+1911,CL,Chile,16,Animação,0
+1911,CL,Chile,35,Comédia,0
+1911,CL,Chile,80,Crime,0
+1911,CL,Chile,99,Documentário,3
+1911,CL,Chile,18,Drama,0
+1911,CL,Chile,10751,Família,0
+1911,CL,Chile,14,Fantasia,0
+1911,CL,Chile,36,História,0
+1911,CL,Chile,27,Terror,0
+1911,CL,Chile,10402,Música,0
+1911,CL,Chile,9648,Mistério,0
+1911,CL,Chile,10749,Romance,0
+1911,CL,Chile,878,Ficção científica,0
+1911,CL,Chile,10770,Cinema TV,0
+1911,CL,Chile,53,Thriller,0
+1911,CL,Chile,10752,Guerra,0
+1911,CL,Chile,37,Faroeste,0
+1911,CN,China,28,Ação,0
+1911,CN,China,12,Aventura,0
+1911,CN,China,16,Animação,0
+1911,CN,China,35,Comédia,0
+1911,CN,China,80,Crime,0
+1911,CN,China,99,Documentário,0
+1911,CN,China,18,Drama,0
+1911,CN,China,10751,Família,0
+1911,CN,China,14,Fantasia,0
+1911,CN,China,36,História,0
+1911,CN,China,27,Terror,0
+1911,CN,China,10402,Música,0
+1911,CN,China,9648,Mistério,0
+1911,CN,China,10749,Romance,0
+1911,CN,China,878,Ficção científica,0
+1911,CN,China,10770,Cinema TV,0
+1911,CN,China,53,Thriller,0
+1911,CN,China,10752,Guerra,0
+1911,CN,China,37,Faroeste,0
+1911,DE,Germany,28,Ação,1
+1911,DE,Germany,12,Aventura,0
+1911,DE,Germany,16,Animação,0
+1911,DE,Germany,35,Comédia,1
+1911,DE,Germany,80,Crime,0
+1911,DE,Germany,99,Documentário,10
+1911,DE,Germany,18,Drama,10
+1911,DE,Germany,10751,Família,0
+1911,DE,Germany,14,Fantasia,0
+1911,DE,Germany,36,História,0
+1911,DE,Germany,27,Terror,0
+1911,DE,Germany,10402,Música,0
+1911,DE,Germany,9648,Mistério,2
+1911,DE,Germany,10749,Romance,1
+1911,DE,Germany,878,Ficção científica,0
+1911,DE,Germany,10770,Cinema TV,0
+1911,DE,Germany,53,Thriller,0
+1911,DE,Germany,10752,Guerra,1
+1911,DE,Germany,37,Faroeste,0
+1911,DK,Denmark,28,Ação,0
+1911,DK,Denmark,12,Aventura,0
+1911,DK,Denmark,16,Animação,0
+1911,DK,Denmark,35,Comédia,3
+1911,DK,Denmark,80,Crime,5
+1911,DK,Denmark,99,Documentário,1
+1911,DK,Denmark,18,Drama,20
+1911,DK,Denmark,10751,Família,0
+1911,DK,Denmark,14,Fantasia,0
+1911,DK,Denmark,36,História,0
+1911,DK,Denmark,27,Terror,0
+1911,DK,Denmark,10402,Música,0
+1911,DK,Denmark,9648,Mistério,2
+1911,DK,Denmark,10749,Romance,5
+1911,DK,Denmark,878,Ficção científica,0
+1911,DK,Denmark,10770,Cinema TV,0
+1911,DK,Denmark,53,Thriller,3
+1911,DK,Denmark,10752,Guerra,0
+1911,DK,Denmark,37,Faroeste,0
+1911,ES,Spain,28,Ação,0
+1911,ES,Spain,12,Aventura,0
+1911,ES,Spain,16,Animação,0
+1911,ES,Spain,35,Comédia,0
+1911,ES,Spain,80,Crime,0
+1911,ES,Spain,99,Documentário,6
+1911,ES,Spain,18,Drama,2
+1911,ES,Spain,10751,Família,0
+1911,ES,Spain,14,Fantasia,0
+1911,ES,Spain,36,História,0
+1911,ES,Spain,27,Terror,0
+1911,ES,Spain,10402,Música,0
+1911,ES,Spain,9648,Mistério,0
+1911,ES,Spain,10749,Romance,1
+1911,ES,Spain,878,Ficção científica,0
+1911,ES,Spain,10770,Cinema TV,0
+1911,ES,Spain,53,Thriller,0
+1911,ES,Spain,10752,Guerra,0
+1911,ES,Spain,37,Faroeste,0
+1911,FI,Finland,28,Ação,0
+1911,FI,Finland,12,Aventura,0
+1911,FI,Finland,16,Animação,0
+1911,FI,Finland,35,Comédia,0
+1911,FI,Finland,80,Crime,0
+1911,FI,Finland,99,Documentário,1
+1911,FI,Finland,18,Drama,0
+1911,FI,Finland,10751,Família,0
+1911,FI,Finland,14,Fantasia,0
+1911,FI,Finland,36,História,0
+1911,FI,Finland,27,Terror,0
+1911,FI,Finland,10402,Música,0
+1911,FI,Finland,9648,Mistério,0
+1911,FI,Finland,10749,Romance,0
+1911,FI,Finland,878,Ficção científica,0
+1911,FI,Finland,10770,Cinema TV,0
+1911,FI,Finland,53,Thriller,0
+1911,FI,Finland,10752,Guerra,0
+1911,FI,Finland,37,Faroeste,0
+1911,FR,France,28,Ação,1
+1911,FR,France,12,Aventura,0
+1911,FR,France,16,Animação,7
+1911,FR,France,35,Comédia,64
+1911,FR,France,80,Crime,4
+1911,FR,France,99,Documentário,14
+1911,FR,France,18,Drama,45
+1911,FR,France,10751,Família,1
+1911,FR,France,14,Fantasia,7
+1911,FR,France,36,História,7
+1911,FR,France,27,Terror,5
+1911,FR,France,10402,Música,1
+1911,FR,France,9648,Mistério,0
+1911,FR,France,10749,Romance,3
+1911,FR,France,878,Ficção científica,1
+1911,FR,France,10770,Cinema TV,0
+1911,FR,France,53,Thriller,2
+1911,FR,France,10752,Guerra,0
+1911,FR,France,37,Faroeste,3
+1911,GB,United Kingdom,28,Ação,1
+1911,GB,United Kingdom,12,Aventura,2
+1911,GB,United Kingdom,16,Animação,1
+1911,GB,United Kingdom,35,Comédia,7
+1911,GB,United Kingdom,80,Crime,1
+1911,GB,United Kingdom,99,Documentário,13
+1911,GB,United Kingdom,18,Drama,9
+1911,GB,United Kingdom,10751,Família,0
+1911,GB,United Kingdom,14,Fantasia,1
+1911,GB,United Kingdom,36,História,2
+1911,GB,United Kingdom,27,Terror,1
+1911,GB,United Kingdom,10402,Música,2
+1911,GB,United Kingdom,9648,Mistério,0
+1911,GB,United Kingdom,10749,Romance,0
+1911,GB,United Kingdom,878,Ficção científica,3
+1911,GB,United Kingdom,10770,Cinema TV,0
+1911,GB,United Kingdom,53,Thriller,0
+1911,GB,United Kingdom,10752,Guerra,0
+1911,GB,United Kingdom,37,Faroeste,0
+1911,GE,Georgia,28,Ação,0
+1911,GE,Georgia,12,Aventura,0
+1911,GE,Georgia,16,Animação,0
+1911,GE,Georgia,35,Comédia,0
+1911,GE,Georgia,80,Crime,0
+1911,GE,Georgia,99,Documentário,0
+1911,GE,Georgia,18,Drama,0
+1911,GE,Georgia,10751,Família,0
+1911,GE,Georgia,14,Fantasia,0
+1911,GE,Georgia,36,História,0
+1911,GE,Georgia,27,Terror,0
+1911,GE,Georgia,10402,Música,0
+1911,GE,Georgia,9648,Mistério,0
+1911,GE,Georgia,10749,Romance,0
+1911,GE,Georgia,878,Ficção científica,0
+1911,GE,Georgia,10770,Cinema TV,0
+1911,GE,Georgia,53,Thriller,0
+1911,GE,Georgia,10752,Guerra,0
+1911,GE,Georgia,37,Faroeste,0
+1911,GR,Greece,28,Ação,0
+1911,GR,Greece,12,Aventura,0
+1911,GR,Greece,16,Animação,0
+1911,GR,Greece,35,Comédia,2
+1911,GR,Greece,80,Crime,0
+1911,GR,Greece,99,Documentário,0
+1911,GR,Greece,18,Drama,0
+1911,GR,Greece,10751,Família,0
+1911,GR,Greece,14,Fantasia,0
+1911,GR,Greece,36,História,0
+1911,GR,Greece,27,Terror,0
+1911,GR,Greece,10402,Música,0
+1911,GR,Greece,9648,Mistério,0
+1911,GR,Greece,10749,Romance,0
+1911,GR,Greece,878,Ficção científica,0
+1911,GR,Greece,10770,Cinema TV,0
+1911,GR,Greece,53,Thriller,0
+1911,GR,Greece,10752,Guerra,0
+1911,GR,Greece,37,Faroeste,0
+1911,GY,Guyana,28,Ação,0
+1911,GY,Guyana,12,Aventura,0
+1911,GY,Guyana,16,Animação,0
+1911,GY,Guyana,35,Comédia,0
+1911,GY,Guyana,80,Crime,0
+1911,GY,Guyana,99,Documentário,1
+1911,GY,Guyana,18,Drama,0
+1911,GY,Guyana,10751,Família,0
+1911,GY,Guyana,14,Fantasia,0
+1911,GY,Guyana,36,História,0
+1911,GY,Guyana,27,Terror,0
+1911,GY,Guyana,10402,Música,0
+1911,GY,Guyana,9648,Mistério,0
+1911,GY,Guyana,10749,Romance,0
+1911,GY,Guyana,878,Ficção científica,0
+1911,GY,Guyana,10770,Cinema TV,0
+1911,GY,Guyana,53,Thriller,0
+1911,GY,Guyana,10752,Guerra,0
+1911,GY,Guyana,37,Faroeste,0
+1911,HU,Hungary,28,Ação,0
+1911,HU,Hungary,12,Aventura,0
+1911,HU,Hungary,16,Animação,0
+1911,HU,Hungary,35,Comédia,1
+1911,HU,Hungary,80,Crime,0
+1911,HU,Hungary,99,Documentário,1
+1911,HU,Hungary,18,Drama,0
+1911,HU,Hungary,10751,Família,0
+1911,HU,Hungary,14,Fantasia,0
+1911,HU,Hungary,36,História,0
+1911,HU,Hungary,27,Terror,0
+1911,HU,Hungary,10402,Música,0
+1911,HU,Hungary,9648,Mistério,0
+1911,HU,Hungary,10749,Romance,0
+1911,HU,Hungary,878,Ficção científica,0
+1911,HU,Hungary,10770,Cinema TV,0
+1911,HU,Hungary,53,Thriller,0
+1911,HU,Hungary,10752,Guerra,0
+1911,HU,Hungary,37,Faroeste,0
+1911,IN,India,28,Ação,0
+1911,IN,India,12,Aventura,0
+1911,IN,India,16,Animação,0
+1911,IN,India,35,Comédia,0
+1911,IN,India,80,Crime,0
+1911,IN,India,99,Documentário,3
+1911,IN,India,18,Drama,0
+1911,IN,India,10751,Família,0
+1911,IN,India,14,Fantasia,0
+1911,IN,India,36,História,0
+1911,IN,India,27,Terror,0
+1911,IN,India,10402,Música,0
+1911,IN,India,9648,Mistério,0
+1911,IN,India,10749,Romance,0
+1911,IN,India,878,Ficção científica,0
+1911,IN,India,10770,Cinema TV,0
+1911,IN,India,53,Thriller,0
+1911,IN,India,10752,Guerra,0
+1911,IN,India,37,Faroeste,0
+1911,IT,Italy,28,Ação,0
+1911,IT,Italy,12,Aventura,2
+1911,IT,Italy,16,Animação,0
+1911,IT,Italy,35,Comédia,13
+1911,IT,Italy,80,Crime,0
+1911,IT,Italy,99,Documentário,11
+1911,IT,Italy,18,Drama,17
+1911,IT,Italy,10751,Família,0
+1911,IT,Italy,14,Fantasia,5
+1911,IT,Italy,36,História,6
+1911,IT,Italy,27,Terror,3
+1911,IT,Italy,10402,Música,0
+1911,IT,Italy,9648,Mistério,0
+1911,IT,Italy,10749,Romance,2
+1911,IT,Italy,878,Ficção científica,0
+1911,IT,Italy,10770,Cinema TV,0
+1911,IT,Italy,53,Thriller,0
+1911,IT,Italy,10752,Guerra,3
+1911,IT,Italy,37,Faroeste,0
+1911,JP,Japan,28,Ação,0
+1911,JP,Japan,12,Aventura,0
+1911,JP,Japan,16,Animação,0
+1911,JP,Japan,35,Comédia,0
+1911,JP,Japan,80,Crime,0
+1911,JP,Japan,99,Documentário,0
+1911,JP,Japan,18,Drama,2
+1911,JP,Japan,10751,Família,0
+1911,JP,Japan,14,Fantasia,0
+1911,JP,Japan,36,História,0
+1911,JP,Japan,27,Terror,17
+1911,JP,Japan,10402,Música,0
+1911,JP,Japan,9648,Mistério,0
+1911,JP,Japan,10749,Romance,0
+1911,JP,Japan,878,Ficção científica,0
+1911,JP,Japan,10770,Cinema TV,0
+1911,JP,Japan,53,Thriller,0
+1911,JP,Japan,10752,Guerra,0
+1911,JP,Japan,37,Faroeste,0
+1911,LU,Luxembourg,28,Ação,0
+1911,LU,Luxembourg,12,Aventura,0
+1911,LU,Luxembourg,16,Animação,0
+1911,LU,Luxembourg,35,Comédia,0
+1911,LU,Luxembourg,80,Crime,0
+1911,LU,Luxembourg,99,Documentário,1
+1911,LU,Luxembourg,18,Drama,0
+1911,LU,Luxembourg,10751,Família,0
+1911,LU,Luxembourg,14,Fantasia,0
+1911,LU,Luxembourg,36,História,0
+1911,LU,Luxembourg,27,Terror,0
+1911,LU,Luxembourg,10402,Música,0
+1911,LU,Luxembourg,9648,Mistério,0
+1911,LU,Luxembourg,10749,Romance,0
+1911,LU,Luxembourg,878,Ficção científica,0
+1911,LU,Luxembourg,10770,Cinema TV,0
+1911,LU,Luxembourg,53,Thriller,0
+1911,LU,Luxembourg,10752,Guerra,0
+1911,LU,Luxembourg,37,Faroeste,0
+1911,LY,Libyan Arab Jamahiriya,28,Ação,0
+1911,LY,Libyan Arab Jamahiriya,12,Aventura,0
+1911,LY,Libyan Arab Jamahiriya,16,Animação,0
+1911,LY,Libyan Arab Jamahiriya,35,Comédia,0
+1911,LY,Libyan Arab Jamahiriya,80,Crime,0
+1911,LY,Libyan Arab Jamahiriya,99,Documentário,0
+1911,LY,Libyan Arab Jamahiriya,18,Drama,0
+1911,LY,Libyan Arab Jamahiriya,10751,Família,0
+1911,LY,Libyan Arab Jamahiriya,14,Fantasia,0
+1911,LY,Libyan Arab Jamahiriya,36,História,0
+1911,LY,Libyan Arab Jamahiriya,27,Terror,0
+1911,LY,Libyan Arab Jamahiriya,10402,Música,0
+1911,LY,Libyan Arab Jamahiriya,9648,Mistério,0
+1911,LY,Libyan Arab Jamahiriya,10749,Romance,0
+1911,LY,Libyan Arab Jamahiriya,878,Ficção científica,0
+1911,LY,Libyan Arab Jamahiriya,10770,Cinema TV,0
+1911,LY,Libyan Arab Jamahiriya,53,Thriller,0
+1911,LY,Libyan Arab Jamahiriya,10752,Guerra,0
+1911,LY,Libyan Arab Jamahiriya,37,Faroeste,0
+1911,MK,Macedonia,28,Ação,0
+1911,MK,Macedonia,12,Aventura,0
+1911,MK,Macedonia,16,Animação,0
+1911,MK,Macedonia,35,Comédia,0
+1911,MK,Macedonia,80,Crime,0
+1911,MK,Macedonia,99,Documentário,3
+1911,MK,Macedonia,18,Drama,0
+1911,MK,Macedonia,10751,Família,0
+1911,MK,Macedonia,14,Fantasia,0
+1911,MK,Macedonia,36,História,0
+1911,MK,Macedonia,27,Terror,0
+1911,MK,Macedonia,10402,Música,0
+1911,MK,Macedonia,9648,Mistério,0
+1911,MK,Macedonia,10749,Romance,0
+1911,MK,Macedonia,878,Ficção científica,0
+1911,MK,Macedonia,10770,Cinema TV,0
+1911,MK,Macedonia,53,Thriller,0
+1911,MK,Macedonia,10752,Guerra,0
+1911,MK,Macedonia,37,Faroeste,0
+1911,MX,Mexico,28,Ação,0
+1911,MX,Mexico,12,Aventura,0
+1911,MX,Mexico,16,Animação,0
+1911,MX,Mexico,35,Comédia,0
+1911,MX,Mexico,80,Crime,0
+1911,MX,Mexico,99,Documentário,0
+1911,MX,Mexico,18,Drama,0
+1911,MX,Mexico,10751,Família,0
+1911,MX,Mexico,14,Fantasia,0
+1911,MX,Mexico,36,História,0
+1911,MX,Mexico,27,Terror,0
+1911,MX,Mexico,10402,Música,0
+1911,MX,Mexico,9648,Mistério,0
+1911,MX,Mexico,10749,Romance,0
+1911,MX,Mexico,878,Ficção científica,0
+1911,MX,Mexico,10770,Cinema TV,0
+1911,MX,Mexico,53,Thriller,0
+1911,MX,Mexico,10752,Guerra,0
+1911,MX,Mexico,37,Faroeste,0
+1911,NL,Netherlands,28,Ação,0
+1911,NL,Netherlands,12,Aventura,0
+1911,NL,Netherlands,16,Animação,0
+1911,NL,Netherlands,35,Comédia,0
+1911,NL,Netherlands,80,Crime,0
+1911,NL,Netherlands,99,Documentário,1
+1911,NL,Netherlands,18,Drama,2
+1911,NL,Netherlands,10751,Família,0
+1911,NL,Netherlands,14,Fantasia,0
+1911,NL,Netherlands,36,História,0
+1911,NL,Netherlands,27,Terror,0
+1911,NL,Netherlands,10402,Música,0
+1911,NL,Netherlands,9648,Mistério,0
+1911,NL,Netherlands,10749,Romance,0
+1911,NL,Netherlands,878,Ficção científica,0
+1911,NL,Netherlands,10770,Cinema TV,0
+1911,NL,Netherlands,53,Thriller,0
+1911,NL,Netherlands,10752,Guerra,0
+1911,NL,Netherlands,37,Faroeste,0
+1911,NO,Norway,28,Ação,0
+1911,NO,Norway,12,Aventura,0
+1911,NO,Norway,16,Animação,0
+1911,NO,Norway,35,Comédia,1
+1911,NO,Norway,80,Crime,0
+1911,NO,Norway,99,Documentário,0
+1911,NO,Norway,18,Drama,3
+1911,NO,Norway,10751,Família,0
+1911,NO,Norway,14,Fantasia,0
+1911,NO,Norway,36,História,0
+1911,NO,Norway,27,Terror,0
+1911,NO,Norway,10402,Música,0
+1911,NO,Norway,9648,Mistério,0
+1911,NO,Norway,10749,Romance,1
+1911,NO,Norway,878,Ficção científica,0
+1911,NO,Norway,10770,Cinema TV,0
+1911,NO,Norway,53,Thriller,0
+1911,NO,Norway,10752,Guerra,0
+1911,NO,Norway,37,Faroeste,0
+1911,PE,Peru,28,Ação,0
+1911,PE,Peru,12,Aventura,0
+1911,PE,Peru,16,Animação,0
+1911,PE,Peru,35,Comédia,0
+1911,PE,Peru,80,Crime,0
+1911,PE,Peru,99,Documentário,25
+1911,PE,Peru,18,Drama,0
+1911,PE,Peru,10751,Família,0
+1911,PE,Peru,14,Fantasia,0
+1911,PE,Peru,36,História,0
+1911,PE,Peru,27,Terror,0
+1911,PE,Peru,10402,Música,0
+1911,PE,Peru,9648,Mistério,0
+1911,PE,Peru,10749,Romance,0
+1911,PE,Peru,878,Ficção científica,0
+1911,PE,Peru,10770,Cinema TV,0
+1911,PE,Peru,53,Thriller,0
+1911,PE,Peru,10752,Guerra,0
+1911,PE,Peru,37,Faroeste,0
+1911,PH,Philippines,28,Ação,0
+1911,PH,Philippines,12,Aventura,0
+1911,PH,Philippines,16,Animação,0
+1911,PH,Philippines,35,Comédia,0
+1911,PH,Philippines,80,Crime,0
+1911,PH,Philippines,99,Documentário,2
+1911,PH,Philippines,18,Drama,0
+1911,PH,Philippines,10751,Família,0
+1911,PH,Philippines,14,Fantasia,0
+1911,PH,Philippines,36,História,0
+1911,PH,Philippines,27,Terror,0
+1911,PH,Philippines,10402,Música,0
+1911,PH,Philippines,9648,Mistério,0
+1911,PH,Philippines,10749,Romance,0
+1911,PH,Philippines,878,Ficção científica,0
+1911,PH,Philippines,10770,Cinema TV,0
+1911,PH,Philippines,53,Thriller,0
+1911,PH,Philippines,10752,Guerra,0
+1911,PH,Philippines,37,Faroeste,0
+1911,PL,Poland,28,Ação,0
+1911,PL,Poland,12,Aventura,0
+1911,PL,Poland,16,Animação,0
+1911,PL,Poland,35,Comédia,2
+1911,PL,Poland,80,Crime,0
+1911,PL,Poland,99,Documentário,0
+1911,PL,Poland,18,Drama,7
+1911,PL,Poland,10751,Família,0
+1911,PL,Poland,14,Fantasia,0
+1911,PL,Poland,36,História,0
+1911,PL,Poland,27,Terror,0
+1911,PL,Poland,10402,Música,0
+1911,PL,Poland,9648,Mistério,0
+1911,PL,Poland,10749,Romance,1
+1911,PL,Poland,878,Ficção científica,0
+1911,PL,Poland,10770,Cinema TV,0
+1911,PL,Poland,53,Thriller,0
+1911,PL,Poland,10752,Guerra,0
+1911,PL,Poland,37,Faroeste,0
+1911,PT,Portugal,28,Ação,0
+1911,PT,Portugal,12,Aventura,0
+1911,PT,Portugal,16,Animação,0
+1911,PT,Portugal,35,Comédia,0
+1911,PT,Portugal,80,Crime,1
+1911,PT,Portugal,99,Documentário,0
+1911,PT,Portugal,18,Drama,1
+1911,PT,Portugal,10751,Família,0
+1911,PT,Portugal,14,Fantasia,0
+1911,PT,Portugal,36,História,0
+1911,PT,Portugal,27,Terror,0
+1911,PT,Portugal,10402,Música,0
+1911,PT,Portugal,9648,Mistério,0
+1911,PT,Portugal,10749,Romance,0
+1911,PT,Portugal,878,Ficção científica,0
+1911,PT,Portugal,10770,Cinema TV,0
+1911,PT,Portugal,53,Thriller,0
+1911,PT,Portugal,10752,Guerra,0
+1911,PT,Portugal,37,Faroeste,0
+1911,PY,Paraguay,28,Ação,0
+1911,PY,Paraguay,12,Aventura,0
+1911,PY,Paraguay,16,Animação,0
+1911,PY,Paraguay,35,Comédia,0
+1911,PY,Paraguay,80,Crime,0
+1911,PY,Paraguay,99,Documentário,1
+1911,PY,Paraguay,18,Drama,0
+1911,PY,Paraguay,10751,Família,0
+1911,PY,Paraguay,14,Fantasia,0
+1911,PY,Paraguay,36,História,0
+1911,PY,Paraguay,27,Terror,0
+1911,PY,Paraguay,10402,Música,0
+1911,PY,Paraguay,9648,Mistério,0
+1911,PY,Paraguay,10749,Romance,0
+1911,PY,Paraguay,878,Ficção científica,0
+1911,PY,Paraguay,10770,Cinema TV,0
+1911,PY,Paraguay,53,Thriller,0
+1911,PY,Paraguay,10752,Guerra,0
+1911,PY,Paraguay,37,Faroeste,0
+1911,RS,Serbia,28,Ação,0
+1911,RS,Serbia,12,Aventura,0
+1911,RS,Serbia,16,Animação,0
+1911,RS,Serbia,35,Comédia,0
+1911,RS,Serbia,80,Crime,0
+1911,RS,Serbia,99,Documentário,2
+1911,RS,Serbia,18,Drama,1
+1911,RS,Serbia,10751,Família,0
+1911,RS,Serbia,14,Fantasia,0
+1911,RS,Serbia,36,História,1
+1911,RS,Serbia,27,Terror,0
+1911,RS,Serbia,10402,Música,0
+1911,RS,Serbia,9648,Mistério,0
+1911,RS,Serbia,10749,Romance,0
+1911,RS,Serbia,878,Ficção científica,0
+1911,RS,Serbia,10770,Cinema TV,0
+1911,RS,Serbia,53,Thriller,0
+1911,RS,Serbia,10752,Guerra,1
+1911,RS,Serbia,37,Faroeste,0
+1911,RU,Russia,28,Ação,0
+1911,RU,Russia,12,Aventura,0
+1911,RU,Russia,16,Animação,0
+1911,RU,Russia,35,Comédia,3
+1911,RU,Russia,80,Crime,0
+1911,RU,Russia,99,Documentário,0
+1911,RU,Russia,18,Drama,11
+1911,RU,Russia,10751,Família,0
+1911,RU,Russia,14,Fantasia,0
+1911,RU,Russia,36,História,3
+1911,RU,Russia,27,Terror,0
+1911,RU,Russia,10402,Música,0
+1911,RU,Russia,9648,Mistério,0
+1911,RU,Russia,10749,Romance,1
+1911,RU,Russia,878,Ficção científica,0
+1911,RU,Russia,10770,Cinema TV,0
+1911,RU,Russia,53,Thriller,0
+1911,RU,Russia,10752,Guerra,1
+1911,RU,Russia,37,Faroeste,0
+1911,SE,Sweden,28,Ação,0
+1911,SE,Sweden,12,Aventura,1
+1911,SE,Sweden,16,Animação,0
+1911,SE,Sweden,35,Comédia,3
+1911,SE,Sweden,80,Crime,0
+1911,SE,Sweden,99,Documentário,10
+1911,SE,Sweden,18,Drama,11
+1911,SE,Sweden,10751,Família,0
+1911,SE,Sweden,14,Fantasia,0
+1911,SE,Sweden,36,História,0
+1911,SE,Sweden,27,Terror,1
+1911,SE,Sweden,10402,Música,0
+1911,SE,Sweden,9648,Mistério,0
+1911,SE,Sweden,10749,Romance,0
+1911,SE,Sweden,878,Ficção científica,0
+1911,SE,Sweden,10770,Cinema TV,0
+1911,SE,Sweden,53,Thriller,2
+1911,SE,Sweden,10752,Guerra,0
+1911,SE,Sweden,37,Faroeste,0
+1911,TN,Tunisia,28,Ação,0
+1911,TN,Tunisia,12,Aventura,0
+1911,TN,Tunisia,16,Animação,0
+1911,TN,Tunisia,35,Comédia,0
+1911,TN,Tunisia,80,Crime,0
+1911,TN,Tunisia,99,Documentário,0
+1911,TN,Tunisia,18,Drama,0
+1911,TN,Tunisia,10751,Família,0
+1911,TN,Tunisia,14,Fantasia,0
+1911,TN,Tunisia,36,História,0
+1911,TN,Tunisia,27,Terror,0
+1911,TN,Tunisia,10402,Música,0
+1911,TN,Tunisia,9648,Mistério,0
+1911,TN,Tunisia,10749,Romance,0
+1911,TN,Tunisia,878,Ficção científica,0
+1911,TN,Tunisia,10770,Cinema TV,0
+1911,TN,Tunisia,53,Thriller,0
+1911,TN,Tunisia,10752,Guerra,0
+1911,TN,Tunisia,37,Faroeste,0
+1911,TR,Turkey,28,Ação,0
+1911,TR,Turkey,12,Aventura,0
+1911,TR,Turkey,16,Animação,0
+1911,TR,Turkey,35,Comédia,0
+1911,TR,Turkey,80,Crime,0
+1911,TR,Turkey,99,Documentário,1
+1911,TR,Turkey,18,Drama,0
+1911,TR,Turkey,10751,Família,0
+1911,TR,Turkey,14,Fantasia,0
+1911,TR,Turkey,36,História,0
+1911,TR,Turkey,27,Terror,0
+1911,TR,Turkey,10402,Música,0
+1911,TR,Turkey,9648,Mistério,0
+1911,TR,Turkey,10749,Romance,0
+1911,TR,Turkey,878,Ficção científica,0
+1911,TR,Turkey,10770,Cinema TV,0
+1911,TR,Turkey,53,Thriller,0
+1911,TR,Turkey,10752,Guerra,0
+1911,TR,Turkey,37,Faroeste,0
+1911,UA,Ukraine,28,Ação,0
+1911,UA,Ukraine,12,Aventura,0
+1911,UA,Ukraine,16,Animação,0
+1911,UA,Ukraine,35,Comédia,0
+1911,UA,Ukraine,80,Crime,0
+1911,UA,Ukraine,99,Documentário,1
+1911,UA,Ukraine,18,Drama,0
+1911,UA,Ukraine,10751,Família,0
+1911,UA,Ukraine,14,Fantasia,0
+1911,UA,Ukraine,36,História,0
+1911,UA,Ukraine,27,Terror,0
+1911,UA,Ukraine,10402,Música,0
+1911,UA,Ukraine,9648,Mistério,0
+1911,UA,Ukraine,10749,Romance,0
+1911,UA,Ukraine,878,Ficção científica,0
+1911,UA,Ukraine,10770,Cinema TV,0
+1911,UA,Ukraine,53,Thriller,0
+1911,UA,Ukraine,10752,Guerra,0
+1911,UA,Ukraine,37,Faroeste,0
+1911,US,United States of America,28,Ação,4
+1911,US,United States of America,12,Aventura,14
+1911,US,United States of America,16,Animação,2
+1911,US,United States of America,35,Comédia,134
+1911,US,United States of America,80,Crime,11
+1911,US,United States of America,99,Documentário,19
+1911,US,United States of America,18,Drama,237
+1911,US,United States of America,10751,Família,5
+1911,US,United States of America,14,Fantasia,7
+1911,US,United States of America,36,História,11
+1911,US,United States of America,27,Terror,2
+1911,US,United States of America,10402,Música,3
+1911,US,United States of America,9648,Mistério,3
+1911,US,United States of America,10749,Romance,69
+1911,US,United States of America,878,Ficção científica,5
+1911,US,United States of America,10770,Cinema TV,0
+1911,US,United States of America,53,Thriller,8
+1911,US,United States of America,10752,Guerra,8
+1911,US,United States of America,37,Faroeste,115
+1911,XC,Czechoslovakia,28,Ação,0
+1911,XC,Czechoslovakia,12,Aventura,0
+1911,XC,Czechoslovakia,16,Animação,0
+1911,XC,Czechoslovakia,35,Comédia,0
+1911,XC,Czechoslovakia,80,Crime,0
+1911,XC,Czechoslovakia,99,Documentário,1
+1911,XC,Czechoslovakia,18,Drama,0
+1911,XC,Czechoslovakia,10751,Família,0
+1911,XC,Czechoslovakia,14,Fantasia,0
+1911,XC,Czechoslovakia,36,História,0
+1911,XC,Czechoslovakia,27,Terror,0
+1911,XC,Czechoslovakia,10402,Música,0
+1911,XC,Czechoslovakia,9648,Mistério,0
+1911,XC,Czechoslovakia,10749,Romance,0
+1911,XC,Czechoslovakia,878,Ficção científica,0
+1911,XC,Czechoslovakia,10770,Cinema TV,0
+1911,XC,Czechoslovakia,53,Thriller,0
+1911,XC,Czechoslovakia,10752,Guerra,0
+1911,XC,Czechoslovakia,37,Faroeste,0
+1912,AR,Argentina,28,Ação,0
+1912,AR,Argentina,12,Aventura,0
+1912,AR,Argentina,16,Animação,0
+1912,AR,Argentina,35,Comédia,0
+1912,AR,Argentina,80,Crime,0
+1912,AR,Argentina,99,Documentário,0
+1912,AR,Argentina,18,Drama,0
+1912,AR,Argentina,10751,Família,0
+1912,AR,Argentina,14,Fantasia,0
+1912,AR,Argentina,36,História,0
+1912,AR,Argentina,27,Terror,0
+1912,AR,Argentina,10402,Música,0
+1912,AR,Argentina,9648,Mistério,0
+1912,AR,Argentina,10749,Romance,0
+1912,AR,Argentina,878,Ficção científica,0
+1912,AR,Argentina,10770,Cinema TV,0
+1912,AR,Argentina,53,Thriller,0
+1912,AR,Argentina,10752,Guerra,0
+1912,AR,Argentina,37,Faroeste,0
+1912,AT,Austria,28,Ação,0
+1912,AT,Austria,12,Aventura,0
+1912,AT,Austria,16,Animação,0
+1912,AT,Austria,35,Comédia,0
+1912,AT,Austria,80,Crime,1
+1912,AT,Austria,99,Documentário,1
+1912,AT,Austria,18,Drama,3
+1912,AT,Austria,10751,Família,0
+1912,AT,Austria,14,Fantasia,0
+1912,AT,Austria,36,História,0
+1912,AT,Austria,27,Terror,1
+1912,AT,Austria,10402,Música,0
+1912,AT,Austria,9648,Mistério,0
+1912,AT,Austria,10749,Romance,0
+1912,AT,Austria,878,Ficção científica,0
+1912,AT,Austria,10770,Cinema TV,0
+1912,AT,Austria,53,Thriller,0
+1912,AT,Austria,10752,Guerra,0
+1912,AT,Austria,37,Faroeste,0
+1912,AU,Australia,28,Ação,0
+1912,AU,Australia,12,Aventura,0
+1912,AU,Australia,16,Animação,0
+1912,AU,Australia,35,Comédia,0
+1912,AU,Australia,80,Crime,0
+1912,AU,Australia,99,Documentário,0
+1912,AU,Australia,18,Drama,8
+1912,AU,Australia,10751,Família,0
+1912,AU,Australia,14,Fantasia,0
+1912,AU,Australia,36,História,0
+1912,AU,Australia,27,Terror,0
+1912,AU,Australia,10402,Música,0
+1912,AU,Australia,9648,Mistério,0
+1912,AU,Australia,10749,Romance,0
+1912,AU,Australia,878,Ficção científica,0
+1912,AU,Australia,10770,Cinema TV,0
+1912,AU,Australia,53,Thriller,6
+1912,AU,Australia,10752,Guerra,0
+1912,AU,Australia,37,Faroeste,0
+1912,BR,Brazil,28,Ação,0
+1912,BR,Brazil,12,Aventura,0
+1912,BR,Brazil,16,Animação,0
+1912,BR,Brazil,35,Comédia,0
+1912,BR,Brazil,80,Crime,0
+1912,BR,Brazil,99,Documentário,5
+1912,BR,Brazil,18,Drama,0
+1912,BR,Brazil,10751,Família,0
+1912,BR,Brazil,14,Fantasia,0
+1912,BR,Brazil,36,História,0
+1912,BR,Brazil,27,Terror,0
+1912,BR,Brazil,10402,Música,0
+1912,BR,Brazil,9648,Mistério,0
+1912,BR,Brazil,10749,Romance,0
+1912,BR,Brazil,878,Ficção científica,0
+1912,BR,Brazil,10770,Cinema TV,0
+1912,BR,Brazil,53,Thriller,0
+1912,BR,Brazil,10752,Guerra,0
+1912,BR,Brazil,37,Faroeste,0
+1912,CA,Canada,28,Ação,0
+1912,CA,Canada,12,Aventura,1
+1912,CA,Canada,16,Animação,0
+1912,CA,Canada,35,Comédia,0
+1912,CA,Canada,80,Crime,0
+1912,CA,Canada,99,Documentário,0
+1912,CA,Canada,18,Drama,1
+1912,CA,Canada,10751,Família,0
+1912,CA,Canada,14,Fantasia,0
+1912,CA,Canada,36,História,1
+1912,CA,Canada,27,Terror,0
+1912,CA,Canada,10402,Música,0
+1912,CA,Canada,9648,Mistério,0
+1912,CA,Canada,10749,Romance,0
+1912,CA,Canada,878,Ficção científica,0
+1912,CA,Canada,10770,Cinema TV,0
+1912,CA,Canada,53,Thriller,0
+1912,CA,Canada,10752,Guerra,0
+1912,CA,Canada,37,Faroeste,0
+1912,DE,Germany,28,Ação,1
+1912,DE,Germany,12,Aventura,0
+1912,DE,Germany,16,Animação,4
+1912,DE,Germany,35,Comédia,7
+1912,DE,Germany,80,Crime,0
+1912,DE,Germany,99,Documentário,6
+1912,DE,Germany,18,Drama,14
+1912,DE,Germany,10751,Família,0
+1912,DE,Germany,14,Fantasia,0
+1912,DE,Germany,36,História,1
+1912,DE,Germany,27,Terror,1
+1912,DE,Germany,10402,Música,0
+1912,DE,Germany,9648,Mistério,0
+1912,DE,Germany,10749,Romance,2
+1912,DE,Germany,878,Ficção científica,1
+1912,DE,Germany,10770,Cinema TV,0
+1912,DE,Germany,53,Thriller,0
+1912,DE,Germany,10752,Guerra,0
+1912,DE,Germany,37,Faroeste,0
+1912,DK,Denmark,28,Ação,0
+1912,DK,Denmark,12,Aventura,0
+1912,DK,Denmark,16,Animação,0
+1912,DK,Denmark,35,Comédia,8
+1912,DK,Denmark,80,Crime,3
+1912,DK,Denmark,99,Documentário,2
+1912,DK,Denmark,18,Drama,17
+1912,DK,Denmark,10751,Família,0
+1912,DK,Denmark,14,Fantasia,0
+1912,DK,Denmark,36,História,0
+1912,DK,Denmark,27,Terror,0
+1912,DK,Denmark,10402,Música,0
+1912,DK,Denmark,9648,Mistério,0
+1912,DK,Denmark,10749,Romance,1
+1912,DK,Denmark,878,Ficção científica,0
+1912,DK,Denmark,10770,Cinema TV,0
+1912,DK,Denmark,53,Thriller,1
+1912,DK,Denmark,10752,Guerra,0
+1912,DK,Denmark,37,Faroeste,0
+1912,EE,Estonia,28,Ação,0
+1912,EE,Estonia,12,Aventura,0
+1912,EE,Estonia,16,Animação,0
+1912,EE,Estonia,35,Comédia,0
+1912,EE,Estonia,80,Crime,0
+1912,EE,Estonia,99,Documentário,2
+1912,EE,Estonia,18,Drama,0
+1912,EE,Estonia,10751,Família,0
+1912,EE,Estonia,14,Fantasia,0
+1912,EE,Estonia,36,História,0
+1912,EE,Estonia,27,Terror,0
+1912,EE,Estonia,10402,Música,0
+1912,EE,Estonia,9648,Mistério,0
+1912,EE,Estonia,10749,Romance,0
+1912,EE,Estonia,878,Ficção científica,0
+1912,EE,Estonia,10770,Cinema TV,0
+1912,EE,Estonia,53,Thriller,0
+1912,EE,Estonia,10752,Guerra,0
+1912,EE,Estonia,37,Faroeste,0
+1912,ES,Spain,28,Ação,0
+1912,ES,Spain,12,Aventura,1
+1912,ES,Spain,16,Animação,1
+1912,ES,Spain,35,Comédia,0
+1912,ES,Spain,80,Crime,0
+1912,ES,Spain,99,Documentário,11
+1912,ES,Spain,18,Drama,5
+1912,ES,Spain,10751,Família,0
+1912,ES,Spain,14,Fantasia,6
+1912,ES,Spain,36,História,1
+1912,ES,Spain,27,Terror,1
+1912,ES,Spain,10402,Música,0
+1912,ES,Spain,9648,Mistério,0
+1912,ES,Spain,10749,Romance,0
+1912,ES,Spain,878,Ficção científica,0
+1912,ES,Spain,10770,Cinema TV,0
+1912,ES,Spain,53,Thriller,0
+1912,ES,Spain,10752,Guerra,0
+1912,ES,Spain,37,Faroeste,0
+1912,FI,Finland,28,Ação,0
+1912,FI,Finland,12,Aventura,0
+1912,FI,Finland,16,Animação,0
+1912,FI,Finland,35,Comédia,1
+1912,FI,Finland,80,Crime,0
+1912,FI,Finland,99,Documentário,0
+1912,FI,Finland,18,Drama,0
+1912,FI,Finland,10751,Família,0
+1912,FI,Finland,14,Fantasia,0
+1912,FI,Finland,36,História,0
+1912,FI,Finland,27,Terror,0
+1912,FI,Finland,10402,Música,0
+1912,FI,Finland,9648,Mistério,0
+1912,FI,Finland,10749,Romance,0
+1912,FI,Finland,878,Ficção científica,0
+1912,FI,Finland,10770,Cinema TV,0
+1912,FI,Finland,53,Thriller,0
+1912,FI,Finland,10752,Guerra,0
+1912,FI,Finland,37,Faroeste,0
+1912,FR,France,28,Ação,2
+1912,FR,France,12,Aventura,3
+1912,FR,France,16,Animação,5
+1912,FR,France,35,Comédia,76
+1912,FR,France,80,Crime,4
+1912,FR,France,99,Documentário,22
+1912,FR,France,18,Drama,42
+1912,FR,France,10751,Família,0
+1912,FR,France,14,Fantasia,6
+1912,FR,France,36,História,4
+1912,FR,France,27,Terror,2
+1912,FR,France,10402,Música,0
+1912,FR,France,9648,Mistério,2
+1912,FR,France,10749,Romance,10
+1912,FR,France,878,Ficção científica,3
+1912,FR,France,10770,Cinema TV,0
+1912,FR,France,53,Thriller,3
+1912,FR,France,10752,Guerra,0
+1912,FR,France,37,Faroeste,3
+1912,GB,United Kingdom,28,Ação,1
+1912,GB,United Kingdom,12,Aventura,4
+1912,GB,United Kingdom,16,Animação,2
+1912,GB,United Kingdom,35,Comédia,5
+1912,GB,United Kingdom,80,Crime,9
+1912,GB,United Kingdom,99,Documentário,12
+1912,GB,United Kingdom,18,Drama,19
+1912,GB,United Kingdom,10751,Família,0
+1912,GB,United Kingdom,14,Fantasia,1
+1912,GB,United Kingdom,36,História,0
+1912,GB,United Kingdom,27,Terror,0
+1912,GB,United Kingdom,10402,Música,0
+1912,GB,United Kingdom,9648,Mistério,0
+1912,GB,United Kingdom,10749,Romance,4
+1912,GB,United Kingdom,878,Ficção científica,0
+1912,GB,United Kingdom,10770,Cinema TV,0
+1912,GB,United Kingdom,53,Thriller,2
+1912,GB,United Kingdom,10752,Guerra,3
+1912,GB,United Kingdom,37,Faroeste,1
+1912,GE,Georgia,28,Ação,0
+1912,GE,Georgia,12,Aventura,0
+1912,GE,Georgia,16,Animação,0
+1912,GE,Georgia,35,Comédia,0
+1912,GE,Georgia,80,Crime,0
+1912,GE,Georgia,99,Documentário,1
+1912,GE,Georgia,18,Drama,0
+1912,GE,Georgia,10751,Família,0
+1912,GE,Georgia,14,Fantasia,0
+1912,GE,Georgia,36,História,0
+1912,GE,Georgia,27,Terror,0
+1912,GE,Georgia,10402,Música,0
+1912,GE,Georgia,9648,Mistério,0
+1912,GE,Georgia,10749,Romance,0
+1912,GE,Georgia,878,Ficção científica,0
+1912,GE,Georgia,10770,Cinema TV,0
+1912,GE,Georgia,53,Thriller,0
+1912,GE,Georgia,10752,Guerra,0
+1912,GE,Georgia,37,Faroeste,0
+1912,HU,Hungary,28,Ação,0
+1912,HU,Hungary,12,Aventura,0
+1912,HU,Hungary,16,Animação,0
+1912,HU,Hungary,35,Comédia,0
+1912,HU,Hungary,80,Crime,0
+1912,HU,Hungary,99,Documentário,1
+1912,HU,Hungary,18,Drama,5
+1912,HU,Hungary,10751,Família,0
+1912,HU,Hungary,14,Fantasia,0
+1912,HU,Hungary,36,História,0
+1912,HU,Hungary,27,Terror,1
+1912,HU,Hungary,10402,Música,0
+1912,HU,Hungary,9648,Mistério,0
+1912,HU,Hungary,10749,Romance,0
+1912,HU,Hungary,878,Ficção científica,0
+1912,HU,Hungary,10770,Cinema TV,0
+1912,HU,Hungary,53,Thriller,0
+1912,HU,Hungary,10752,Guerra,0
+1912,HU,Hungary,37,Faroeste,0
+1912,IE,Ireland,28,Ação,0
+1912,IE,Ireland,12,Aventura,0
+1912,IE,Ireland,16,Animação,0
+1912,IE,Ireland,35,Comédia,0
+1912,IE,Ireland,80,Crime,0
+1912,IE,Ireland,99,Documentário,0
+1912,IE,Ireland,18,Drama,1
+1912,IE,Ireland,10751,Família,0
+1912,IE,Ireland,14,Fantasia,0
+1912,IE,Ireland,36,História,0
+1912,IE,Ireland,27,Terror,0
+1912,IE,Ireland,10402,Música,0
+1912,IE,Ireland,9648,Mistério,0
+1912,IE,Ireland,10749,Romance,1
+1912,IE,Ireland,878,Ficção científica,0
+1912,IE,Ireland,10770,Cinema TV,0
+1912,IE,Ireland,53,Thriller,0
+1912,IE,Ireland,10752,Guerra,0
+1912,IE,Ireland,37,Faroeste,0
+1912,IN,India,28,Ação,0
+1912,IN,India,12,Aventura,0
+1912,IN,India,16,Animação,0
+1912,IN,India,35,Comédia,0
+1912,IN,India,80,Crime,0
+1912,IN,India,99,Documentário,5
+1912,IN,India,18,Drama,1
+1912,IN,India,10751,Família,0
+1912,IN,India,14,Fantasia,0
+1912,IN,India,36,História,0
+1912,IN,India,27,Terror,0
+1912,IN,India,10402,Música,0
+1912,IN,India,9648,Mistério,0
+1912,IN,India,10749,Romance,0
+1912,IN,India,878,Ficção científica,0
+1912,IN,India,10770,Cinema TV,0
+1912,IN,India,53,Thriller,0
+1912,IN,India,10752,Guerra,0
+1912,IN,India,37,Faroeste,0
+1912,IT,Italy,28,Ação,0
+1912,IT,Italy,12,Aventura,1
+1912,IT,Italy,16,Animação,0
+1912,IT,Italy,35,Comédia,12
+1912,IT,Italy,80,Crime,1
+1912,IT,Italy,99,Documentário,19
+1912,IT,Italy,18,Drama,14
+1912,IT,Italy,10751,Família,0
+1912,IT,Italy,14,Fantasia,2
+1912,IT,Italy,36,História,2
+1912,IT,Italy,27,Terror,4
+1912,IT,Italy,10402,Música,0
+1912,IT,Italy,9648,Mistério,0
+1912,IT,Italy,10749,Romance,3
+1912,IT,Italy,878,Ficção científica,0
+1912,IT,Italy,10770,Cinema TV,0
+1912,IT,Italy,53,Thriller,1
+1912,IT,Italy,10752,Guerra,0
+1912,IT,Italy,37,Faroeste,0
+1912,JP,Japan,28,Ação,0
+1912,JP,Japan,12,Aventura,1
+1912,JP,Japan,16,Animação,0
+1912,JP,Japan,35,Comédia,0
+1912,JP,Japan,80,Crime,0
+1912,JP,Japan,99,Documentário,1
+1912,JP,Japan,18,Drama,0
+1912,JP,Japan,10751,Família,0
+1912,JP,Japan,14,Fantasia,0
+1912,JP,Japan,36,História,0
+1912,JP,Japan,27,Terror,13
+1912,JP,Japan,10402,Música,0
+1912,JP,Japan,9648,Mistério,0
+1912,JP,Japan,10749,Romance,0
+1912,JP,Japan,878,Ficção científica,0
+1912,JP,Japan,10770,Cinema TV,0
+1912,JP,Japan,53,Thriller,0
+1912,JP,Japan,10752,Guerra,0
+1912,JP,Japan,37,Faroeste,0
+1912,LU,Luxembourg,28,Ação,0
+1912,LU,Luxembourg,12,Aventura,0
+1912,LU,Luxembourg,16,Animação,0
+1912,LU,Luxembourg,35,Comédia,0
+1912,LU,Luxembourg,80,Crime,0
+1912,LU,Luxembourg,99,Documentário,4
+1912,LU,Luxembourg,18,Drama,0
+1912,LU,Luxembourg,10751,Família,0
+1912,LU,Luxembourg,14,Fantasia,0
+1912,LU,Luxembourg,36,História,0
+1912,LU,Luxembourg,27,Terror,0
+1912,LU,Luxembourg,10402,Música,0
+1912,LU,Luxembourg,9648,Mistério,0
+1912,LU,Luxembourg,10749,Romance,0
+1912,LU,Luxembourg,878,Ficção científica,0
+1912,LU,Luxembourg,10770,Cinema TV,0
+1912,LU,Luxembourg,53,Thriller,0
+1912,LU,Luxembourg,10752,Guerra,0
+1912,LU,Luxembourg,37,Faroeste,0
+1912,MK,Macedonia,28,Ação,0
+1912,MK,Macedonia,12,Aventura,0
+1912,MK,Macedonia,16,Animação,0
+1912,MK,Macedonia,35,Comédia,0
+1912,MK,Macedonia,80,Crime,0
+1912,MK,Macedonia,99,Documentário,1
+1912,MK,Macedonia,18,Drama,0
+1912,MK,Macedonia,10751,Família,0
+1912,MK,Macedonia,14,Fantasia,0
+1912,MK,Macedonia,36,História,0
+1912,MK,Macedonia,27,Terror,0
+1912,MK,Macedonia,10402,Música,0
+1912,MK,Macedonia,9648,Mistério,0
+1912,MK,Macedonia,10749,Romance,0
+1912,MK,Macedonia,878,Ficção científica,0
+1912,MK,Macedonia,10770,Cinema TV,0
+1912,MK,Macedonia,53,Thriller,0
+1912,MK,Macedonia,10752,Guerra,0
+1912,MK,Macedonia,37,Faroeste,0
+1912,MX,Mexico,28,Ação,0
+1912,MX,Mexico,12,Aventura,0
+1912,MX,Mexico,16,Animação,0
+1912,MX,Mexico,35,Comédia,0
+1912,MX,Mexico,80,Crime,0
+1912,MX,Mexico,99,Documentário,0
+1912,MX,Mexico,18,Drama,0
+1912,MX,Mexico,10751,Família,0
+1912,MX,Mexico,14,Fantasia,0
+1912,MX,Mexico,36,História,0
+1912,MX,Mexico,27,Terror,0
+1912,MX,Mexico,10402,Música,0
+1912,MX,Mexico,9648,Mistério,0
+1912,MX,Mexico,10749,Romance,0
+1912,MX,Mexico,878,Ficção científica,0
+1912,MX,Mexico,10770,Cinema TV,0
+1912,MX,Mexico,53,Thriller,0
+1912,MX,Mexico,10752,Guerra,0
+1912,MX,Mexico,37,Faroeste,0
+1912,NL,Netherlands,28,Ação,0
+1912,NL,Netherlands,12,Aventura,1
+1912,NL,Netherlands,16,Animação,0
+1912,NL,Netherlands,35,Comédia,0
+1912,NL,Netherlands,80,Crime,0
+1912,NL,Netherlands,99,Documentário,1
+1912,NL,Netherlands,18,Drama,3
+1912,NL,Netherlands,10751,Família,0
+1912,NL,Netherlands,14,Fantasia,0
+1912,NL,Netherlands,36,História,0
+1912,NL,Netherlands,27,Terror,0
+1912,NL,Netherlands,10402,Música,0
+1912,NL,Netherlands,9648,Mistério,0
+1912,NL,Netherlands,10749,Romance,0
+1912,NL,Netherlands,878,Ficção científica,0
+1912,NL,Netherlands,10770,Cinema TV,0
+1912,NL,Netherlands,53,Thriller,1
+1912,NL,Netherlands,10752,Guerra,0
+1912,NL,Netherlands,37,Faroeste,1
+1912,NO,Norway,28,Ação,0
+1912,NO,Norway,12,Aventura,0
+1912,NO,Norway,16,Animação,0
+1912,NO,Norway,35,Comédia,0
+1912,NO,Norway,80,Crime,0
+1912,NO,Norway,99,Documentário,1
+1912,NO,Norway,18,Drama,1
+1912,NO,Norway,10751,Família,0
+1912,NO,Norway,14,Fantasia,0
+1912,NO,Norway,36,História,0
+1912,NO,Norway,27,Terror,0
+1912,NO,Norway,10402,Música,0
+1912,NO,Norway,9648,Mistério,0
+1912,NO,Norway,10749,Romance,1
+1912,NO,Norway,878,Ficção científica,0
+1912,NO,Norway,10770,Cinema TV,0
+1912,NO,Norway,53,Thriller,0
+1912,NO,Norway,10752,Guerra,0
+1912,NO,Norway,37,Faroeste,0
+1912,NZ,New Zealand,28,Ação,0
+1912,NZ,New Zealand,12,Aventura,0
+1912,NZ,New Zealand,16,Animação,0
+1912,NZ,New Zealand,35,Comédia,0
+1912,NZ,New Zealand,80,Crime,0
+1912,NZ,New Zealand,99,Documentário,1
+1912,NZ,New Zealand,18,Drama,0
+1912,NZ,New Zealand,10751,Família,0
+1912,NZ,New Zealand,14,Fantasia,0
