@@ -18,7 +18,7 @@ URL_BASE = 'https://api.themoviedb.org/3'
 ANO_INICIAL = 1900
 ANO_FINAL = 2026
 
-INTERVALO = 0.25
+INTERVALO = 0.05
 SALVAR_A_CADA = 50
 
 PASTA = Path('Dataset_Filmes/dados')
