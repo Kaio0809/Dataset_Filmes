@@ -1,0 +1,44 @@
+﻿ano,codigo_pais,pais,id_genero,genero,quantidade_filmes,quantidade_filmes_coletados,coleta_incompleta,nota_media,quantidade_com_nota,popularidade_total,orcamento_total,bilheteria_total,quantidade_com_orcamento,quantidade_com_bilheteria
+1900,AR,Argentina,28,Ação,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,12,Aventura,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,16,Animação,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,35,Comédia,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,80,Crime,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,99,Documentário,2,2,False,4.7,1,0.5751,0,0,0,0
+1900,AR,Argentina,18,Drama,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,10751,Família,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,14,Fantasia,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,36,História,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,27,Terror,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,10402,Música,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,9648,Mistério,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,10749,Romance,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,878,Ficção científica,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,10770,Cinema TV,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,53,Thriller,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,10752,Guerra,0,0,False,0,0,0.0,0,0,0,0
+1900,AR,Argentina,37,Faroeste,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,28,Ação,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,12,Aventura,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,16,Animação,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,35,Comédia,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,80,Crime,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,99,Documentário,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,18,Drama,1,1,False,3.0,1,0.144,0,0,0,0
+1900,AU,Australia,10751,Família,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,14,Fantasia,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,36,História,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,27,Terror,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,10402,Música,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,9648,Mistério,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,10749,Romance,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,878,Ficção científica,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,10770,Cinema TV,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,53,Thriller,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,10752,Guerra,0,0,False,0,0,0.0,0,0,0,0
+1900,AU,Australia,37,Faroeste,0,0,False,0,0,0.0,0,0,0,0
+1900,BR,Brazil,28,Ação,0,0,False,0,0,0.0,0,0,0,0
+1900,BR,Brazil,12,Aventura,0,0,False,0,0,0.0,0,0,0,0
+1900,BR,Brazil,16,Animação,0,0,False,0,0,0.0,0,0,0,0
+1900,BR,Brazil,35,Comédia,0,0,False,0,0,0.0,0,0,0,0
+1900,BR,Brazil,80,Crime,0,0,False,0,0,0.0,0,0,0,0
