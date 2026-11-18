@@ -292,10 +292,7 @@ def main():
         if chave in concluidos:
             continue
 
-        print(
-            f"[{indice}/{total}] "
-            f"{linha.ano} | {linha.pais} | {linha.genero}"
-        )
+        print(f"\rProcessando: {indice}/{total} - ({indice / total * 100:.1f}%)", end="", flush=True)
 
         try:
             quantidade_base = int(linha.quantidade_filmes or 0)
@@ -335,13 +332,6 @@ def main():
             )
 
             concluidos.add(chave)
-
-            print(
-                f"    Quantidade: {quantidade_api} | "
-                f"Coletados: {len(filmes)} | "
-                f"Nota média: {estatisticas['nota_media']} | "
-                f"Popularidade total: {estatisticas['popularidade_total']}"
-            )
 
             if incompleta:
                 print(

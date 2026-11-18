@@ -173,7 +173,7 @@ def coletar_base(paises):
                     salvar(registros, ARQUIVO_BASE)
                     registros.clear()
 
-                if processados % 500 == 0:
+                if processados % 1000 == 0:
                     print(
                         f'Etapa 1: {processados:,}/{total:,}'
                     )
@@ -246,7 +246,7 @@ def coletar_generos(generos):
                     salvar(registros, ARQUIVO_FINAL)
                     registros.clear()
 
-                if processados % 500 == 0:
+                if processados % 1000 == 0:
                     print(
                         f'Etapa 2: {processados:,}/{total:,}'
                     )
