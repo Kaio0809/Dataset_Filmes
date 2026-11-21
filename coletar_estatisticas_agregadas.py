@@ -14,7 +14,7 @@ load_dotenv()
 TMDB_TOKEN = os.getenv("TMDB_TOKEN")
 
 URL_BASE = "https://api.themoviedb.org/3"
-
+ 
 INTERVALO = 0.01
 MAX_PAGINAS = 500
 
