@@ -22,7 +22,7 @@ if not TOKEN:
 
 ANO_INICIAL = int(input('Digite o ano inicial: '))
 ANO_FINAL = int(input('Digite o ano final: '))
-FILMES_INICIAIS_POR_ANO = 100
+FILMES_INICIAIS_POR_ANO = int(input('Digite o número de filmes desse ano: '))
 MAX_PAGINAS_POR_GENERO = 20
 INTERVALO_REQUISICOES = 0.01
 SALVAR_A_CADA = 25
